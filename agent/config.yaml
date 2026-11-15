@@ -1,0 +1,140 @@
+# GigBid configuration. Models, budgets, thresholds and rules live here, never in code.
+# Select a profile with GIGBID_PROFILE (open | paid | rules). Default: open.
+
+marketplace:
+  mode: gigsim            # gigsim | upwork_live   (R1: one port, two adapters)
+  gigsim_mcp_url: ${MARKETPLACE_MCP_URL:-http://localhost:8201/mcp}
+  upwork_mcp_url: https://mcp.upwork.com/mcp
+  live_poll_minutes: 180  # conservative; justified in docs/RUNBOOK.md
+
+profiles:
+  open:                   # required profile: open-weight models via Groq (hosted open-model provider)
+    provider: groq
+    base_url: https://api.groq.com/openai/v1
+    api_key_env: GROQ_API_KEY
+    nodes:
+      analyst:    {model: openai/gpt-oss-20b, temperature: 0}
+      risk:       {model: openai/gpt-oss-20b, temperature: 0}
+      researcher: {model: openai/gpt-oss-20b, temperature: 0}
+      writer:     {model: openai/gpt-oss-120b, temperature: 0.4}
+      critic:     {model: openai/gpt-oss-120b, temperature: 0}
+      verifier:   {model: openai/gpt-oss-20b, temperature: 0}
+      liaison:    {model: openai/gpt-oss-120b, temperature: 0.3}
+      intent:     {model: openai/gpt-oss-20b, temperature: 0}
+    fallback_model: llama-3.1-8b-instant    # used when a cheap node's model fails
+    usd_per_mtok: {openai/gpt-oss-20b: [0.075, 0.30], openai/gpt-oss-120b: [0.15, 0.60], llama-3.1-8b-instant: [0.05, 0.08]}
+  open_alt:               # second open configuration compared on the dev set (docs/RESULTS.md)
+    provider: groq
+    base_url: https://api.groq.com/openai/v1
+    api_key_env: GROQ_API_KEY
+    nodes:
+      analyst:    {model: llama-3.1-8b-instant, temperature: 0}
+      risk:       {model: llama-3.1-8b-instant, temperature: 0}
+      researcher: {model: llama-3.1-8b-instant, temperature: 0}
+      writer:     {model: llama-3.3-70b-versatile, temperature: 0.4}
+      critic:     {model: llama-3.3-70b-versatile, temperature: 0}
+      verifier:   {model: llama-3.1-8b-instant, temperature: 0}
+      liaison:    {model: llama-3.3-70b-versatile, temperature: 0.3}
+      intent:     {model: llama-3.1-8b-instant, temperature: 0}
+    fallback_model: llama-3.1-8b-instant
+    usd_per_mtok: {llama-3.1-8b-instant: [0.05, 0.08], llama-3.3-70b-versatile: [0.59, 0.79]}
+  local:                  # Ollama on the laptop (docker compose service "ollama")
+    provider: ollama
+    base_url: ${OLLAMA_URL:-http://localhost:11434/v1}
+    api_key_env: OLLAMA_API_KEY
+    nodes:
+      analyst:    {model: qwen3:4b, temperature: 0}
+      risk:       {model: qwen3:4b, temperature: 0}
+      researcher: {model: qwen3:4b, temperature: 0}
+      writer:     {model: qwen3:8b, temperature: 0.4}
+      critic:     {model: qwen3:8b, temperature: 0}
+      verifier:   {model: qwen3:4b, temperature: 0}
+      liaison:    {model: qwen3:8b, temperature: 0.3}
+      intent:     {model: qwen3:4b, temperature: 0}
+    fallback_model: qwen3:4b
+    usd_per_mtok: {}
+  paid:                   # optional; only used where it beats "open" enough to justify cost
+    provider: openai_compatible
+    base_url: ${PAID_BASE_URL:-https://api.openai.com/v1}
+    api_key_env: PAID_API_KEY
+    nodes:
+      writer: {model: "${PAID_WRITER_MODEL:-gpt-5-mini}", temperature: 0.4}
+      critic: {model: "${PAID_WRITER_MODEL:-gpt-5-mini}", temperature: 0}
+    inherit: open
+    usd_per_mtok: {}
+  rules:                  # no LLM at all: deterministic node implementations (CI, tests, offline demo)
+    provider: none
+    nodes: {}
+
+embeddings:
+  model: BAAI/bge-small-en-v1.5     # open, CPU-friendly (fastembed)
+  fallback: hashed-tfidf           # used automatically if the model cannot be downloaded
+reranker:
+  model: BAAI/bge-reranker-base     # open cross-encoder (fastembed TextCrossEncoder)
+  fallback: lexical
+
+vector_store:
+  backend: ${VECTOR_BACKEND:-auto}  # pgvector | memory | auto (pgvector if DATABASE_URL has the extension)
+
+rag:
+  variant: v_best                   # chosen by evals/runners/rag_eval.py, see docs/RESULTS.md
+  best:                             # = rag_variants.json "chosen" (c_hyb_mv_rr_out_corr)
+    decompose: false
+    hybrid: true
+    multivector: true
+    rerank: true
+    outcome: true
+    corrective: true
+  k: 6
+  claim_support_threshold: 0.34
+  partial_support_threshold: 0.2
+
+decision:
+  bid_min_fit: 0.62
+  watch_min_fit: 0.4
+  max_risk_to_bid: 0.5
+  min_hourly_equivalent_ratio: 0.6   # budget must reach this fraction of floor * estimated hours
+  lowball_vs_market_p25: 0.4         # fix F-1: skip fixed budgets below 40% of the category's market p25
+
+pricing:
+  connect_usd_value: 0.15
+  min_expected_value_ratio: 1.5      # expected value / Connects cost must exceed this
+
+writer:
+  max_words: 210
+  max_critic_rounds: 2
+
+budgets:                             # per thread (C4) and declared targets (E5)
+  max_steps_per_thread: 40
+  max_tokens_per_thread: 60000
+  declared_p95_seconds_per_job: 25
+  declared_p95_seconds_per_proposal: 60
+  declared_usd_per_job: 0.002
+  declared_usd_per_proposal: 0.01
+
+autonomy:
+  default_level: suggest             # suggest | auto_skip   (auto-send is never possible)
+
+policy:
+  rules_file: data/policy_pack/rules.yaml
+  version: 1
+  # Change request (2 Nov 2026, policy v2). Absorbed through config only:
+  require_all_screening_answers: true
+  large_budget_threshold: 2000
+  large_budget_connects_multiplier: 1.5
+
+mcp:
+  timeout_seconds: 20
+  retries: 3
+  backoff_seconds: 0.5
+  allowlists:                         # A6: each agent gets only the tools it needs
+    scout:      [search_jobs, get_job]
+    risk:       [get_client_history]
+    researcher: [get_client_history, market_stats]
+    matcher:    [retrieve_for_job, search_evidence, list_skills]
+    pricing:    [market_stats, get_connects_balance, get_connects_cost]
+    writer:     [search_evidence, get_case_study]
+    critic:     [search_evidence]
+    verifier:   [search_evidence]
+    submitter:  [create_proposal_draft, submit_proposal]
+    liaison:    [list_messages, send_message, free_slots, create_interview_hold, create_email_draft]
