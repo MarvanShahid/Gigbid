@@ -1,0 +1,1086 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:35:43",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)"
+ },
+ "failures": [
+  {
+   "kind": "mispriced",
+   "job_id": "dev-ml-046",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 2310.0,
+   "fair_band": [
+    2370,
+    3560
+   ],
+   "gold_requirements": [
+    "transformers",
+    "langgraph",
+    "nlp"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-082",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.59 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.588,
+   "price": null,
+   "fair_band": [
+    1760,
+    2650
+   ],
+   "gold_requirements": [
+    "mlops",
+    "pytorch",
+    "docker",
+    "mlflow"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-097",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.50 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.5,
+   "price": null,
+   "fair_band": [
+    1360,
+    2050
+   ],
+   "gold_requirements": [
+    "rag",
+    "pgvector"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-113",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.50 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.5,
+   "price": null,
+   "fair_band": [
+    1360,
+    2050
+   ],
+   "gold_requirements": [
+    "rag",
+    "langchain"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-122",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.58 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.58,
+   "price": null,
+   "fair_band": [
+    1360,
+    2050
+   ],
+   "gold_requirements": [
+    "fastapi",
+    "langgraph",
+    "pgvector",
+    "langchain",
+    "pinecone"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-136",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.50 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.5,
+   "price": null,
+   "fair_band": [
+    2370,
+    3560
+   ],
+   "gold_requirements": [
+    "pinecone",
+    "pgvector"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-ml-140",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.69 >= 0.62"
+   ],
+   "fit": 0.69,
+   "price": 2520.0,
+   "fair_band": [
+    2370,
+    3560
+   ],
+   "gold_requirements": [
+    "pgvector",
+    "nlp",
+    "langchain",
+    "fastapi",
+    "rag"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-141",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.61 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.613,
+   "price": null,
+   "fair_band": [
+    2370,
+    3560
+   ],
+   "gold_requirements": [
+    "pgvector",
+    "transformers",
+    "langgraph",
+    "langchain"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-146",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.49 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.49,
+   "price": null,
+   "fair_band": [
+    1360,
+    2050
+   ],
+   "gold_requirements": [
+    "fastapi",
+    "pgvector",
+    "pinecone",
+    "langchain",
+    "langgraph"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-148",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.45 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.45,
+   "price": null,
+   "fair_band": [
+    2370,
+    3560
+   ],
+   "gold_requirements": [
+    "pinecone",
+    "transformers",
+    "langgraph",
+    "nlp",
+    "fastapi"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-ml-162",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.72 >= 0.62"
+   ],
+   "fit": 0.725,
+   "price": 2015.0,
+   "fair_band": [
+    1290,
+    1930
+   ],
+   "gold_requirements": [
+    "docker",
+    "pytorch"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-180",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.47 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.475,
+   "price": null,
+   "fair_band": [
+    1360,
+    2050
+   ],
+   "gold_requirements": [
+    "rag",
+    "pgvector",
+    "pinecone",
+    "transformers"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-ml-196",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.78 >= 0.62"
+   ],
+   "fit": 0.78,
+   "price": 1910.0,
+   "fair_band": [
+    1210,
+    1820
+   ],
+   "gold_requirements": [
+    "docker",
+    "computer_vision",
+    "fastapi",
+    "pytorch",
+    "mlops"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-ml-198",
+   "persona": "ml_engineer",
+   "job_kind": "fit",
+   "decision": "skip",
+   "reasons": [
+    "fit 0.29 < 0.4; unsupported: vector search inside Postgres; an LLM orchestration library; grounded answers from a document index"
+   ],
+   "fit": 0.29,
+   "price": null,
+   "fair_band": [
+    2370,
+    3560
+   ],
+   "gold_requirements": [
+    "langgraph",
+    "transformers",
+    "pgvector",
+    "langchain",
+    "rag"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-fu-002",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.48 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.483,
+   "price": null,
+   "fair_band": [
+    1980,
+    2970
+   ],
+   "gold_requirements": [
+    "postgres",
+    "typescript",
+    "react"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-011",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.82 >= 0.62"
+   ],
+   "fit": 0.817,
+   "price": 1865.0,
+   "fair_band": [
+    1980,
+    2970
+   ],
+   "gold_requirements": [
+    "nextjs",
+    "tailwind",
+    "typescript"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-033",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 2235.0,
+   "fair_band": [
+    2240,
+    3360
+   ],
+   "gold_requirements": [
+    "typescript",
+    "graphql",
+    "nodejs",
+    "react_native",
+    "auth"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-038",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.82 >= 0.62"
+   ],
+   "fit": 0.817,
+   "price": 1785.0,
+   "fair_band": [
+    1140,
+    1710
+   ],
+   "gold_requirements": [
+    "react",
+    "nextjs",
+    "auth"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-053",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.78 >= 0.62"
+   ],
+   "fit": 0.78,
+   "price": 2235.0,
+   "fair_band": [
+    2240,
+    3360
+   ],
+   "gold_requirements": [
+    "nodejs",
+    "auth",
+    "typescript",
+    "graphql",
+    "react_native"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-071",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1850.0,
+   "fair_band": [
+    1210,
+    1820
+   ],
+   "gold_requirements": [
+    "typescript",
+    "websockets",
+    "nodejs",
+    "django"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-fu-083",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.72 >= 0.62"
+   ],
+   "fit": 0.725,
+   "price": 1990.0,
+   "fair_band": [
+    1290,
+    1930
+   ],
+   "gold_requirements": [
+    "auth",
+    "react_native",
+    "typescript",
+    "graphql"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-095",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 2015.0,
+   "fair_band": [
+    1290,
+    1930
+   ],
+   "gold_requirements": [
+    "typescript",
+    "graphql"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-107",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1940.0,
+   "fair_band": [
+    1980,
+    2970
+   ],
+   "gold_requirements": [
+    "nextjs",
+    "postgres"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-fu-110",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "skip",
+   "reasons": [
+    "fit 0.30 < 0.4; unsupported: a batteries-included Python web framework"
+   ],
+   "fit": 0.3,
+   "price": null,
+   "fair_band": [
+    2110,
+    3160
+   ],
+   "gold_requirements": [
+    "nodejs",
+    "django",
+    "celery"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-fu-112",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.89 >= 0.62"
+   ],
+   "fit": 0.89,
+   "price": 2225.0,
+   "fair_band": [
+    1760,
+    2650
+   ],
+   "gold_requirements": [
+    "graphql",
+    "auth",
+    "typescript",
+    "react_native",
+    "nodejs"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-140",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1885.0,
+   "fair_band": [
+    1210,
+    1820
+   ],
+   "gold_requirements": [
+    "aws",
+    "websockets",
+    "celery",
+    "react",
+    "nodejs"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-142",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.80 >= 0.62"
+   ],
+   "fit": 0.8,
+   "price": 1380.0,
+   "fair_band": [
+    910,
+    1360
+   ],
+   "gold_requirements": [
+    "nextjs",
+    "tailwind",
+    "graphql",
+    "postgres",
+    "stripe"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-168",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 2235.0,
+   "fair_band": [
+    2240,
+    3360
+   ],
+   "gold_requirements": [
+    "graphql",
+    "typescript"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-170",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.72 >= 0.62"
+   ],
+   "fit": 0.725,
+   "price": 1990.0,
+   "fair_band": [
+    1290,
+    1930
+   ],
+   "gold_requirements": [
+    "nodejs",
+    "typescript"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-177",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1790.0,
+   "fair_band": [
+    1140,
+    1710
+   ],
+   "gold_requirements": [
+    "react",
+    "stripe",
+    "typescript",
+    "tailwind",
+    "postgres"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-fu-179",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1945.0,
+   "fair_band": [
+    1290,
+    1930
+   ],
+   "gold_requirements": [
+    "auth",
+    "typescript",
+    "react_native"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-fu-181",
+   "persona": "fullstack_dev",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1880.0,
+   "fair_band": [
+    1660,
+    2490
+   ],
+   "gold_requirements": [
+    "aws",
+    "websockets",
+    "django"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-da-001",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.63 >= 0.62"
+   ],
+   "fit": 0.633,
+   "price": 655.0,
+   "fair_band": [
+    620,
+    930
+   ],
+   "gold_requirements": [
+    "tableau",
+    "powerbi",
+    "excel"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-da-010",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1625.0,
+   "fair_band": [
+    1450,
+    2170
+   ],
+   "gold_requirements": [
+    "airflow",
+    "bigquery",
+    "pandas"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-da-035",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.45 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.45,
+   "price": null,
+   "fair_band": [
+    620,
+    930
+   ],
+   "gold_requirements": [
+    "tableau",
+    "sql"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-073",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.82 >= 0.62"
+   ],
+   "fit": 0.817,
+   "price": 1270.0,
+   "fair_band": [
+    830,
+    1250
+   ],
+   "gold_requirements": [
+    "snowflake",
+    "bigquery",
+    "airflow"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-da-091",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.45 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.45,
+   "price": null,
+   "fair_band": [
+    620,
+    930
+   ],
+   "gold_requirements": [
+    "tableau",
+    "powerbi"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-094",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1040.0,
+   "fair_band": [
+    1050,
+    1580
+   ],
+   "gold_requirements": [
+    "sql",
+    "pandas"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-097",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.89 >= 0.62"
+   ],
+   "fit": 0.89,
+   "price": 740.0,
+   "fair_band": [
+    790,
+    1180
+   ],
+   "gold_requirements": [
+    "powerbi",
+    "sql",
+    "excel",
+    "looker",
+    "tableau"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-115",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 1295.0,
+   "fair_band": [
+    830,
+    1250
+   ],
+   "gold_requirements": [
+    "etl",
+    "bigquery"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-156",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.63 >= 0.62"
+   ],
+   "fit": 0.633,
+   "price": 700.0,
+   "fair_band": [
+    450,
+    680
+   ],
+   "gold_requirements": [
+    "excel",
+    "powerbi",
+    "sql"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_skip",
+   "job_id": "dev-da-158",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "watch",
+   "reasons": [
+    "fit 0.59 is between watch (0.4) and bid (0.62)"
+   ],
+   "fit": 0.588,
+   "price": null,
+   "fair_band": [
+    830,
+    1250
+   ],
+   "gold_requirements": [
+    "bigquery",
+    "airflow",
+    "etl",
+    "dbt"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-da-161",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.72 >= 0.62"
+   ],
+   "fit": 0.725,
+   "price": 1380.0,
+   "fair_band": [
+    1140,
+    1710
+   ],
+   "gold_requirements": [
+    "airflow",
+    "sql"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-178",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 1.00 >= 0.62"
+   ],
+   "fit": 1.0,
+   "price": 695.0,
+   "fair_band": [
+    450,
+    680
+   ],
+   "gold_requirements": [
+    "sql",
+    "tableau"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-184",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.86 >= 0.62"
+   ],
+   "fit": 0.863,
+   "price": 1380.0,
+   "fair_band": [
+    1450,
+    2170
+   ],
+   "gold_requirements": [
+    "pandas",
+    "sql",
+    "bigquery",
+    "etl"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-186",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.82 >= 0.62"
+   ],
+   "fit": 0.817,
+   "price": 1025.0,
+   "fair_band": [
+    1050,
+    1580
+   ],
+   "gold_requirements": [
+    "statistics",
+    "ab_testing",
+    "sql"
+   ],
+   "error": null
+  },
+  {
+   "kind": "wrong_bid",
+   "job_id": "dev-da-194",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.72 >= 0.62"
+   ],
+   "fit": 0.725,
+   "price": 1200.0,
+   "fair_band": [
+    830,
+    1250
+   ],
+   "gold_requirements": [
+    "sql",
+    "airflow"
+   ],
+   "error": null
+  },
+  {
+   "kind": "mispriced",
+   "job_id": "dev-da-197",
+   "persona": "data_analyst",
+   "job_kind": "fit",
+   "decision": "bid",
+   "reasons": [
+    "fit 0.82 >= 0.62"
+   ],
+   "fit": 0.817,
+   "price": 1260.0,
+   "fair_band": [
+    830,
+    1250
+   ],
+   "gold_requirements": [
+    "dbt",
+    "etl",
+    "bigquery"
+   ],
+   "error": null
+  }
+ ]
+}

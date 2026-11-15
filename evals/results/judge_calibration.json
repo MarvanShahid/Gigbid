@@ -1,0 +1,12 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:41:48",
+  "commit": "uncommitted",
+  "profile": "open",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)"
+ },
+ "status": "pending",
+ "reason": "0/30 human labels; model available: False"
+}

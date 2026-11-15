@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:41:32",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)",
+  "fixed_set": "first 30 gold-bid jobs per persona"
+ },
+ "by_persona": {
+  "ml_engineer": {
+   "jobs": 30,
+   "submitted": 30,
+   "replied": 28,
+   "reply_rate": 0.9333,
+   "hire_rate": 0.7333,
+   "seconds": 13.0
+  },
+  "fullstack_dev": {
+   "jobs": 30,
+   "submitted": 29,
+   "replied": 28,
+   "reply_rate": 0.9655,
+   "hire_rate": 0.7241,
+   "seconds": 12.8
+  },
+  "data_analyst": {
+   "jobs": 30,
+   "submitted": 29,
+   "replied": 25,
+   "reply_rate": 0.8621,
+   "hire_rate": 0.7931,
+   "seconds": 12.4
+  }
+ },
+ "reply_rate": 0.9205
+}

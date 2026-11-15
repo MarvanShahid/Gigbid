@@ -1,0 +1,213 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:33:24",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)",
+  "defences": true
+ },
+ "overall": {
+  "n_jobs": 600,
+  "bid_skip": {
+   "precision": 0.9665,
+   "recall": 0.939,
+   "f1": 0.9526,
+   "tp": 231,
+   "fp": 8,
+   "fn": 15
+  },
+  "accuracy": 0.9617,
+  "scam_detection": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0,
+   "tp": 66,
+   "fp": 0,
+   "fn": 0
+  },
+  "price_in_fair_band": 0.8918,
+  "n_priced": 231
+ },
+ "by_persona": {
+  "ml_engineer": {
+   "n_jobs": 200,
+   "bid_skip": {
+    "precision": 0.9868,
+    "recall": 0.8824,
+    "f1": 0.9317,
+    "tp": 75,
+    "fp": 1,
+    "fn": 10
+   },
+   "accuracy": 0.945,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 20,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.96,
+   "n_priced": 75
+  },
+  "fullstack_dev": {
+   "n_jobs": 200,
+   "bid_skip": {
+    "precision": 0.9625,
+    "recall": 0.9747,
+    "f1": 0.9686,
+    "tp": 77,
+    "fp": 3,
+    "fn": 2
+   },
+   "accuracy": 0.975,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 23,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8312,
+   "n_priced": 77
+  },
+  "data_analyst": {
+   "n_jobs": 200,
+   "bid_skip": {
+    "precision": 0.9518,
+    "recall": 0.9634,
+    "f1": 0.9576,
+    "tp": 79,
+    "fp": 4,
+    "fn": 3
+   },
+   "accuracy": 0.965,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 23,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8861,
+   "n_priced": 79
+  }
+ },
+ "by_job_type": {
+  "fit": {
+   "n_jobs": 272,
+   "bid_skip": {
+    "precision": 0.9665,
+    "recall": 0.939,
+    "f1": 0.9526,
+    "tp": 231,
+    "fp": 8,
+    "fn": 15
+   },
+   "accuracy": 0.9154,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8918,
+   "n_priced": 231
+  },
+  "lowball": {
+   "n_jobs": 70,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0
+  },
+  "off": {
+   "n_jobs": 101,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0
+  },
+  "partial": {
+   "n_jobs": 91,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0
+  },
+  "scam": {
+   "n_jobs": 66,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 66,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0
+  }
+ }
+}

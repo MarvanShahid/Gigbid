@@ -1,0 +1,1667 @@
+{
+ "marketplace.create_proposal_draft": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": false,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "answers": {
+     "items": {
+      "type": "string"
+     },
+     "maxItems": 10,
+     "title": "Answers",
+     "type": "array"
+    },
+    "bid_amount": {
+     "exclusiveMinimum": 0,
+     "maximum": 100000,
+     "title": "Bid Amount",
+     "type": "number"
+    },
+    "cover_letter": {
+     "maxLength": 5000,
+     "minLength": 40,
+     "title": "Cover Letter",
+     "type": "string"
+    },
+    "job_id": {
+     "maxLength": 64,
+     "minLength": 1,
+     "title": "Job Id",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "job_id",
+    "cover_letter",
+    "bid_amount"
+   ],
+   "title": "create_proposal_draftArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "ProposalPreview": {
+     "properties": {
+      "answers": {
+       "items": {
+        "type": "string"
+       },
+       "title": "Answers",
+       "type": "array"
+      },
+      "balance_after": {
+       "anyOf": [
+        {
+         "type": "integer"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Balance After"
+      },
+      "bid_amount": {
+       "title": "Bid Amount",
+       "type": "number"
+      },
+      "connects_cost": {
+       "title": "Connects Cost",
+       "type": "integer"
+      },
+      "cover_letter": {
+       "title": "Cover Letter",
+       "type": "string"
+      },
+      "job_id": {
+       "title": "Job Id",
+       "type": "string"
+      }
+     },
+     "required": [
+      "job_id",
+      "cover_letter",
+      "bid_amount",
+      "answers",
+      "connects_cost",
+      "balance_after"
+     ],
+     "title": "ProposalPreview",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "draft_id": {
+     "title": "Draft Id",
+     "type": "string"
+    },
+    "preview": {
+     "$ref": "#/$defs/ProposalPreview"
+    }
+   },
+   "required": [
+    "draft_id",
+    "preview"
+   ],
+   "title": "DraftOut",
+   "type": "object"
+  }
+ },
+ "marketplace.get_client_history": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "client_id": {
+     "maxLength": 64,
+     "minLength": 1,
+     "title": "Client Id",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "client_id"
+   ],
+   "title": "get_client_historyArguments",
+   "type": "object"
+  },
+  "output": {
+   "properties": {
+    "avg_rating_given": {
+     "anyOf": [
+      {
+       "type": "number"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "title": "Avg Rating Given"
+    },
+    "country": {
+     "title": "Country",
+     "type": "string"
+    },
+    "hires": {
+     "title": "Hires",
+     "type": "integer"
+    },
+    "id": {
+     "title": "Id",
+     "type": "string"
+    },
+    "industry": {
+     "title": "Industry",
+     "type": "string"
+    },
+    "jobs_posted": {
+     "title": "Jobs Posted",
+     "type": "integer"
+    },
+    "member_since": {
+     "title": "Member Since",
+     "type": "string"
+    },
+    "name": {
+     "title": "Name",
+     "type": "string"
+    },
+    "payment_verified": {
+     "title": "Payment Verified",
+     "type": "boolean"
+    },
+    "total_spend": {
+     "title": "Total Spend",
+     "type": "number"
+    }
+   },
+   "required": [
+    "id",
+    "name",
+    "industry",
+    "country",
+    "payment_verified",
+    "jobs_posted",
+    "hires",
+    "total_spend",
+    "avg_rating_given",
+    "member_since"
+   ],
+   "title": "ClientHistory",
+   "type": "object"
+  }
+ },
+ "marketplace.get_connects_balance": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account"
+   ],
+   "title": "get_connects_balanceArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "marketplace.get_connects_cost": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "job_id": {
+     "maxLength": 64,
+     "minLength": 1,
+     "title": "Job Id",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "job_id"
+   ],
+   "title": "get_connects_costArguments",
+   "type": "object"
+  },
+  "output": {
+   "properties": {
+    "connects": {
+     "title": "Connects",
+     "type": "integer"
+    },
+    "job_id": {
+     "title": "Job Id",
+     "type": "string"
+    },
+    "policy_summary": {
+     "title": "Policy Summary",
+     "type": "string"
+    },
+    "policy_version": {
+     "title": "Policy Version",
+     "type": "integer"
+    }
+   },
+   "required": [
+    "job_id",
+    "connects",
+    "policy_version",
+    "policy_summary"
+   ],
+   "title": "ConnectsCost",
+   "type": "object"
+  }
+ },
+ "marketplace.get_job": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "job_id": {
+     "maxLength": 64,
+     "minLength": 1,
+     "title": "Job Id",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "job_id"
+   ],
+   "title": "get_jobArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "Budget": {
+     "properties": {
+      "amount": {
+       "title": "Amount",
+       "type": "number"
+      },
+      "type": {
+       "title": "Type",
+       "type": "string"
+      }
+     },
+     "required": [
+      "type",
+      "amount"
+     ],
+     "title": "Budget",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "budget": {
+     "$ref": "#/$defs/Budget"
+    },
+    "category": {
+     "title": "Category",
+     "type": "string"
+    },
+    "client_id": {
+     "title": "Client Id",
+     "type": "string"
+    },
+    "connects_required": {
+     "title": "Connects Required",
+     "type": "integer"
+    },
+    "description": {
+     "title": "Description",
+     "type": "string"
+    },
+    "id": {
+     "title": "Id",
+     "type": "string"
+    },
+    "posted_at": {
+     "title": "Posted At",
+     "type": "string"
+    },
+    "screening_questions": {
+     "items": {
+      "type": "string"
+     },
+     "title": "Screening Questions",
+     "type": "array"
+    },
+    "skills_tags": {
+     "items": {
+      "type": "string"
+     },
+     "title": "Skills Tags",
+     "type": "array"
+    },
+    "title": {
+     "title": "Title",
+     "type": "string"
+    }
+   },
+   "required": [
+    "id",
+    "title",
+    "description",
+    "category",
+    "skills_tags",
+    "budget",
+    "client_id",
+    "screening_questions",
+    "posted_at",
+    "connects_required"
+   ],
+   "title": "Job",
+   "type": "object"
+  }
+ },
+ "marketplace.get_policy": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account"
+   ],
+   "title": "get_policyArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "marketplace.list_messages": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account"
+   ],
+   "title": "list_messagesArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "marketplace.list_proposals": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account"
+   ],
+   "title": "list_proposalsArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "marketplace.market_stats": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "category": {
+     "maxLength": 40,
+     "minLength": 1,
+     "title": "Category",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "category"
+   ],
+   "title": "market_statsArguments",
+   "type": "object"
+  },
+  "output": {
+   "properties": {
+    "category": {
+     "title": "Category",
+     "type": "string"
+    },
+    "median": {
+     "title": "Median",
+     "type": "number"
+    },
+    "n": {
+     "title": "N",
+     "type": "integer"
+    },
+    "p25": {
+     "title": "P25",
+     "type": "number"
+    },
+    "p75": {
+     "title": "P75",
+     "type": "number"
+    }
+   },
+   "required": [
+    "category",
+    "n",
+    "p25",
+    "median",
+    "p75"
+   ],
+   "title": "MarketStats",
+   "type": "object"
+  }
+ },
+ "marketplace.search_jobs": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "category": {
+     "anyOf": [
+      {
+       "maxLength": 40,
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Category"
+    },
+    "limit": {
+     "default": 20,
+     "maximum": 50,
+     "minimum": 1,
+     "title": "Limit",
+     "type": "integer"
+    },
+    "min_budget": {
+     "default": 0,
+     "minimum": 0,
+     "title": "Min Budget",
+     "type": "number"
+    },
+    "query": {
+     "default": "",
+     "maxLength": 200,
+     "title": "Query",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account"
+   ],
+   "title": "search_jobsArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "Budget": {
+     "properties": {
+      "amount": {
+       "title": "Amount",
+       "type": "number"
+      },
+      "type": {
+       "title": "Type",
+       "type": "string"
+      }
+     },
+     "required": [
+      "type",
+      "amount"
+     ],
+     "title": "Budget",
+     "type": "object"
+    },
+    "Job": {
+     "properties": {
+      "budget": {
+       "$ref": "#/$defs/Budget"
+      },
+      "category": {
+       "title": "Category",
+       "type": "string"
+      },
+      "client_id": {
+       "title": "Client Id",
+       "type": "string"
+      },
+      "connects_required": {
+       "title": "Connects Required",
+       "type": "integer"
+      },
+      "description": {
+       "title": "Description",
+       "type": "string"
+      },
+      "id": {
+       "title": "Id",
+       "type": "string"
+      },
+      "posted_at": {
+       "title": "Posted At",
+       "type": "string"
+      },
+      "screening_questions": {
+       "items": {
+        "type": "string"
+       },
+       "title": "Screening Questions",
+       "type": "array"
+      },
+      "skills_tags": {
+       "items": {
+        "type": "string"
+       },
+       "title": "Skills Tags",
+       "type": "array"
+      },
+      "title": {
+       "title": "Title",
+       "type": "string"
+      }
+     },
+     "required": [
+      "id",
+      "title",
+      "description",
+      "category",
+      "skills_tags",
+      "budget",
+      "client_id",
+      "screening_questions",
+      "posted_at",
+      "connects_required"
+     ],
+     "title": "Job",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "jobs": {
+     "items": {
+      "$ref": "#/$defs/Job"
+     },
+     "title": "Jobs",
+     "type": "array"
+    },
+    "total": {
+     "title": "Total",
+     "type": "integer"
+    }
+   },
+   "required": [
+    "total",
+    "jobs"
+   ],
+   "title": "JobList",
+   "type": "object"
+  }
+ },
+ "marketplace.send_message": {
+  "annotations": {
+   "destructiveHint": true,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": false,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "approval_grant": {
+     "anyOf": [
+      {
+       "maxLength": 2000,
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Approval Grant"
+    },
+    "dry_run": {
+     "default": true,
+     "title": "Dry Run",
+     "type": "boolean"
+    },
+    "idempotency_key": {
+     "maxLength": 128,
+     "minLength": 8,
+     "title": "Idempotency Key",
+     "type": "string"
+    },
+    "text": {
+     "maxLength": 3000,
+     "minLength": 1,
+     "title": "Text",
+     "type": "string"
+    },
+    "thread_id": {
+     "maxLength": 64,
+     "minLength": 1,
+     "title": "Thread Id",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "thread_id",
+    "text",
+    "idempotency_key"
+   ],
+   "title": "send_messageArguments",
+   "type": "object"
+  },
+  "output": {
+   "properties": {
+    "idempotent_replay": {
+     "default": false,
+     "title": "Idempotent Replay",
+     "type": "boolean"
+    },
+    "status": {
+     "enum": [
+      "dry_run",
+      "sent"
+     ],
+     "title": "Status",
+     "type": "string"
+    },
+    "text": {
+     "title": "Text",
+     "type": "string"
+    },
+    "thread_id": {
+     "title": "Thread Id",
+     "type": "string"
+    }
+   },
+   "required": [
+    "status",
+    "thread_id",
+    "text"
+   ],
+   "title": "MessageOut",
+   "type": "object"
+  }
+ },
+ "marketplace.submit_proposal": {
+  "annotations": {
+   "destructiveHint": true,
+   "idempotentHint": true,
+   "openWorldHint": true,
+   "readOnlyHint": false,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "description": "GigBid account (tenant) id",
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "approval_grant": {
+     "anyOf": [
+      {
+       "maxLength": 2000,
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Approval Grant"
+    },
+    "draft_id": {
+     "maxLength": 40,
+     "minLength": 5,
+     "title": "Draft Id",
+     "type": "string"
+    },
+    "dry_run": {
+     "default": true,
+     "title": "Dry Run",
+     "type": "boolean"
+    },
+    "idempotency_key": {
+     "maxLength": 128,
+     "minLength": 8,
+     "title": "Idempotency Key",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "draft_id",
+    "idempotency_key"
+   ],
+   "title": "submit_proposalArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "ProposalPreview": {
+     "properties": {
+      "answers": {
+       "items": {
+        "type": "string"
+       },
+       "title": "Answers",
+       "type": "array"
+      },
+      "balance_after": {
+       "anyOf": [
+        {
+         "type": "integer"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Balance After"
+      },
+      "bid_amount": {
+       "title": "Bid Amount",
+       "type": "number"
+      },
+      "connects_cost": {
+       "title": "Connects Cost",
+       "type": "integer"
+      },
+      "cover_letter": {
+       "title": "Cover Letter",
+       "type": "string"
+      },
+      "job_id": {
+       "title": "Job Id",
+       "type": "string"
+      }
+     },
+     "required": [
+      "job_id",
+      "cover_letter",
+      "bid_amount",
+      "answers",
+      "connects_cost",
+      "balance_after"
+     ],
+     "title": "ProposalPreview",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "connects_spent": {
+     "anyOf": [
+      {
+       "type": "integer"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Connects Spent"
+    },
+    "idempotent_replay": {
+     "default": false,
+     "title": "Idempotent Replay",
+     "type": "boolean"
+    },
+    "preview": {
+     "$ref": "#/$defs/ProposalPreview"
+    },
+    "proposal_id": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Proposal Id"
+    },
+    "status": {
+     "enum": [
+      "dry_run",
+      "submitted"
+     ],
+     "title": "Status",
+     "type": "string"
+    }
+   },
+   "required": [
+    "status",
+    "preview"
+   ],
+   "title": "SubmitOut",
+   "type": "object"
+  }
+ },
+ "portfolio.get_case_study": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "case_id": {
+     "title": "Case Id",
+     "type": "string"
+    },
+    "owner": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Owner"
+    }
+   },
+   "required": [
+    "case_id"
+   ],
+   "title": "get_case_studyArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "portfolio.list_skills": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "owner": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Owner"
+    }
+   },
+   "title": "list_skillsArguments",
+   "type": "object"
+  },
+  "output": {
+   "properties": {
+    "result": {
+     "items": {
+      "additionalProperties": true,
+      "type": "object"
+     },
+     "title": "Result",
+     "type": "array"
+    }
+   },
+   "required": [
+    "result"
+   ],
+   "title": "list_skillsOutput",
+   "type": "object"
+  }
+ },
+ "portfolio.retrieve_for_job": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "job_text": {
+     "title": "Job Text",
+     "type": "string"
+    },
+    "k": {
+     "default": 6,
+     "title": "K",
+     "type": "integer"
+    },
+    "owner": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Owner"
+    },
+    "requirements": {
+     "anyOf": [
+      {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Requirements"
+    }
+   },
+   "required": [
+    "job_text"
+   ],
+   "title": "retrieve_for_jobArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "EvidenceItem": {
+     "properties": {
+      "date": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Date"
+      },
+      "id": {
+       "description": "Chunk id; cite this in proposals",
+       "title": "Id",
+       "type": "string"
+      },
+      "outcome": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "description": "For past proposals: won, replied or ignored",
+       "title": "Outcome"
+      },
+      "project": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Project"
+      },
+      "requirement": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "default": null,
+       "title": "Requirement"
+      },
+      "score": {
+       "title": "Score",
+       "type": "number"
+      },
+      "source": {
+       "title": "Source",
+       "type": "string"
+      },
+      "text": {
+       "title": "Text",
+       "type": "string"
+      },
+      "title": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Title"
+      },
+      "type": {
+       "title": "Type",
+       "type": "string"
+      }
+     },
+     "required": [
+      "id",
+      "project",
+      "type",
+      "source",
+      "date",
+      "outcome",
+      "title",
+      "text",
+      "score"
+     ],
+     "title": "EvidenceItem",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "by_requirement": {
+     "additionalProperties": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "title": "By Requirement",
+     "type": "object"
+    },
+    "evidence": {
+     "items": {
+      "$ref": "#/$defs/EvidenceItem"
+     },
+     "title": "Evidence",
+     "type": "array"
+    },
+    "unsupported_requirements": {
+     "items": {
+      "type": "string"
+     },
+     "title": "Unsupported Requirements",
+     "type": "array"
+    }
+   },
+   "required": [
+    "evidence",
+    "by_requirement",
+    "unsupported_requirements"
+   ],
+   "title": "JobEvidence",
+   "type": "object"
+  }
+ },
+ "portfolio.search_evidence": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "$defs": {
+    "EvidenceFilters": {
+     "properties": {
+      "industry": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "default": null,
+       "description": "Client industry, e.g. fintech",
+       "title": "Industry"
+      },
+      "project": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "default": null,
+       "description": "Only items from this project id",
+       "title": "Project"
+      },
+      "since_year": {
+       "anyOf": [
+        {
+         "maximum": 2100,
+         "minimum": 2000,
+         "type": "integer"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "default": null,
+       "description": "Only items dated in or after this year",
+       "title": "Since Year"
+      },
+      "types": {
+       "anyOf": [
+        {
+         "items": {
+          "type": "string"
+         },
+         "type": "array"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "default": null,
+       "description": "Restrict to item types: cv, case_study, readme, code, review",
+       "title": "Types"
+      }
+     },
+     "title": "EvidenceFilters",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "filters": {
+     "anyOf": [
+      {
+       "$ref": "#/$defs/EvidenceFilters"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null
+    },
+    "k": {
+     "default": 5,
+     "title": "K",
+     "type": "integer"
+    },
+    "owner": {
+     "anyOf": [
+      {
+       "type": "string"
+      },
+      {
+       "type": "null"
+      }
+     ],
+     "default": null,
+     "title": "Owner"
+    },
+    "requirement": {
+     "title": "Requirement",
+     "type": "string"
+    }
+   },
+   "required": [
+    "requirement"
+   ],
+   "title": "search_evidenceArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "EvidenceItem": {
+     "properties": {
+      "date": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Date"
+      },
+      "id": {
+       "description": "Chunk id; cite this in proposals",
+       "title": "Id",
+       "type": "string"
+      },
+      "outcome": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "description": "For past proposals: won, replied or ignored",
+       "title": "Outcome"
+      },
+      "project": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Project"
+      },
+      "requirement": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "default": null,
+       "title": "Requirement"
+      },
+      "score": {
+       "title": "Score",
+       "type": "number"
+      },
+      "source": {
+       "title": "Source",
+       "type": "string"
+      },
+      "text": {
+       "title": "Text",
+       "type": "string"
+      },
+      "title": {
+       "anyOf": [
+        {
+         "type": "string"
+        },
+        {
+         "type": "null"
+        }
+       ],
+       "title": "Title"
+      },
+      "type": {
+       "title": "Type",
+       "type": "string"
+      }
+     },
+     "required": [
+      "id",
+      "project",
+      "type",
+      "source",
+      "date",
+      "outcome",
+      "title",
+      "text",
+      "score"
+     ],
+     "title": "EvidenceItem",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "result": {
+     "items": {
+      "$ref": "#/$defs/EvidenceItem"
+     },
+     "title": "Result",
+     "type": "array"
+    }
+   },
+   "required": [
+    "result"
+   ],
+   "title": "search_evidenceOutput",
+   "type": "object"
+  }
+ },
+ "workspace.create_email_draft": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": false,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "body": {
+     "maxLength": 5000,
+     "title": "Body",
+     "type": "string"
+    },
+    "subject": {
+     "maxLength": 200,
+     "title": "Subject",
+     "type": "string"
+    },
+    "to_label": {
+     "maxLength": 120,
+     "title": "To Label",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "to_label",
+    "subject",
+    "body"
+   ],
+   "title": "create_email_draftArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "workspace.create_interview_hold": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": false,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "duration_minutes": {
+     "default": 30,
+     "maximum": 180,
+     "minimum": 15,
+     "title": "Duration Minutes",
+     "type": "integer"
+    },
+    "idempotency_key": {
+     "maxLength": 128,
+     "minLength": 8,
+     "title": "Idempotency Key",
+     "type": "string"
+    },
+    "start": {
+     "maxLength": 32,
+     "minLength": 16,
+     "title": "Start",
+     "type": "string"
+    },
+    "title": {
+     "maxLength": 120,
+     "title": "Title",
+     "type": "string"
+    }
+   },
+   "required": [
+    "account",
+    "start",
+    "title",
+    "idempotency_key"
+   ],
+   "title": "create_interview_holdArguments",
+   "type": "object"
+  },
+  "output": null
+ },
+ "workspace.free_slots": {
+  "annotations": {
+   "destructiveHint": false,
+   "idempotentHint": true,
+   "openWorldHint": false,
+   "readOnlyHint": true,
+   "title": null
+  },
+  "input": {
+   "properties": {
+    "account": {
+     "maxLength": 64,
+     "minLength": 1,
+     "pattern": "^[A-Za-z0-9_.-]+$",
+     "title": "Account",
+     "type": "string"
+    },
+    "days": {
+     "default": 5,
+     "maximum": 14,
+     "minimum": 1,
+     "title": "Days",
+     "type": "integer"
+    },
+    "duration_minutes": {
+     "default": 30,
+     "maximum": 180,
+     "minimum": 15,
+     "title": "Duration Minutes",
+     "type": "integer"
+    },
+    "max_slots": {
+     "default": 4,
+     "maximum": 10,
+     "minimum": 1,
+     "title": "Max Slots",
+     "type": "integer"
+    }
+   },
+   "required": [
+    "account"
+   ],
+   "title": "free_slotsArguments",
+   "type": "object"
+  },
+  "output": {
+   "$defs": {
+    "Slot": {
+     "properties": {
+      "end": {
+       "title": "End",
+       "type": "string"
+      },
+      "label": {
+       "title": "Label",
+       "type": "string"
+      },
+      "start": {
+       "title": "Start",
+       "type": "string"
+      }
+     },
+     "required": [
+      "start",
+      "end",
+      "label"
+     ],
+     "title": "Slot",
+     "type": "object"
+    }
+   },
+   "properties": {
+    "result": {
+     "items": {
+      "$ref": "#/$defs/Slot"
+     },
+     "title": "Result",
+     "type": "array"
+    }
+   },
+   "required": [
+    "result"
+   ],
+   "title": "free_slotsOutput",
+   "type": "object"
+  }
+ }
+}

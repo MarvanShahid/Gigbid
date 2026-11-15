@@ -1,0 +1,79 @@
+# docker compose -f infra/docker-compose.yml --env-file .env up --build
+# Starts: web, api, worker (+beat), 3 MCP servers, GigSim stand-in, Postgres (+pgvector), Redis, Phoenix (traces), Ollama.
+x-py: &py
+  build: { context: .., dockerfile: infra/docker/python.Dockerfile }
+  env_file: ../.env
+  environment: &pyenv
+    DATABASE_URL: postgresql://gigbid:${POSTGRES_PASSWORD:-gigbid}@postgres:5432/gigbid
+    REDIS_URL: redis://redis:6379/1
+    CELERY_BROKER_URL: redis://redis:6379/0
+    MCP_MODE: http
+    GIGSIM_URL: http://gigsim:8100
+    MARKETPLACE_MCP_URL: http://mcp-marketplace:8201/mcp
+    PORTFOLIO_MCP_URL: http://mcp-portfolio:8202/mcp
+    WORKSPACE_MCP_URL: http://mcp-workspace:8203/mcp
+    VECTOR_BACKEND: pgvector
+    PHOENIX_COLLECTOR_ENDPOINT: http://phoenix:6006
+    PHOENIX_UI_URL: ${PHOENIX_UI_URL:-http://localhost:6006}
+    OLLAMA_URL: http://ollama:11434/v1
+    GIGBID_DATA_DIR: /app/data/processed
+  volumes: [gigbid-data:/app/data/processed]
+  restart: unless-stopped
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment: { POSTGRES_USER: gigbid, POSTGRES_PASSWORD: "${POSTGRES_PASSWORD:-gigbid}", POSTGRES_DB: gigbid }
+    volumes: [pg-data:/var/lib/postgresql/data]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U gigbid"], interval: 5s, retries: 20 }
+  redis:
+    image: redis:7-alpine
+    healthcheck: { test: ["CMD", "redis-cli", "ping"], interval: 5s, retries: 20 }
+  phoenix:
+    image: arizephoenix/phoenix:latest
+    ports: ["6006:6006"]
+  ollama:
+    image: ollama/ollama:latest
+    volumes: [ollama:/root/.ollama]
+    ports: ["11434:11434"]
+
+  gigsim:
+    <<: *py
+    command: uvicorn sim.app:app --host 0.0.0.0 --port 8100
+    ports: ["8100:8100"]
+  mcp-marketplace:
+    <<: *py
+    command: python -m mcp_servers.marketplace.server --port 8201
+    environment: { <<: *pyenv, SERVICE_NAME: mcp-marketplace }
+    depends_on: [gigsim]
+  mcp-portfolio:
+    <<: *py
+    command: python -m mcp_servers.portfolio.server --http --port 8202
+    environment: { <<: *pyenv, SERVICE_NAME: mcp-portfolio }
+    depends_on: { postgres: { condition: service_healthy } }
+  mcp-workspace:
+    <<: *py
+    command: python -m mcp_servers.workspace.server --port 8203
+    environment: { <<: *pyenv, SERVICE_NAME: mcp-workspace }
+  api:
+    <<: *py
+    command: uvicorn apps.api.main:app --host 0.0.0.0 --port 8000
+    environment: { <<: *pyenv, SERVICE_NAME: api }
+    ports: ["8000:8000"]
+    depends_on:
+      postgres: { condition: service_healthy }
+      redis: { condition: service_healthy }
+      mcp-marketplace: { condition: service_started }
+      mcp-portfolio: { condition: service_started }
+  worker:
+    <<: *py
+    command: celery -A worker.tasks worker -B --loglevel=info --concurrency=2
+    environment: { <<: *pyenv, SERVICE_NAME: worker }
+    depends_on: [api]
+  web:
+    build: { context: .., dockerfile: infra/docker/web.Dockerfile }
+    environment: { API_URL: "http://api:8000" }
+    ports: ["3000:3000"]
+    depends_on: [api]
+
+volumes: { pg-data: {}, gigbid-data: {}, ollama: {} }

@@ -1,0 +1,34 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:41:47",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)",
+  "n_jobs": 50
+ },
+ "status": "partial",
+ "results": {
+  "graph": {
+   "accuracy": 1.0,
+   "bid_skip": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 18,
+    "fp": 0,
+    "fn": 0
+   },
+   "unsupported_per_proposal": 0.0,
+   "compliance_caught": {
+    "pass": 18
+   },
+   "gigsim_reply_rate": 0.9444,
+   "tokens_per_job": 0.0,
+   "p95_s": 0.382
+  },
+  "react_single_agent": "pending: needs an LLM profile (GROQ_API_KEY)",
+  "prebuilt_supervisor": "pending: needs an LLM profile (GROQ_API_KEY)"
+ }
+}

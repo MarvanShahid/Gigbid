@@ -1,0 +1,266 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:31:08",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)"
+ },
+ "shipped_flags": {
+  "decompose": false,
+  "hybrid": true,
+  "multivector": true,
+  "rerank": true,
+  "outcome": true,
+  "corrective": true
+ },
+ "rows": [
+  {
+   "removed": null,
+   "recall5": 0.9465,
+   "mrr": 0.9914,
+   "ndcg10": 0.8702,
+   "delta_ndcg10": 0.0,
+   "by_persona": {
+    "ml_engineer": {
+     "recall5": 0.9242,
+     "mrr": 0.9935,
+     "ndcg10": 0.8571
+    },
+    "fullstack_dev": {
+     "recall5": 0.9329,
+     "mrr": 0.9796,
+     "ndcg10": 0.8452
+    },
+    "data_analyst": {
+     "recall5": 0.9816,
+     "mrr": 1.0,
+     "ndcg10": 0.9062
+    }
+   },
+   "by_job_type": {
+    "fit": {
+     "recall5": 0.9567,
+     "mrr": 0.9946,
+     "ndcg10": 0.8819
+    },
+    "lowball": {
+     "recall5": 0.9615,
+     "mrr": 0.993,
+     "ndcg10": 0.8956
+    },
+    "partial": {
+     "recall5": 0.9056,
+     "mrr": 0.9807,
+     "ndcg10": 0.8171
+    }
+   }
+  },
+  {
+   "removed": "-hybrid",
+   "recall5": 0.9341,
+   "mrr": 0.9916,
+   "ndcg10": 0.8574,
+   "delta_ndcg10": -0.0128,
+   "by_persona": {
+    "ml_engineer": {
+     "recall5": 0.9097,
+     "mrr": 0.9935,
+     "ndcg10": 0.8289
+    },
+    "fullstack_dev": {
+     "recall5": 0.9235,
+     "mrr": 0.9802,
+     "ndcg10": 0.8358
+    },
+    "data_analyst": {
+     "recall5": 0.9684,
+     "mrr": 1.0,
+     "ndcg10": 0.9059
+    }
+   },
+   "by_job_type": {
+    "fit": {
+     "recall5": 0.9468,
+     "mrr": 0.9946,
+     "ndcg10": 0.875
+    },
+    "lowball": {
+     "recall5": 0.9531,
+     "mrr": 0.993,
+     "ndcg10": 0.867
+    },
+    "partial": {
+     "recall5": 0.8828,
+     "mrr": 0.9816,
+     "ndcg10": 0.7989
+    }
+   }
+  },
+  {
+   "removed": "-multivector",
+   "recall5": 0.9107,
+   "mrr": 0.991,
+   "ndcg10": 0.713,
+   "delta_ndcg10": -0.1572,
+   "by_persona": {
+    "ml_engineer": {
+     "recall5": 0.8716,
+     "mrr": 0.9935,
+     "ndcg10": 0.7024
+    },
+    "fullstack_dev": {
+     "recall5": 0.9122,
+     "mrr": 0.9784,
+     "ndcg10": 0.7006
+    },
+    "data_analyst": {
+     "recall5": 0.9487,
+     "mrr": 1.0,
+     "ndcg10": 0.7348
+    }
+   },
+   "by_job_type": {
+    "fit": {
+     "recall5": 0.9189,
+     "mrr": 0.9946,
+     "ndcg10": 0.7204
+    },
+    "lowball": {
+     "recall5": 0.9474,
+     "mrr": 0.993,
+     "ndcg10": 0.7466
+    },
+    "partial": {
+     "recall5": 0.8593,
+     "mrr": 0.9789,
+     "ndcg10": 0.6662
+    }
+   }
+  },
+  {
+   "removed": "-rerank",
+   "recall5": 0.8743,
+   "mrr": 0.9735,
+   "ndcg10": 0.8444,
+   "delta_ndcg10": -0.0258,
+   "by_persona": {
+    "ml_engineer": {
+     "recall5": 0.8197,
+     "mrr": 0.9608,
+     "ndcg10": 0.8131
+    },
+    "fullstack_dev": {
+     "recall5": 0.8631,
+     "mrr": 0.9691,
+     "ndcg10": 0.821
+    },
+    "data_analyst": {
+     "recall5": 0.9395,
+     "mrr": 0.9904,
+     "ndcg10": 0.8972
+    }
+   },
+   "by_job_type": {
+    "fit": {
+     "recall5": 0.9073,
+     "mrr": 0.9844,
+     "ndcg10": 0.8649
+    },
+    "lowball": {
+     "recall5": 0.8779,
+     "mrr": 0.9746,
+     "ndcg10": 0.8621
+    },
+    "partial": {
+     "recall5": 0.7749,
+     "mrr": 0.9407,
+     "ndcg10": 0.7712
+    }
+   }
+  },
+  {
+   "removed": "-outcome",
+   "recall5": 0.9482,
+   "mrr": 0.9914,
+   "ndcg10": 0.8693,
+   "delta_ndcg10": -0.0009,
+   "by_persona": {
+    "ml_engineer": {
+     "recall5": 0.9316,
+     "mrr": 0.9935,
+     "ndcg10": 0.8547
+    },
+    "fullstack_dev": {
+     "recall5": 0.9357,
+     "mrr": 0.9796,
+     "ndcg10": 0.8447
+    },
+    "data_analyst": {
+     "recall5": 0.9763,
+     "mrr": 1.0,
+     "ndcg10": 0.9064
+    }
+   },
+   "by_job_type": {
+    "fit": {
+     "recall5": 0.9608,
+     "mrr": 0.9946,
+     "ndcg10": 0.8801
+    },
+    "lowball": {
+     "recall5": 0.9643,
+     "mrr": 0.993,
+     "ndcg10": 0.8934
+    },
+    "partial": {
+     "recall5": 0.8993,
+     "mrr": 0.9807,
+     "ndcg10": 0.8194
+    }
+   }
+  },
+  {
+   "removed": "-corrective",
+   "recall5": 0.9465,
+   "mrr": 0.9914,
+   "ndcg10": 0.8702,
+   "delta_ndcg10": 0.0,
+   "by_persona": {
+    "ml_engineer": {
+     "recall5": 0.9242,
+     "mrr": 0.9935,
+     "ndcg10": 0.8571
+    },
+    "fullstack_dev": {
+     "recall5": 0.9329,
+     "mrr": 0.9796,
+     "ndcg10": 0.8452
+    },
+    "data_analyst": {
+     "recall5": 0.9816,
+     "mrr": 1.0,
+     "ndcg10": 0.9062
+    }
+   },
+   "by_job_type": {
+    "fit": {
+     "recall5": 0.9567,
+     "mrr": 0.9946,
+     "ndcg10": 0.8819
+    },
+    "lowball": {
+     "recall5": 0.9615,
+     "mrr": 0.993,
+     "ndcg10": 0.8956
+    },
+    "partial": {
+     "recall5": 0.9056,
+     "mrr": 0.9807,
+     "ndcg10": 0.8171
+    }
+   }
+  }
+ ]
+}

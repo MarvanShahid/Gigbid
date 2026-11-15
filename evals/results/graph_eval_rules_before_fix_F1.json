@@ -1,0 +1,494 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:25:41",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)",
+  "defences": true
+ },
+ "overall": {
+  "n_jobs": 600,
+  "errors": 0,
+  "bid_skip": {
+   "precision": 0.875,
+   "recall": 0.939,
+   "f1": 0.9059,
+   "tp": 231,
+   "fp": 33,
+   "fn": 15
+  },
+  "accuracy": 0.92,
+  "scam_detection": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0,
+   "tp": 66,
+   "fp": 0,
+   "fn": 0
+  },
+  "price_in_fair_band": 0.8918,
+  "n_priced": 231,
+  "proposals": 257,
+  "claims_per_proposal": 2.918,
+  "unsupported_per_proposal_before": 0.008,
+  "unsupported_per_proposal_after": 0.0,
+  "critic_loops": {
+   "1": 245,
+   "2": 12
+  },
+  "compliance": {
+   "pass": 257
+  },
+  "submitted": 257,
+  "gigsim_reply_rate": 0.8521,
+  "gigsim_hire_rate": 0.7082,
+  "injection": {
+   "n": 36,
+   "detected": 36,
+   "false_positives_on_clean": 0,
+   "attack_success": 0,
+   "attack_success_rate": 0.0
+  },
+  "latency": {
+   "p50_s_per_job": 0.19,
+   "p95_s_per_job": 0.371,
+   "p50_s_per_proposal": 0.407,
+   "p95_s_per_proposal": 0.509
+  },
+  "cost": {
+   "tokens_per_job": 0.0,
+   "usd_per_job": 0.0,
+   "usd_per_proposal": 0.0
+  }
+ },
+ "by_persona": {
+  "ml_engineer": {
+   "n_jobs": 200,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.8824,
+    "recall": 0.8824,
+    "f1": 0.8824,
+    "tp": 75,
+    "fp": 10,
+    "fn": 10
+   },
+   "accuracy": 0.9,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 20,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.96,
+   "n_priced": 75,
+   "proposals": 85,
+   "claims_per_proposal": 2.741,
+   "unsupported_per_proposal_before": 0.024,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 85
+   },
+   "compliance": {
+    "pass": 85
+   },
+   "submitted": 85,
+   "gigsim_reply_rate": 0.8706,
+   "gigsim_hire_rate": 0.7059,
+   "injection": {
+    "n": 12,
+    "detected": 12,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.187,
+    "p95_s_per_job": 0.364,
+    "p50_s_per_proposal": 0.399,
+    "p95_s_per_proposal": 0.482
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "fullstack_dev": {
+   "n_jobs": 200,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.837,
+    "recall": 0.9747,
+    "f1": 0.9006,
+    "tp": 77,
+    "fp": 15,
+    "fn": 2
+   },
+   "accuracy": 0.915,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 23,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8312,
+   "n_priced": 77,
+   "proposals": 88,
+   "claims_per_proposal": 3.182,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 81,
+    "2": 7
+   },
+   "compliance": {
+    "pass": 88
+   },
+   "submitted": 88,
+   "gigsim_reply_rate": 0.8409,
+   "gigsim_hire_rate": 0.6591,
+   "injection": {
+    "n": 16,
+    "detected": 16,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.2,
+    "p95_s_per_job": 0.387,
+    "p50_s_per_proposal": 0.419,
+    "p95_s_per_proposal": 0.53
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "data_analyst": {
+   "n_jobs": 200,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.908,
+    "recall": 0.9634,
+    "f1": 0.9349,
+    "tp": 79,
+    "fp": 8,
+    "fn": 3
+   },
+   "accuracy": 0.945,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 23,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8861,
+   "n_priced": 79,
+   "proposals": 84,
+   "claims_per_proposal": 2.821,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 79,
+    "2": 5
+   },
+   "compliance": {
+    "pass": 84
+   },
+   "submitted": 84,
+   "gigsim_reply_rate": 0.8452,
+   "gigsim_hire_rate": 0.7619,
+   "injection": {
+    "n": 8,
+    "detected": 8,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.175,
+    "p95_s_per_job": 0.365,
+    "p50_s_per_proposal": 0.398,
+    "p95_s_per_proposal": 0.515
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  }
+ },
+ "by_job_type": {
+  "fit": {
+   "n_jobs": 272,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.9665,
+    "recall": 0.939,
+    "f1": 0.9526,
+    "tp": 231,
+    "fp": 8,
+    "fn": 15
+   },
+   "accuracy": 0.9154,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8918,
+   "n_priced": 231,
+   "proposals": 239,
+   "claims_per_proposal": 2.921,
+   "unsupported_per_proposal_before": 0.004,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 228,
+    "2": 11
+   },
+   "compliance": {
+    "pass": 239
+   },
+   "submitted": 239,
+   "gigsim_reply_rate": 0.8912,
+   "gigsim_hire_rate": 0.7615,
+   "injection": {
+    "n": 10,
+    "detected": 10,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.321,
+    "p95_s_per_job": 0.412,
+    "p50_s_per_proposal": 0.409,
+    "p95_s_per_proposal": 0.513
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "lowball": {
+   "n_jobs": 70,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 25,
+    "fn": 0
+   },
+   "accuracy": 0.6429,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 18,
+   "claims_per_proposal": 2.889,
+   "unsupported_per_proposal_before": 0.056,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 17,
+    "2": 1
+   },
+   "compliance": {
+    "pass": 18
+   },
+   "submitted": 18,
+   "gigsim_reply_rate": 0.3333,
+   "gigsim_hire_rate": 0.0,
+   "injection": {
+    "n": 5,
+    "detected": 5,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.168,
+    "p95_s_per_job": 0.331,
+    "p50_s_per_proposal": 0.388,
+    "p95_s_per_proposal": 0.483
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "off": {
+   "n_jobs": 101,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 0,
+   "claims_per_proposal": null,
+   "unsupported_per_proposal_before": null,
+   "unsupported_per_proposal_after": null,
+   "critic_loops": {},
+   "compliance": {},
+   "submitted": 0,
+   "gigsim_reply_rate": null,
+   "gigsim_hire_rate": null,
+   "injection": {
+    "n": 10,
+    "detected": 10,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.161,
+    "p95_s_per_job": 0.202,
+    "p50_s_per_proposal": null,
+    "p95_s_per_proposal": null
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": null
+   }
+  },
+  "partial": {
+   "n_jobs": 91,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 0,
+   "claims_per_proposal": null,
+   "unsupported_per_proposal_before": null,
+   "unsupported_per_proposal_after": null,
+   "critic_loops": {},
+   "compliance": {},
+   "submitted": 0,
+   "gigsim_reply_rate": null,
+   "gigsim_hire_rate": null,
+   "injection": {
+    "n": 6,
+    "detected": 6,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.162,
+    "p95_s_per_job": 0.213,
+    "p50_s_per_proposal": null,
+    "p95_s_per_proposal": null
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": null
+   }
+  },
+  "scam": {
+   "n_jobs": 66,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 66,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 0,
+   "claims_per_proposal": null,
+   "unsupported_per_proposal_before": null,
+   "unsupported_per_proposal_after": null,
+   "critic_loops": {},
+   "compliance": {},
+   "submitted": 0,
+   "gigsim_reply_rate": null,
+   "gigsim_hire_rate": null,
+   "injection": {
+    "n": 5,
+    "detected": 5,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.157,
+    "p95_s_per_job": 0.207,
+    "p50_s_per_proposal": null,
+    "p95_s_per_proposal": null
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": null
+   }
+  }
+ }
+}

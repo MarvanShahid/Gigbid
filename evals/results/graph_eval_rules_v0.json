@@ -1,0 +1,498 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:40:53",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)",
+  "defences": true
+ },
+ "overall": {
+  "n_jobs": 600,
+  "errors": 0,
+  "bid_skip": {
+   "precision": 0.9661,
+   "recall": 0.9268,
+   "f1": 0.9461,
+   "tp": 228,
+   "fp": 8,
+   "fn": 18
+  },
+  "accuracy": 0.9567,
+  "scam_detection": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0,
+   "tp": 66,
+   "fp": 0,
+   "fn": 0
+  },
+  "price_in_fair_band": 0.8904,
+  "n_priced": 228,
+  "proposals": 236,
+  "claims_per_proposal": 1.805,
+  "unsupported_per_proposal_before": 0.0,
+  "unsupported_per_proposal_after": 0.0,
+  "critic_loops": {
+   "1": 214,
+   "2": 22
+  },
+  "compliance": {
+   "pass": 232,
+   "fixed": 4
+  },
+  "submitted": 236,
+  "gigsim_reply_rate": 0.8983,
+  "gigsim_hire_rate": 0.6441,
+  "injection": {
+   "n": 36,
+   "detected": 36,
+   "false_positives_on_clean": 0,
+   "attack_success": 0,
+   "attack_success_rate": 0.0
+  },
+  "latency": {
+   "p50_s_per_job": 0.158,
+   "p95_s_per_job": 0.348,
+   "p50_s_per_proposal": 0.386,
+   "p95_s_per_proposal": 0.447
+  },
+  "cost": {
+   "tokens_per_job": 0.0,
+   "usd_per_job": 0.0,
+   "usd_per_proposal": 0.0
+  }
+ },
+ "by_persona": {
+  "ml_engineer": {
+   "n_jobs": 200,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.9744,
+    "recall": 0.8941,
+    "f1": 0.9325,
+    "tp": 76,
+    "fp": 2,
+    "fn": 9
+   },
+   "accuracy": 0.945,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 20,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.9605,
+   "n_priced": 76,
+   "proposals": 78,
+   "claims_per_proposal": 1.641,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 75,
+    "2": 3
+   },
+   "compliance": {
+    "pass": 77,
+    "fixed": 1
+   },
+   "submitted": 78,
+   "gigsim_reply_rate": 0.9103,
+   "gigsim_hire_rate": 0.6538,
+   "injection": {
+    "n": 12,
+    "detected": 12,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.153,
+    "p95_s_per_job": 0.344,
+    "p50_s_per_proposal": 0.37,
+    "p95_s_per_proposal": 0.446
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "fullstack_dev": {
+   "n_jobs": 200,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.9733,
+    "recall": 0.9241,
+    "f1": 0.9481,
+    "tp": 73,
+    "fp": 2,
+    "fn": 6
+   },
+   "accuracy": 0.96,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 23,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8219,
+   "n_priced": 73,
+   "proposals": 75,
+   "claims_per_proposal": 2.08,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 67,
+    "2": 8
+   },
+   "compliance": {
+    "pass": 72,
+    "fixed": 3
+   },
+   "submitted": 75,
+   "gigsim_reply_rate": 0.9333,
+   "gigsim_hire_rate": 0.7333,
+   "injection": {
+    "n": 16,
+    "detected": 16,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.161,
+    "p95_s_per_job": 0.347,
+    "p50_s_per_proposal": 0.387,
+    "p95_s_per_proposal": 0.448
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "data_analyst": {
+   "n_jobs": 200,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.9518,
+    "recall": 0.9634,
+    "f1": 0.9576,
+    "tp": 79,
+    "fp": 4,
+    "fn": 3
+   },
+   "accuracy": 0.965,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 23,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8861,
+   "n_priced": 79,
+   "proposals": 83,
+   "claims_per_proposal": 1.711,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 72,
+    "2": 11
+   },
+   "compliance": {
+    "pass": 83
+   },
+   "submitted": 83,
+   "gigsim_reply_rate": 0.8554,
+   "gigsim_hire_rate": 0.5542,
+   "injection": {
+    "n": 8,
+    "detected": 8,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.159,
+    "p95_s_per_job": 0.35,
+    "p50_s_per_proposal": 0.39,
+    "p95_s_per_proposal": 0.442
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  }
+ },
+ "by_job_type": {
+  "fit": {
+   "n_jobs": 272,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.9702,
+    "recall": 0.9268,
+    "f1": 0.948,
+    "tp": 228,
+    "fp": 7,
+    "fn": 18
+   },
+   "accuracy": 0.9081,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": 0.8904,
+   "n_priced": 228,
+   "proposals": 235,
+   "claims_per_proposal": 1.804,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 213,
+    "2": 22
+   },
+   "compliance": {
+    "pass": 231,
+    "fixed": 4
+   },
+   "submitted": 235,
+   "gigsim_reply_rate": 0.9021,
+   "gigsim_hire_rate": 0.6468,
+   "injection": {
+    "n": 10,
+    "detected": 10,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.301,
+    "p95_s_per_job": 0.363,
+    "p50_s_per_proposal": 0.386,
+    "p95_s_per_proposal": 0.448
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "lowball": {
+   "n_jobs": 70,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 0,
+   "claims_per_proposal": null,
+   "unsupported_per_proposal_before": null,
+   "unsupported_per_proposal_after": null,
+   "critic_loops": {},
+   "compliance": {},
+   "submitted": 0,
+   "gigsim_reply_rate": null,
+   "gigsim_hire_rate": null,
+   "injection": {
+    "n": 5,
+    "detected": 5,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.144,
+    "p95_s_per_job": 0.184,
+    "p50_s_per_proposal": null,
+    "p95_s_per_proposal": null
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": null
+   }
+  },
+  "off": {
+   "n_jobs": 101,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 0,
+   "claims_per_proposal": null,
+   "unsupported_per_proposal_before": null,
+   "unsupported_per_proposal_after": null,
+   "critic_loops": {},
+   "compliance": {},
+   "submitted": 0,
+   "gigsim_reply_rate": null,
+   "gigsim_hire_rate": null,
+   "injection": {
+    "n": 10,
+    "detected": 10,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.144,
+    "p95_s_per_job": 0.19,
+    "p50_s_per_proposal": null,
+    "p95_s_per_proposal": null
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": null
+   }
+  },
+  "partial": {
+   "n_jobs": 91,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 1,
+    "fn": 0
+   },
+   "accuracy": 0.989,
+   "scam_detection": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 1,
+   "claims_per_proposal": 2.0,
+   "unsupported_per_proposal_before": 0.0,
+   "unsupported_per_proposal_after": 0.0,
+   "critic_loops": {
+    "1": 1
+   },
+   "compliance": {
+    "pass": 1
+   },
+   "submitted": 1,
+   "gigsim_reply_rate": 0.0,
+   "gigsim_hire_rate": 0.0,
+   "injection": {
+    "n": 6,
+    "detected": 6,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.143,
+    "p95_s_per_job": 0.175,
+    "p50_s_per_proposal": 0.394,
+    "p95_s_per_proposal": 0.394
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": 0.0
+   }
+  },
+  "scam": {
+   "n_jobs": 66,
+   "errors": 0,
+   "bid_skip": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0
+   },
+   "accuracy": 1.0,
+   "scam_detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 66,
+    "fp": 0,
+    "fn": 0
+   },
+   "price_in_fair_band": null,
+   "n_priced": 0,
+   "proposals": 0,
+   "claims_per_proposal": null,
+   "unsupported_per_proposal_before": null,
+   "unsupported_per_proposal_after": null,
+   "critic_loops": {},
+   "compliance": {},
+   "submitted": 0,
+   "gigsim_reply_rate": null,
+   "gigsim_hire_rate": null,
+   "injection": {
+    "n": 5,
+    "detected": 5,
+    "false_positives_on_clean": 0,
+    "attack_success": 0,
+    "attack_success_rate": 0.0
+   },
+   "latency": {
+    "p50_s_per_job": 0.144,
+    "p95_s_per_job": 0.189,
+    "p50_s_per_proposal": null,
+    "p95_s_per_proposal": null
+   },
+   "cost": {
+    "tokens_per_job": 0.0,
+    "usd_per_job": 0.0,
+    "usd_per_proposal": null
+   }
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:41:59",
+  "commit": "uncommitted",
+  "profile": "rules",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)"
+ },
+ "summary": {
+  "n_jobs": 30,
+  "errors": 0,
+  "bid_skip": {
+   "precision": 0.9286,
+   "recall": 0.9286,
+   "f1": 0.9286,
+   "tp": 13,
+   "fp": 1,
+   "fn": 1
+  },
+  "accuracy": 0.9333,
+  "scam_detection": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "tp": 0,
+   "fp": 0,
+   "fn": 0
+  },
+  "price_in_fair_band": 1.0,
+  "n_priced": 13,
+  "proposals": 14,
+  "claims_per_proposal": 2.5,
+  "unsupported_per_proposal_before": 0.0,
+  "unsupported_per_proposal_after": 0.0,
+  "critic_loops": {
+   "1": 14
+  },
+  "compliance": {
+   "pass": 14
+  },
+  "submitted": 14,
+  "gigsim_reply_rate": 0.7857,
+  "gigsim_hire_rate": 0.7143,
+  "injection": {
+   "n": 4,
+   "detected": 4,
+   "false_positives_on_clean": 0,
+   "attack_success": 0,
+   "attack_success_rate": 0.0
+  },
+  "latency": {
+   "p50_s_per_job": 0.254,
+   "p95_s_per_job": 0.409,
+   "p50_s_per_proposal": 0.408,
+   "p95_s_per_proposal": 0.512
+  },
+  "cost": {
+   "tokens_per_job": 0.0,
+   "usd_per_job": 0.0,
+   "usd_per_proposal": 0.0
+  }
+ },
+ "checks": {
+  "bid_skip_f1": {
+   "value": 0.9286,
+   "pass": true
+  },
+  "scam_recall": {
+   "value": 0.0,
+   "pass": true
+  },
+  "unsupported_per_proposal": {
+   "value": 0.0,
+   "pass": true
+  },
+  "injection_attack_success": {
+   "value": 0.0,
+   "pass": true
+  },
+  "price_in_fair_band": {
+   "value": 1.0,
+   "pass": true
+  }
+ }
+}

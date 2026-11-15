@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "generated_at": "2026-11-15T19:41:33",
+  "commit": "uncommitted",
+  "profile": "open",
+  "embedder": "hashed-tfidf-1024",
+  "reranker": "lexical-pair",
+  "data": "synthetic stand-in (scripts/build_standin_data.py, seed 800)"
+ },
+ "status": "pending",
+ "reason": "no model for profile 'open' (set GROQ_API_KEY)",
+ "n_tasks": 40,
+ "tasks": [
+  {
+   "q": "Do I have portfolio proof for pytorch?",
+   "tool": "search_evidence",
+   "args": {
+    "requirement": "pytorch"
+   }
+  },
+  {
+   "q": "Is the client behind job dev-ml-127 (client id c105) trustworthy?",
+   "tool": "get_client_history",
+   "args": {
+    "client_id": "c105"
+   }
+  },
+  {
+   "q": "How many Connects would it cost me to bid on job dev-ml-151?",
+   "tool": "get_connects_cost",
+   "args": {
+    "job_id": "dev-ml-151"
+   }
+  },
+  {
+   "q": "What do jobs in the mlops category usually pay?",
+   "tool": "market_stats",
+   "args": {
+    "category": "mlops"
+   }
+  },
+  {
+   "q": "Show me the screening questions of job dev-ml-121.",
+   "tool": "get_job",
+   "args": {
+    "job_id": "dev-ml-121"
+   }
+  },
+  {
+   "q": "How many Connects do I have left this week?",
+   "tool": "get_connects_balance",
+   "args": {}
+  },
+  {
+   "q": "Open my case study ml-p08.",
+   "tool": "get_case_study",
+   "args": {
+    "case_id": "ml-p08"
+   }
+  },
+  {
+   "q": "When am I free for a client call in the next 3 days?",
+   "tool": "free_slots",
+   "args": {
+    "days": 3
+   }
+  },
+  {
+   "q": "Any new messages from clients?",
+   "tool": "list_messages",
+   "args": {}
+  },
+  {
+   "q": "Find open jobs about time-series forecasting.",
+   "tool": "search_jobs",
+   "args": {
+    "query": "time-series forecasting"
+   }
+  },
+  {
+   "q": "Do I have portfolio proof for docker?",
+   "tool": "search_evidence",
+   "args": {
+    "requirement": "docker"
+   }
+  },
+  {
+   "q": "Is the client behind job dev-ml-157 (client id c130) trustworthy?",
+   "tool": "get_client_history",
+   "args": {
+    "client_id": "c130"
+   }
+  },
+  {
+   "q": "How many Connects would it cost me to bid on job dev-ml-054?",
+   "tool": "get_connects_cost",
+   "args": {
+    "job_id": "dev-ml-054"
+   }
+  },
+  {
+   "q": "What do jobs in the forecasting category usually pay?",
+   "tool": "market_stats",
+   "args": {
+    "category": "forecasting"
+   }
+  },
+  {
+   "q": "Show me the screening questions of job dev-ml-137.",
+   "tool": "get_job",
+   "args": {
+    "job_id": "dev-ml-137"
+   }
+  },
+  {
+   "q": "How many Connects do I have left this week?",
+   "tool": "get_connects_balance",
+   "args": {}
+  },
+  {
+   "q": "Open my case study ml-p08.",
+   "tool": "get_case_study",
+   "args": {
+    "case_id": "ml-p08"
+   }
+  },
+  {
+   "q": "When am I free for a client call in the next 3 days?",
+   "tool": "free_slots",
+   "args": {
+    "days": 3
+   }
+  },
+  {
+   "q": "Any new messages from clients?",
+   "tool": "list_messages",
+   "args": {}
+  },
+  {
+   "q": "Find open jobs about NLP.",
+   "tool": "search_jobs",
+   "args": {
+    "query": "NLP"
+   }
+  },
+  {
+   "q": "Do I have portfolio proof for docker?",
+   "tool": "search_evidence",
+   "args": {
+    "requirement": "docker"
+   }
+  },
+  {
+   "q": "Is the client behind job dev-ml-081 (client id c001) trustworthy?",
+   "tool": "get_client_history",
+   "args": {
+    "client_id": "c001"
+   }
+  },
+  {
+   "q": "How many Connects would it cost me to bid on job dev-ml-088?",
+   "tool": "get_connects_cost",
+   "args": {
+    "job_id": "dev-ml-088"
+   }
+  },
+  {
+   "q": "What do jobs in the mlops category usually pay?",
+   "tool": "market_stats",
+   "args": {
+    "category": "mlops"
+   }
+  },
+  {
+   "q": "Show me the screening questions of job dev-ml-043.",
+   "tool": "get_job",
+   "args": {
+    "job_id": "dev-ml-043"
+   }
+  },
+  {
+   "q": "How many Connects do I have left this week?",
+   "tool": "get_connects_balance",
+   "args": {}
+  },
+  {
+   "q": "Open my case study ml-p01.",
+   "tool": "get_case_study",
+   "args": {
+    "case_id": "ml-p01"
+   }
+  },
+  {
+   "q": "When am I free for a client call in the next 3 days?",
+   "tool": "free_slots",
+   "args": {
+    "days": 3
+   }
+  },
+  {
+   "q": "Any new messages from clients?",
+   "tool": "list_messages",
+   "args": {}
+  },
+  {
+   "q": "Find open jobs about MLflow.",
+   "tool": "search_jobs",
+   "args": {
+    "query": "MLflow"
+   }
+  },
+  {
+   "q": "Do I have portfolio proof for pytorch?",
+   "tool": "search_evidence",
+   "args": {
+    "requirement": "pytorch"
+   }
+  },
+  {
+   "q": "Is the client behind job dev-ml-176 (client id c047) trustworthy?",
+   "tool": "get_client_history",
+   "args": {
+    "client_id": "c047"
+   }
+  },
+  {
+   "q": "How many Connects would it cost me to bid on job dev-ml-131?",
+   "tool": "get_connects_cost",
+   "args": {
+    "job_id": "dev-ml-131"
+   }
+  },
+  {
+   "q": "What do jobs in the mlops category usually pay?",
+   "tool": "market_stats",
+   "args": {
+    "category": "mlops"
+   }
+  },
+  {
+   "q": "Show me the screening questions of job dev-ml-183.",
+   "tool": "get_job",
+   "args": {
+    "job_id": "dev-ml-183"
+   }
+  },
+  {
+   "q": "How many Connects do I have left this week?",
+   "tool": "get_connects_balance",
+   "args": {}
+  },
+  {
+   "q": "Open my case study ml-p01.",
+   "tool": "get_case_study",
+   "args": {
+    "case_id": "ml-p01"
+   }
+  },
+  {
+   "q": "When am I free for a client call in the next 3 days?",
+   "tool": "free_slots",
+   "args": {
+    "days": 3
+   }
+  },
+  {
+   "q": "Any new messages from clients?",
+   "tool": "list_messages",
+   "args": {}
+  },
+  {
+   "q": "Find open jobs about PyTorch.",
+   "tool": "search_jobs",
+   "args": {
+    "query": "PyTorch"
+   }
+  }
+ ]
+}
