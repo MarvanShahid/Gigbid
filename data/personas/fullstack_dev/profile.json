@@ -1,0 +1,290 @@
+{
+ "persona": "fullstack_dev",
+ "name": "Bilal Ahmed",
+ "title": "Full-Stack Web Developer",
+ "floor": 28,
+ "rate": 38,
+ "categories": [
+  "saas_web",
+  "ecommerce",
+  "realtime_apps",
+  "mobile"
+ ],
+ "projects": [
+  {
+   "id": "fu-p00",
+   "title": "team wiki for Homestead",
+   "skills": [
+    "react",
+    "nextjs",
+    "tailwind",
+    "typescript"
+   ],
+   "category": "saas_web",
+   "industry": "fintech",
+   "year": 2024,
+   "has_repo": true,
+   "code_only_skills": [
+    "postgres"
+   ]
+  },
+  {
+   "id": "fu-p01",
+   "title": "subscription box shop for Sagebrush",
+   "skills": [
+    "react",
+    "tailwind",
+    "nextjs",
+    "graphql"
+   ],
+   "category": "ecommerce",
+   "industry": "e-commerce",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p02",
+   "title": "chat support widget for Mapleleaf",
+   "skills": [
+    "nodejs",
+    "react",
+    "typescript"
+   ],
+   "category": "realtime_apps",
+   "industry": "healthcare",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p03",
+   "title": "clinic booking app for Bluepeak",
+   "skills": [
+    "auth",
+    "react_native",
+    "graphql"
+   ],
+   "category": "mobile",
+   "industry": "edtech",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p04",
+   "title": "booking SaaS for Bluepeak",
+   "skills": [
+    "typescript",
+    "auth",
+    "tailwind",
+    "stripe"
+   ],
+   "category": "saas_web",
+   "industry": "healthcare",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p05",
+   "title": "marketplace checkout for Quantum Retail",
+   "skills": [
+    "react",
+    "postgres",
+    "graphql",
+    "tailwind",
+    "stripe"
+   ],
+   "category": "ecommerce",
+   "industry": "edtech",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p06",
+   "title": "collaborative editor for Homestead",
+   "skills": [
+    "typescript",
+    "celery",
+    "aws",
+    "django",
+    "nodejs"
+   ],
+   "category": "realtime_apps",
+   "industry": "fintech",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p07",
+   "title": "expense scanner app for Quantum Retail",
+   "skills": [
+    "react_native",
+    "auth",
+    "graphql"
+   ],
+   "category": "mobile",
+   "industry": "fintech",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p08",
+   "title": "team wiki for Mapleleaf",
+   "skills": [
+    "nextjs",
+    "auth",
+    "typescript",
+    "react",
+    "postgres"
+   ],
+   "category": "saas_web",
+   "industry": "logistics",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p09",
+   "title": "marketplace checkout for Parcelly",
+   "skills": [
+    "react",
+    "nextjs",
+    "postgres"
+   ],
+   "category": "ecommerce",
+   "industry": "fintech",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p10",
+   "title": "chat support widget for Parcelly",
+   "skills": [
+    "celery",
+    "django",
+    "websockets"
+   ],
+   "category": "realtime_apps",
+   "industry": "edtech",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p11",
+   "title": "fitness tracker app for Corvid Labs",
+   "skills": [
+    "graphql",
+    "react_native",
+    "auth"
+   ],
+   "category": "mobile",
+   "industry": "logistics",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p12",
+   "title": "HR onboarding app for Quantum Retail",
+   "skills": [
+    "stripe",
+    "tailwind",
+    "typescript"
+   ],
+   "category": "saas_web",
+   "industry": "logistics",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p13",
+   "title": "headless storefront for Kitebird",
+   "skills": [
+    "graphql",
+    "stripe",
+    "nodejs",
+    "react"
+   ],
+   "category": "ecommerce",
+   "industry": "real estate",
+   "year": 2022,
+   "has_repo": true,
+   "code_only_skills": [
+    "postgres"
+   ]
+  },
+  {
+   "id": "fu-p14",
+   "title": "chat support widget for Willow Learning",
+   "skills": [
+    "nodejs",
+    "typescript",
+    "react",
+    "aws",
+    "celery"
+   ],
+   "category": "realtime_apps",
+   "industry": "logistics",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p15",
+   "title": "delivery driver app for Tradewise",
+   "skills": [
+    "typescript",
+    "react_native",
+    "nodejs",
+    "auth",
+    "graphql"
+   ],
+   "category": "mobile",
+   "industry": "e-commerce",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p16",
+   "title": "booking SaaS for Willow Learning",
+   "skills": [
+    "stripe",
+    "postgres",
+    "tailwind",
+    "react",
+    "typescript"
+   ],
+   "category": "saas_web",
+   "industry": "logistics",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "fu-p17",
+   "title": "B2B ordering portal for Northwind",
+   "skills": [
+    "nodejs",
+    "graphql",
+    "postgres"
+   ],
+   "category": "ecommerce",
+   "industry": "healthcare",
+   "year": 2022,
+   "has_repo": true,
+   "code_only_skills": [
+    "tailwind",
+    "nextjs"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "persona": "data_analyst",
+ "name": "Sana Tariq",
+ "title": "Data Analyst",
+ "floor": 22,
+ "rate": 30,
+ "categories": [
+  "dashboards",
+  "data_pipelines",
+  "experimentation",
+  "reporting"
+ ],
+ "projects": [
+  {
+   "id": "da-p00",
+   "title": "sales KPI dashboard for Lumen Health",
+   "skills": [
+    "sql",
+    "powerbi",
+    "tableau",
+    "excel"
+   ],
+   "category": "dashboards",
+   "industry": "healthcare",
+   "year": 2022,
+   "has_repo": true,
+   "code_only_skills": [
+    "looker"
+   ]
+  },
+  {
+   "id": "da-p01",
+   "title": "warehouse migration for Orbitly",
+   "skills": [
+    "airflow",
+    "dbt",
+    "sql",
+    "snowflake"
+   ],
+   "category": "data_pipelines",
+   "industry": "logistics",
+   "year": 2026,
+   "has_repo": true,
+   "code_only_skills": [
+    "etl",
+    "bigquery"
+   ]
+  },
+  {
+   "id": "da-p02",
+   "title": "pricing experiment for Tradewise",
+   "skills": [
+    "ab_testing",
+    "pandas",
+    "statistics",
+    "sql"
+   ],
+   "category": "experimentation",
+   "industry": "fintech",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p03",
+   "title": "cohort retention study for Tidewater",
+   "skills": [
+    "powerbi",
+    "statistics",
+    "excel",
+    "sql",
+    "pandas"
+   ],
+   "category": "reporting",
+   "industry": "e-commerce",
+   "year": 2025,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p04",
+   "title": "marketing funnel report for Mapleleaf",
+   "skills": [
+    "sql",
+    "excel",
+    "tableau"
+   ],
+   "category": "dashboards",
+   "industry": "logistics",
+   "year": 2023,
+   "has_repo": true,
+   "code_only_skills": [
+    "looker"
+   ]
+  },
+  {
+   "id": "da-p05",
+   "title": "warehouse migration for Ironclad",
+   "skills": [
+    "snowflake",
+    "pandas",
+    "airflow",
+    "sql",
+    "etl"
+   ],
+   "category": "data_pipelines",
+   "industry": "logistics",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p06",
+   "title": "onboarding experiment for Northwind",
+   "skills": [
+    "sql",
+    "statistics",
+    "ab_testing",
+    "pandas"
+   ],
+   "category": "experimentation",
+   "industry": "fintech",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p07",
+   "title": "cohort retention study for Ironclad",
+   "skills": [
+    "powerbi",
+    "sql",
+    "excel",
+    "statistics"
+   ],
+   "category": "reporting",
+   "industry": "fintech",
+   "year": 2025,
+   "has_repo": true,
+   "code_only_skills": [
+    "pandas"
+   ]
+  },
+  {
+   "id": "da-p08",
+   "title": "sales KPI dashboard for Zenith Logistics",
+   "skills": [
+    "powerbi",
+    "sql",
+    "excel",
+    "tableau"
+   ],
+   "category": "dashboards",
+   "industry": "fintech",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p09",
+   "title": "orders ELT pipeline for Ironclad",
+   "skills": [
+    "etl",
+    "bigquery",
+    "pandas",
+    "airflow"
+   ],
+   "category": "data_pipelines",
+   "industry": "real estate",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p10",
+   "title": "checkout A/B test for Homestead",
+   "skills": [
+    "ab_testing",
+    "sql",
+    "pandas"
+   ],
+   "category": "experimentation",
+   "industry": "SaaS",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p11",
+   "title": "monthly board report for Sagebrush",
+   "skills": [
+    "pandas",
+    "powerbi",
+    "statistics",
+    "excel"
+   ],
+   "category": "reporting",
+   "industry": "logistics",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p12",
+   "title": "CFO pack for Kitebird",
+   "skills": [
+    "tableau",
+    "excel",
+    "powerbi",
+    "looker"
+   ],
+   "category": "dashboards",
+   "industry": "fintech",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p13",
+   "title": "event tracking pipeline for Harbor & Co",
+   "skills": [
+    "snowflake",
+    "airflow",
+    "etl"
+   ],
+   "category": "data_pipelines",
+   "industry": "logistics",
+   "year": 2022,
+   "has_repo": true,
+   "code_only_skills": [
+    "dbt",
+    "pandas"
+   ]
+  },
+  {
+   "id": "da-p14",
+   "title": "checkout A/B test for Tradewise",
+   "skills": [
+    "statistics",
+    "ab_testing",
+    "sql"
+   ],
+   "category": "experimentation",
+   "industry": "healthcare",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p15",
+   "title": "monthly board report for Tradewise",
+   "skills": [
+    "statistics",
+    "excel",
+    "sql"
+   ],
+   "category": "reporting",
+   "industry": "e-commerce",
+   "year": 2023,
+   "has_repo": true,
+   "code_only_skills": [
+    "pandas",
+    "powerbi"
+   ]
+  },
+  {
+   "id": "da-p16",
+   "title": "marketing funnel report for Bluepeak",
+   "skills": [
+    "looker",
+    "sql",
+    "excel"
+   ],
+   "category": "dashboards",
+   "industry": "real estate",
+   "year": 2023,
+   "has_repo": true,
+   "code_only_skills": [
+    "powerbi",
+    "tableau"
+   ]
+  },
+  {
+   "id": "da-p17",
+   "title": "warehouse migration for Homestead",
+   "skills": [
+    "sql",
+    "dbt",
+    "etl",
+    "bigquery",
+    "airflow"
+   ],
+   "category": "data_pipelines",
+   "industry": "logistics",
+   "year": 2022,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p18",
+   "title": "pricing experiment for Orbitly",
+   "skills": [
+    "ab_testing",
+    "sql",
+    "pandas",
+    "statistics"
+   ],
+   "category": "experimentation",
+   "industry": "e-commerce",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p19",
+   "title": "churn analysis for Homestead",
+   "skills": [
+    "excel",
+    "powerbi",
+    "statistics"
+   ],
+   "category": "reporting",
+   "industry": "media",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p20",
+   "title": "clinic operations dashboard for Ironclad",
+   "skills": [
+    "sql",
+    "tableau",
+    "powerbi",
+    "looker",
+    "excel"
+   ],
+   "category": "dashboards",
+   "industry": "e-commerce",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "da-p21",
+   "title": "warehouse migration for Mapleleaf",
+   "skills": [
+    "snowflake",
+    "sql",
+    "airflow",
+    "bigquery"
+   ],
+   "category": "data_pipelines",
+   "industry": "edtech",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  }
+ ]
+}

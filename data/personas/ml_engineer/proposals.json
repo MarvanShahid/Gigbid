@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "ml-q000",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your plate reader sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used computer vision, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "ml-q001",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": "ml-p13",
+  "text": "Your defect inspection line sounds close to the plate reader for Harbor & Co I built in 2023, where the system raised conversion by 14%. I used PyTorch, Docker, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "ml-q002",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "ml-q003",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p14",
+  "text": "Your demand forecaster sounds close to the energy-load forecaster for Zenith Logistics I built in 2024, where the system saved about $25k per month. I used XGBoost, a dynamic-graph deep learning framework, MLflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q004",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2024-10-01"
+ },
+ {
+  "id": "ml-q005",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p10",
+  "text": "Your demand forecaster sounds close to the cash-flow predictor for Sagebrush I built in 2024, where the system saved about $14k per month. I used time-series forecasting, Docker, XGBoost there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "ml-q006",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "ml-q007",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p04",
+  "text": "Your support-ticket copilot sounds close to the policy search bot for Quantum Retail I built in 2025, where the system handled 32k requests per day. I used a BERT-style model, FastAPI, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "ml-q008",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your shelf-gap detector sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used computer vision, YOLO, a dynamic-graph deep learning framework there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q009",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "ml-q010",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p11",
+  "text": "Your training pipeline sounds close to the drift monitor for Tidewater I built in 2026, where the system raised conversion by 6%. I used MLflow, FastAPI, model deployment pipelines and monitoring there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "ml-q011",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ml-q012",
+  "job_title": "Cash-Flow Predictor",
+  "category": "forecasting",
+  "project_id": "ml-p14",
+  "text": "Your cash-flow predictor sounds close to the energy-load forecaster for Zenith Logistics I built in 2024, where the system saved about $25k per month. I used XGBoost, PyTorch, experiment tracking and a model registry there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "ml-q013",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "ml-q014",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "ml-q015",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p08",
+  "text": "Your policy search bot sounds close to the support-ticket copilot for Vantage AI I built in 2024, where the system cut manual effort by 37%. I used Hugging Face Transformers, NLP, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "ml-q016",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p11",
+  "text": "Your training pipeline sounds close to the drift monitor for Tidewater I built in 2026, where the system raised conversion by 6%. I used MLflow, FastAPI, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "ml-q017",
+  "job_title": "Training Pipeline",
+  "category": "mlops",
+  "project_id": "ml-p03",
+  "text": "Your feature store sounds close to the training pipeline for Kitebird I built in 2025, where the system raised conversion by 7%. I used containerised services, MLflow, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "ml-q018",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your sales-email agent sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used RAG, Pinecone, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-10-01"
+ },
+ {
+  "id": "ml-q019",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p03",
+  "text": "Your training pipeline sounds close to the training pipeline for Kitebird I built in 2025, where the system raised conversion by 7%. I used Docker, MLflow, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "ml-q020",
+  "job_title": "Cash-Flow Predictor",
+  "category": "forecasting",
+  "project_id": "ml-p02",
+  "text": "Your cash-flow predictor sounds close to the demand forecaster for Mapleleaf I built in 2023, where the system cut manual effort by 51%. I used MLflow, PyTorch, forecasting weekly demand there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q021",
+  "job_title": "Drift Monitor",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your training pipeline sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, custom training loops with autograd, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "ml-q022",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": "ml-p09",
+  "text": "Your ppe compliance camera sounds close to the PPE compliance camera for Homestead I built in 2023, where the system reduced latency from 1181 ms to 96 ms. I used MLOps, computer vision, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "ml-q023",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "ml-q024",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p09",
+  "text": "Your ppe compliance camera sounds close to the PPE compliance camera for Homestead I built in 2023, where the system reduced latency from 1181 ms to 96 ms. I used MLOps, computer vision, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q025",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q026",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p00",
+  "text": "Your sales-email agent sounds close to the sales-email agent for Quantum Retail I built in 2024, where the system raised conversion by 14%. I used LangChain, an async Python web API, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "ml-q027",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ml-q028",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p13",
+  "text": "Your ppe compliance camera sounds close to the plate reader for Harbor & Co I built in 2023, where the system raised conversion by 14%. I used PyTorch, Docker, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "ml-q029",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p09",
+  "text": "Your defect inspection line sounds close to the PPE compliance camera for Homestead I built in 2023, where the system reduced latency from 1181 ms to 96 ms. I used MLOps, computer vision, an async Python web API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "ml-q030",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": "ml-p05",
+  "text": "Your plate reader sounds close to the plate reader for Lumen Health I built in 2023, where the system handled 40k requests per day. I used Docker, a single-stage object detector, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "ml-q031",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your contract q&a assistant sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used RAG, a managed vector database, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "ml-q032",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your support-ticket copilot sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used grounded answers from a document index, Pinecone, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "ml-q033",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "ml-q034",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p07",
+  "text": "Your feature store sounds close to the training pipeline for Harbor & Co I built in 2026, where the system saved about $27k per month. I used PyTorch, model deployment pipelines and monitoring, experiment tracking and a model registry there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ml-q035",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "ml-q036",
+  "job_title": "Training Pipeline",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your model serving platform sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, PyTorch, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "ml-q037",
+  "job_title": "Training Pipeline",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your training pipeline sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, PyTorch, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "ml-q038",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "ml-q039",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": "ml-p04",
+  "text": "Your sales-email agent sounds close to the policy search bot for Quantum Retail I built in 2025, where the system handled 32k requests per day. I used Hugging Face Transformers, FastAPI, text classification and entity extraction there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "ml-q040",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your shelf-gap detector sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used image classification and detection models, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q041",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your demand forecaster sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used Docker, time-series forecasting, XGBoost there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q042",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p00",
+  "text": "Your policy search bot sounds close to the sales-email agent for Quantum Retail I built in 2024, where the system raised conversion by 14%. I used chained prompt calls with tool use, FastAPI, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ml-q043",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p07",
+  "text": "Your feature store sounds close to the training pipeline for Harbor & Co I built in 2026, where the system saved about $27k per month. I used PyTorch, MLOps, experiment tracking and a model registry there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "ml-q044",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "ml-q045",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "ml-q046",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q047",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your ppe compliance camera sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used computer vision, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "ml-q048",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your feature store sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, PyTorch, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q049",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your energy-load forecaster sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used containerised services, time-series forecasting, XGBoost there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "ml-q050",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": "ml-p00",
+  "text": "Your contract q&a assistant sounds close to the sales-email agent for Quantum Retail I built in 2024, where the system raised conversion by 14%. I used LangChain, an async Python web API, a managed vector database there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "ml-q051",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p10",
+  "text": "Your cash-flow predictor sounds close to the cash-flow predictor for Sagebrush I built in 2024, where the system saved about $14k per month. I used forecasting weekly demand, Docker, gradient-boosted trees there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q052",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your cash-flow predictor sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used containerised services, time-series forecasting, gradient-boosted trees there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ml-q053",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "ml-q054",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "ml-q055",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "ml-q056",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "ml-q057",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "ml-q058",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p11",
+  "text": "Your drift monitor sounds close to the drift monitor for Tidewater I built in 2026, where the system raised conversion by 6%. I used MLflow, FastAPI, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "ml-q059",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p03",
+  "text": "Your model serving platform sounds close to the training pipeline for Kitebird I built in 2025, where the system raised conversion by 7%. I used Docker, MLflow, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "ml-q060",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "ml-q061",
+  "job_title": "Drift Monitor",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your training pipeline sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, PyTorch, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "ml-q062",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": "ml-p04",
+  "text": "Your sales-email agent sounds close to the policy search bot for Quantum Retail I built in 2025, where the system handled 32k requests per day. I used fine-tuned a pretrained encoder, FastAPI, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "ml-q063",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "ml-q064",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ml-q065",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p14",
+  "text": "Your inventory planner sounds close to the energy-load forecaster for Zenith Logistics I built in 2024, where the system saved about $25k per month. I used XGBoost, PyTorch, MLflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "ml-q066",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": "ml-p04",
+  "text": "Your policy search bot sounds close to the policy search bot for Quantum Retail I built in 2025, where the system handled 32k requests per day. I used fine-tuned a pretrained encoder, an async Python web API, text classification and entity extraction there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ml-q067",
+  "job_title": "Energy-Load Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p02",
+  "text": "Your energy-load forecaster sounds close to the demand forecaster for Mapleleaf I built in 2023, where the system cut manual effort by 51%. I used experiment tracking and a model registry, PyTorch, time-series forecasting there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "ml-q068",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p07",
+  "text": "Your feature store sounds close to the training pipeline for Harbor & Co I built in 2026, where the system saved about $27k per month. I used PyTorch, model deployment pipelines and monitoring, MLflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "ml-q069",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p02",
+  "text": "Your cash-flow predictor sounds close to the demand forecaster for Mapleleaf I built in 2023, where the system cut manual effort by 51%. I used MLflow, a dynamic-graph deep learning framework, time-series forecasting there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "ml-q070",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ml-q071",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your feature store sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, PyTorch, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "ml-q072",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p15",
+  "text": "Your model serving platform sounds close to the drift monitor for Northwind I built in 2025, where the system improved accuracy from 72% to 96%. I used MLflow, PyTorch, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q073",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q074",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your policy search bot sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used RAG, Pinecone, text classification and entity extraction there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "ml-q075",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p04",
+  "text": "Your policy search bot sounds close to the policy search bot for Quantum Retail I built in 2025, where the system handled 32k requests per day. I used Hugging Face Transformers, FastAPI, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "ml-q076",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q077",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p13",
+  "text": "Your defect inspection line sounds close to the plate reader for Harbor & Co I built in 2023, where the system raised conversion by 14%. I used PyTorch, Docker, model deployment pipelines and monitoring there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "ml-q078",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q079",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "ml-q080",
+  "job_title": "Cash-Flow Predictor",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q081",
+  "job_title": "Energy-Load Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your energy-load forecaster sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used containerised services, time-series forecasting, gradient-boosted trees there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "ml-q082",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": "ml-p09",
+  "text": "Your plate reader sounds close to the PPE compliance camera for Homestead I built in 2023, where the system reduced latency from 1181 ms to 96 ms. I used model deployment pipelines and monitoring, image classification and detection models, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "ml-q083",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q084",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "ml-q085",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "ml-q086",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p11",
+  "text": "Your model serving platform sounds close to the drift monitor for Tidewater I built in 2026, where the system raised conversion by 6%. I used MLflow, FastAPI, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q087",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "ml-q088",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "ml-q089",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q090",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": "ml-p00",
+  "text": "Your contract q&a assistant sounds close to the sales-email agent for Quantum Retail I built in 2024, where the system raised conversion by 14%. I used an LLM orchestration library, FastAPI, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q091",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": "ml-p08",
+  "text": "Your policy search bot sounds close to the support-ticket copilot for Vantage AI I built in 2024, where the system cut manual effort by 37%. I used Hugging Face Transformers, text classification and entity extraction, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "ml-q092",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p02",
+  "text": "Your demand forecaster sounds close to the demand forecaster for Mapleleaf I built in 2023, where the system cut manual effort by 51%. I used experiment tracking and a model registry, PyTorch, time-series forecasting there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "ml-q093",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "ml-q094",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p05",
+  "text": "Your shelf-gap detector sounds close to the plate reader for Lumen Health I built in 2023, where the system handled 40k requests per day. I used Docker, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "ml-q095",
+  "job_title": "Contract Q&A Assistant",
+  "category": "llm_apps",
+  "project_id": "ml-p04",
+  "text": "Your sales-email agent sounds close to the policy search bot for Quantum Retail I built in 2025, where the system handled 32k requests per day. I used Hugging Face Transformers, an async Python web API, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q096",
+  "job_title": "Energy-Load Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your demand forecaster sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used containerised services, time-series forecasting, XGBoost there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "ml-q097",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "ml-q098",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your shelf-gap detector sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used computer vision, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q099",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "ml-q100",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p05",
+  "text": "Your shelf-gap detector sounds close to the plate reader for Lumen Health I built in 2023, where the system handled 40k requests per day. I used Docker, YOLO, custom training loops with autograd there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "ml-q101",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p05",
+  "text": "Your plate reader sounds close to the plate reader for Lumen Health I built in 2023, where the system handled 40k requests per day. I used Docker, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "ml-q102",
+  "job_title": "Cash-Flow Predictor",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ml-q103",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "ml-q104",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "ml-q105",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "ml-q106",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q107",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "ml-q108",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your shelf-gap detector sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used computer vision, a single-stage object detector, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q109",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p09",
+  "text": "Your defect inspection line sounds close to the PPE compliance camera for Homestead I built in 2023, where the system reduced latency from 1181 ms to 96 ms. I used model deployment pipelines and monitoring, image classification and detection models, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ml-q110",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "ml-q111",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": "ml-p08",
+  "text": "Your contract q&a assistant sounds close to the support-ticket copilot for Vantage AI I built in 2024, where the system cut manual effort by 37%. I used a BERT-style model, NLP, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q112",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "ml-q113",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your policy search bot sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used RAG, a managed vector database, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "ml-q114",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "ml-q115",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": "ml-p07",
+  "text": "Your model serving platform sounds close to the training pipeline for Harbor & Co I built in 2026, where the system saved about $27k per month. I used PyTorch, model deployment pipelines and monitoring, MLflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "ml-q116",
+  "job_title": "Model Serving Platform",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "ml-q117",
+  "job_title": "Energy-Load Forecaster",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "ml-q118",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": "ml-p10",
+  "text": "Your cash-flow predictor sounds close to the cash-flow predictor for Sagebrush I built in 2024, where the system saved about $14k per month. I used time-series forecasting, Docker, gradient-boosted trees there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q119",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your energy-load forecaster sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used Docker, forecasting weekly demand, XGBoost there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "ml-q120",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "ml-q121",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your support-ticket copilot sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used RAG, Pinecone, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "ml-q122",
+  "job_title": "Energy-Load Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p02",
+  "text": "Your demand forecaster sounds close to the demand forecaster for Mapleleaf I built in 2023, where the system cut manual effort by 51%. I used MLflow, a dynamic-graph deep learning framework, forecasting weekly demand there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "ml-q123",
+  "job_title": "Drift Monitor",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "ml-q124",
+  "job_title": "Energy-Load Forecaster",
+  "category": "forecasting",
+  "project_id": "ml-p14",
+  "text": "Your inventory planner sounds close to the energy-load forecaster for Zenith Logistics I built in 2024, where the system saved about $25k per month. I used XGBoost, PyTorch, MLflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "ml-q125",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": "ml-p02",
+  "text": "Your demand forecaster sounds close to the demand forecaster for Mapleleaf I built in 2023, where the system cut manual effort by 51%. I used experiment tracking and a model registry, PyTorch, time-series forecasting there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "ml-q126",
+  "job_title": "Demand Forecaster",
+  "category": "forecasting",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "ml-q127",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": "ml-p08",
+  "text": "Your policy search bot sounds close to the support-ticket copilot for Vantage AI I built in 2024, where the system cut manual effort by 37%. I used Hugging Face Transformers, NLP, Pinecone there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q128",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q129",
+  "job_title": "Inventory Planner",
+  "category": "forecasting",
+  "project_id": "ml-p06",
+  "text": "Your inventory planner sounds close to the cash-flow predictor for Homestead I built in 2023, where the system handled 37k requests per day. I used Docker, forecasting weekly demand, XGBoost there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "ml-q130",
+  "job_title": "Training Pipeline",
+  "category": "mlops",
+  "project_id": "ml-p03",
+  "text": "Your drift monitor sounds close to the training pipeline for Kitebird I built in 2025, where the system raised conversion by 7%. I used Docker, experiment tracking and a model registry, an async Python web API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "ml-q131",
+  "job_title": "Training Pipeline",
+  "category": "mlops",
+  "project_id": "ml-p03",
+  "text": "Your feature store sounds close to the training pipeline for Kitebird I built in 2025, where the system raised conversion by 7%. I used containerised services, MLflow, FastAPI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "ml-q132",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "ml-q133",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q134",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "ml-q135",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q136",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p01",
+  "text": "Your plate reader sounds close to the defect inspection line for Zenith Logistics I built in 2025, where the system reduced latency from 1623 ms to 239 ms. I used computer vision, a single-stage object detector, a dynamic-graph deep learning framework there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q137",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "ml-q138",
+  "job_title": "Plate Reader",
+  "category": "computer_vision",
+  "project_id": "ml-p13",
+  "text": "Your plate reader sounds close to the plate reader for Harbor & Co I built in 2023, where the system raised conversion by 14%. I used PyTorch, Docker, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "ml-q139",
+  "job_title": "Sales-Email Agent",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "ml-q140",
+  "job_title": "Support-Ticket Copilot",
+  "category": "llm_apps",
+  "project_id": "ml-p12",
+  "text": "Your contract q&a assistant sounds close to the contract Q&A assistant for Pixelforge I built in 2026, where the system raised conversion by 15%. I used RAG, Pinecone, NLP there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "ml-q141",
+  "job_title": "Shelf-Gap Detector",
+  "category": "computer_vision",
+  "project_id": "ml-p05",
+  "text": "Your shelf-gap detector sounds close to the plate reader for Lumen Health I built in 2023, where the system handled 40k requests per day. I used containerised services, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "ml-q142",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": "ml-p11",
+  "text": "Your training pipeline sounds close to the drift monitor for Tidewater I built in 2026, where the system raised conversion by 6%. I used MLflow, an async Python web API, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "ml-q143",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": "ml-p13",
+  "text": "Your ppe compliance camera sounds close to the plate reader for Harbor & Co I built in 2023, where the system raised conversion by 14%. I used PyTorch, Docker, MLOps there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "ml-q144",
+  "job_title": "Drift Monitor",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "ml-q145",
+  "job_title": "Feature Store",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "ml-q146",
+  "job_title": "Defect Inspection Line",
+  "category": "computer_vision",
+  "project_id": "ml-p05",
+  "text": "Your shelf-gap detector sounds close to the plate reader for Lumen Health I built in 2023, where the system handled 40k requests per day. I used Docker, YOLO, PyTorch there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "ml-q147",
+  "job_title": "Ppe Compliance Camera",
+  "category": "computer_vision",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "ml-q148",
+  "job_title": "Drift Monitor",
+  "category": "mlops",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "ml-q149",
+  "job_title": "Policy Search Bot",
+  "category": "llm_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ }
+]

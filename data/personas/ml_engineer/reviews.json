@@ -1,0 +1,82 @@
+[
+ {
+  "id": "ml-r00",
+  "project_id": "ml-p00",
+  "rating": 4.5,
+  "text": "Ayesha delivered our sales-email agent on time. Strong on an async Python web API.",
+  "client_industry": "healthcare",
+  "date": "2024-06-15"
+ },
+ {
+  "id": "ml-r01",
+  "project_id": "ml-p13",
+  "rating": 5.0,
+  "text": "Ayesha delivered our plate reader on time. Strong on Docker.",
+  "client_industry": "fintech",
+  "date": "2023-05-15"
+ },
+ {
+  "id": "ml-r02",
+  "project_id": "ml-p07",
+  "rating": 4.5,
+  "text": "Ayesha delivered our training pipeline on time. Strong on experiment tracking and a model registry.",
+  "client_industry": "real estate",
+  "date": "2026-06-15"
+ },
+ {
+  "id": "ml-r03",
+  "project_id": "ml-p03",
+  "rating": 5.0,
+  "text": "Ayesha delivered our training pipeline on time. Strong on experiment tracking and a model registry.",
+  "client_industry": "fintech",
+  "date": "2025-07-15"
+ },
+ {
+  "id": "ml-r04",
+  "project_id": "ml-p02",
+  "rating": 5.0,
+  "text": "Ayesha delivered our demand forecaster on time. Strong on forecasting weekly demand.",
+  "client_industry": "fintech",
+  "date": "2023-09-15"
+ },
+ {
+  "id": "ml-r05",
+  "project_id": "ml-p12",
+  "rating": 5.0,
+  "text": "Ayesha delivered our contract Q&A assistant on time. Strong on Hugging Face Transformers.",
+  "client_industry": "edtech",
+  "date": "2026-09-15"
+ },
+ {
+  "id": "ml-r06",
+  "project_id": "ml-p15",
+  "rating": 5.0,
+  "text": "Ayesha delivered our drift monitor on time. Strong on a dynamic-graph deep learning framework.",
+  "client_industry": "real estate",
+  "date": "2025-01-15"
+ },
+ {
+  "id": "ml-r07",
+  "project_id": "ml-p06",
+  "rating": 5.0,
+  "text": "Ayesha delivered our cash-flow predictor on time. Strong on Docker.",
+  "client_industry": "edtech",
+  "date": "2023-09-15"
+ },
+ {
+  "id": "ml-r08",
+  "project_id": "ml-p08",
+  "rating": 5.0,
+  "text": "Ayesha delivered our support-ticket copilot on time. Strong on a stateful agent graph.",
+  "client_industry": "healthcare",
+  "date": "2024-02-15"
+ },
+ {
+  "id": "ml-r09",
+  "project_id": "ml-p09",
+  "rating": 4.5,
+  "text": "Ayesha delivered our PPE compliance camera on time. Strong on FastAPI.",
+  "client_industry": "edtech",
+  "date": "2023-04-15"
+ }
+]

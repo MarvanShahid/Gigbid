@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "da-q000",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used a cloud data warehouse, dataframe wrangling in Python, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "da-q001",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p10",
+  "text": "Your checkout a/b test sounds close to the checkout A/B test for Homestead I built in 2026, where the system cut manual effort by 60%. I used A/B testing, SQL, pandas there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q002",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "da-q003",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "da-q004",
+  "job_title": "Monthly Board Report",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your inventory audit sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Power BI, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "da-q005",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "da-q006",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": "da-p10",
+  "text": "Your pricing experiment sounds close to the checkout A/B test for Homestead I built in 2026, where the system cut manual effort by 60%. I used A/B testing, SQL, pandas there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "da-q007",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "da-q008",
+  "job_title": "Cfo Pack",
+  "category": "dashboards",
+  "project_id": "da-p20",
+  "text": "Your marketing funnel report sounds close to the clinic operations dashboard for Ironclad I built in 2024, where the system cut manual effort by 34%. I used SQL, Tableau, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q009",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "da-q010",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "da-q011",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your cohort retention study sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Power BI, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "da-q012",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "da-q013",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p08",
+  "text": "Your clinic operations dashboard sounds close to the sales KPI dashboard for Zenith Logistics I built in 2022, where the system cut manual effort by 61%. I used Microsoft BI dashboards, hand-written analytical queries, spreadsheet models with pivot tables there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q014",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q015",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": "da-p15",
+  "text": "Your churn analysis sounds close to the monthly board report for Tradewise I built in 2023, where the system raised conversion by 11%. I used statistics, spreadsheet models with pivot tables, hand-written analytical queries there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q016",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p10",
+  "text": "Your email test program sounds close to the checkout A/B test for Homestead I built in 2026, where the system cut manual effort by 60%. I used A/B testing, SQL, dataframe wrangling in Python there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "da-q017",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p14",
+  "text": "Your email test program sounds close to the checkout A/B test for Tradewise I built in 2026, where the system raised conversion by 13%. I used statistics, A/B testing, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "da-q018",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": "da-p02",
+  "text": "Your checkout a/b test sounds close to the pricing experiment for Tradewise I built in 2023, where the system cut manual effort by 26%. I used A/B testing, pandas, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q019",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your cohort retention study sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used dataframe wrangling in Python, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "da-q020",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p09",
+  "text": "Your orders elt pipeline sounds close to the orders ELT pipeline for Ironclad I built in 2023, where the system reduced latency from 2309 ms to 120 ms. I used ETL, BigQuery, dataframe wrangling in Python there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "da-q021",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p16",
+  "text": "Your marketing funnel report sounds close to the marketing funnel report for Bluepeak I built in 2023, where the system reduced latency from 2308 ms to 128 ms. I used semantic-layer dashboards, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "da-q022",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your orders elt pipeline sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used Snowflake, dataframe wrangling in Python, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q023",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "da-q024",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "da-q025",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p20",
+  "text": "Your sales kpi dashboard sounds close to the clinic operations dashboard for Ironclad I built in 2024, where the system cut manual effort by 34%. I used hand-written analytical queries, Tableau, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "da-q026",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q027",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q028",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p17",
+  "text": "Your event tracking pipeline sounds close to the warehouse migration for Homestead I built in 2022, where the system cut manual effort by 48%. I used SQL, versioned transformation models in the warehouse, ETL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "da-q029",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p06",
+  "text": "Your onboarding experiment sounds close to the onboarding experiment for Northwind I built in 2022, where the system handled 33k requests per day. I used SQL, regression and hypothesis testing, A/B testing there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "da-q030",
+  "job_title": "Monthly Board Report",
+  "category": "reporting",
+  "project_id": "da-p15",
+  "text": "Your cohort retention study sounds close to the monthly board report for Tradewise I built in 2023, where the system raised conversion by 11%. I used statistics, Excel, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q031",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p01",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Orbitly I built in 2026, where the system cut manual effort by 41%. I used Airflow, versioned transformation models in the warehouse, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "da-q032",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "da-q033",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "da-q034",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p17",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Homestead I built in 2022, where the system cut manual effort by 48%. I used hand-written analytical queries, versioned transformation models in the warehouse, ETL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "da-q035",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "da-q036",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p13",
+  "text": "Your crm sync sounds close to the event tracking pipeline for Harbor & Co I built in 2022, where the system cut manual effort by 52%. I used Snowflake, Airflow, extract-transform-load pipelines there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "da-q037",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q038",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "da-q039",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p14",
+  "text": "Your email test program sounds close to the checkout A/B test for Tradewise I built in 2026, where the system raised conversion by 13%. I used statistics, controlled experiments with significance tests, hand-written analytical queries there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q040",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": "da-p12",
+  "text": "Your cfo pack sounds close to the CFO pack for Kitebird I built in 2024, where the system saved about $22k per month. I used interactive visual analytics workbooks, spreadsheet models with pivot tables, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "da-q041",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your crm sync sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used Snowflake, pandas, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "da-q042",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "da-q043",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p17",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Homestead I built in 2022, where the system cut manual effort by 48%. I used SQL, dbt, extract-transform-load pipelines there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q044",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p02",
+  "text": "Your onboarding experiment sounds close to the pricing experiment for Tradewise I built in 2023, where the system cut manual effort by 26%. I used controlled experiments with significance tests, pandas, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "da-q045",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": "da-p00",
+  "text": "Your clinic operations dashboard sounds close to the sales KPI dashboard for Lumen Health I built in 2022, where the system handled 2k requests per day. I used SQL, Power BI, interactive visual analytics workbooks there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "da-q046",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "da-q047",
+  "job_title": "Cohort Retention Study",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your monthly board report sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q048",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p21",
+  "text": "Your event tracking pipeline sounds close to the warehouse migration for Mapleleaf I built in 2026, where the system cut manual effort by 22%. I used a cloud data warehouse, hand-written analytical queries, scheduled DAGs for data pipelines there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q049",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q050",
+  "job_title": "Cohort Retention Study",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q051",
+  "job_title": "Cfo Pack",
+  "category": "dashboards",
+  "project_id": "da-p16",
+  "text": "Your marketing funnel report sounds close to the marketing funnel report for Bluepeak I built in 2023, where the system reduced latency from 2308 ms to 128 ms. I used Looker, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "da-q052",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p09",
+  "text": "Your warehouse migration sounds close to the orders ELT pipeline for Ironclad I built in 2023, where the system reduced latency from 2309 ms to 120 ms. I used ETL, BigQuery, dataframe wrangling in Python there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "da-q053",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p14",
+  "text": "Your email test program sounds close to the checkout A/B test for Tradewise I built in 2026, where the system raised conversion by 13%. I used regression and hypothesis testing, A/B testing, hand-written analytical queries there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "da-q054",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q055",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your inventory audit sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q056",
+  "job_title": "Cfo Pack",
+  "category": "dashboards",
+  "project_id": "da-p04",
+  "text": "Your marketing funnel report sounds close to the marketing funnel report for Mapleleaf I built in 2023, where the system handled 25k requests per day. I used hand-written analytical queries, spreadsheet models with pivot tables, Tableau there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "da-q057",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "da-q058",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "da-q059",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": "da-p07",
+  "text": "Your churn analysis sounds close to the cohort retention study for Ironclad I built in 2025, where the system saved about $6k per month. I used Power BI, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "da-q060",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your cohort retention study sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used dataframe wrangling in Python, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q061",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "da-q062",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": "da-p02",
+  "text": "Your email test program sounds close to the pricing experiment for Tradewise I built in 2023, where the system cut manual effort by 26%. I used A/B testing, pandas, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "da-q063",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p06",
+  "text": "Your checkout a/b test sounds close to the onboarding experiment for Northwind I built in 2022, where the system handled 33k requests per day. I used SQL, statistics, A/B testing there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "da-q064",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your churn analysis sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "da-q065",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "da-q066",
+  "job_title": "Checkout A/B Test",
+  "category": "experimentation",
+  "project_id": "da-p02",
+  "text": "Your onboarding experiment sounds close to the pricing experiment for Tradewise I built in 2023, where the system cut manual effort by 26%. I used A/B testing, dataframe wrangling in Python, regression and hypothesis testing there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q067",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q068",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "da-q069",
+  "job_title": "Cohort Retention Study",
+  "category": "reporting",
+  "project_id": "da-p15",
+  "text": "Your churn analysis sounds close to the monthly board report for Tradewise I built in 2023, where the system raised conversion by 11%. I used regression and hypothesis testing, spreadsheet models with pivot tables, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "da-q070",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your event tracking pipeline sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used Snowflake, pandas, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "da-q071",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p09",
+  "text": "Your event tracking pipeline sounds close to the orders ELT pipeline for Ironclad I built in 2023, where the system reduced latency from 2309 ms to 120 ms. I used ETL, BigQuery, dataframe wrangling in Python there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-10-01"
+ },
+ {
+  "id": "da-q072",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q073",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p04",
+  "text": "Your marketing funnel report sounds close to the marketing funnel report for Mapleleaf I built in 2023, where the system handled 25k requests per day. I used hand-written analytical queries, Excel, interactive visual analytics workbooks there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q074",
+  "job_title": "Checkout A/B Test",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "da-q075",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "da-q076",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "da-q077",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "da-q078",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "da-q079",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p20",
+  "text": "Your sales kpi dashboard sounds close to the clinic operations dashboard for Ironclad I built in 2024, where the system cut manual effort by 34%. I used SQL, Tableau, Microsoft BI dashboards there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q080",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p12",
+  "text": "Your clinic operations dashboard sounds close to the CFO pack for Kitebird I built in 2024, where the system saved about $22k per month. I used Tableau, spreadsheet models with pivot tables, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "da-q081",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p04",
+  "text": "Your cfo pack sounds close to the marketing funnel report for Mapleleaf I built in 2023, where the system handled 25k requests per day. I used hand-written analytical queries, spreadsheet models with pivot tables, Tableau there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "da-q082",
+  "job_title": "Monthly Board Report",
+  "category": "reporting",
+  "project_id": "da-p15",
+  "text": "Your churn analysis sounds close to the monthly board report for Tradewise I built in 2023, where the system raised conversion by 11%. I used regression and hypothesis testing, Excel, hand-written analytical queries there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "da-q083",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": "da-p04",
+  "text": "Your marketing funnel report sounds close to the marketing funnel report for Mapleleaf I built in 2023, where the system handled 25k requests per day. I used hand-written analytical queries, Excel, Tableau there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "da-q084",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p21",
+  "text": "Your crm sync sounds close to the warehouse migration for Mapleleaf I built in 2026, where the system cut manual effort by 22%. I used Snowflake, SQL, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "da-q085",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p14",
+  "text": "Your email test program sounds close to the checkout A/B test for Tradewise I built in 2026, where the system raised conversion by 13%. I used statistics, controlled experiments with significance tests, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "da-q086",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": "da-p10",
+  "text": "Your onboarding experiment sounds close to the checkout A/B test for Homestead I built in 2026, where the system cut manual effort by 60%. I used controlled experiments with significance tests, SQL, pandas there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "da-q087",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p01",
+  "text": "Your orders elt pipeline sounds close to the warehouse migration for Orbitly I built in 2026, where the system cut manual effort by 41%. I used scheduled DAGs for data pipelines, dbt, hand-written analytical queries there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "da-q088",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "da-q089",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your churn analysis sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q090",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q091",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p07",
+  "text": "Your cohort retention study sounds close to the cohort retention study for Ironclad I built in 2025, where the system saved about $6k per month. I used Power BI, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "da-q092",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": "da-p04",
+  "text": "Your cfo pack sounds close to the marketing funnel report for Mapleleaf I built in 2023, where the system handled 25k requests per day. I used SQL, spreadsheet models with pivot tables, Tableau there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "da-q093",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p19",
+  "text": "Your cohort retention study sounds close to the churn analysis for Homestead I built in 2024, where the system improved accuracy from 64% to 85%. I used spreadsheet models with pivot tables, Power BI, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "da-q094",
+  "job_title": "Monthly Board Report",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q095",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p18",
+  "text": "Your pricing experiment sounds close to the pricing experiment for Orbitly I built in 2026, where the system raised conversion by 8%. I used A/B testing, hand-written analytical queries, pandas there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "da-q096",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p12",
+  "text": "Your clinic operations dashboard sounds close to the CFO pack for Kitebird I built in 2024, where the system saved about $22k per month. I used Tableau, spreadsheet models with pivot tables, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "da-q097",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "da-q098",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "da-q099",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": "da-p10",
+  "text": "Your checkout a/b test sounds close to the checkout A/B test for Homestead I built in 2026, where the system cut manual effort by 60%. I used A/B testing, hand-written analytical queries, dataframe wrangling in Python there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "da-q100",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p02",
+  "text": "Your email test program sounds close to the pricing experiment for Tradewise I built in 2023, where the system cut manual effort by 26%. I used A/B testing, dataframe wrangling in Python, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "da-q101",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": "da-p20",
+  "text": "Your sales kpi dashboard sounds close to the clinic operations dashboard for Ironclad I built in 2024, where the system cut manual effort by 34%. I used SQL, Tableau, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "da-q102",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p06",
+  "text": "Your onboarding experiment sounds close to the onboarding experiment for Northwind I built in 2022, where the system handled 33k requests per day. I used SQL, regression and hypothesis testing, A/B testing there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "da-q103",
+  "job_title": "Cfo Pack",
+  "category": "dashboards",
+  "project_id": "da-p00",
+  "text": "Your clinic operations dashboard sounds close to the sales KPI dashboard for Lumen Health I built in 2022, where the system handled 2k requests per day. I used SQL, Power BI, interactive visual analytics workbooks there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "da-q104",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "da-q105",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "da-q106",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q107",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p11",
+  "text": "Your cohort retention study sounds close to the monthly board report for Sagebrush I built in 2024, where the system improved accuracy from 68% to 94%. I used pandas, Microsoft BI dashboards, statistics there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q108",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used Snowflake, pandas, scheduled DAGs for data pipelines there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "da-q109",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "da-q110",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "da-q111",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p08",
+  "text": "Your clinic operations dashboard sounds close to the sales KPI dashboard for Zenith Logistics I built in 2022, where the system cut manual effort by 61%. I used Microsoft BI dashboards, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "da-q112",
+  "job_title": "Orders Elt Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p17",
+  "text": "Your crm sync sounds close to the warehouse migration for Homestead I built in 2022, where the system cut manual effort by 48%. I used hand-written analytical queries, dbt, ETL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "da-q113",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your orders elt pipeline sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used Snowflake, dataframe wrangling in Python, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "da-q114",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "da-q115",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "da-q116",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "da-q117",
+  "job_title": "Pricing Experiment",
+  "category": "experimentation",
+  "project_id": "da-p06",
+  "text": "Your onboarding experiment sounds close to the onboarding experiment for Northwind I built in 2022, where the system handled 33k requests per day. I used SQL, regression and hypothesis testing, controlled experiments with significance tests there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q118",
+  "job_title": "Checkout A/B Test",
+  "category": "experimentation",
+  "project_id": "da-p06",
+  "text": "Your pricing experiment sounds close to the onboarding experiment for Northwind I built in 2022, where the system handled 33k requests per day. I used SQL, statistics, A/B testing there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q119",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "da-q120",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": "da-p14",
+  "text": "Your onboarding experiment sounds close to the checkout A/B test for Tradewise I built in 2026, where the system raised conversion by 13%. I used regression and hypothesis testing, controlled experiments with significance tests, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "da-q121",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your orders elt pipeline sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used a cloud data warehouse, pandas, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "da-q122",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p00",
+  "text": "Your clinic operations dashboard sounds close to the sales KPI dashboard for Lumen Health I built in 2022, where the system handled 2k requests per day. I used SQL, Power BI, Tableau there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q123",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p20",
+  "text": "Your cfo pack sounds close to the clinic operations dashboard for Ironclad I built in 2024, where the system cut manual effort by 34%. I used hand-written analytical queries, Tableau, Power BI there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q124",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "da-q125",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "da-q126",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-10-01"
+ },
+ {
+  "id": "da-q127",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p12",
+  "text": "Your marketing funnel report sounds close to the CFO pack for Kitebird I built in 2024, where the system saved about $22k per month. I used interactive visual analytics workbooks, Excel, Microsoft BI dashboards there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "da-q128",
+  "job_title": "Crm Sync",
+  "category": "data_pipelines",
+  "project_id": "da-p21",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Mapleleaf I built in 2026, where the system cut manual effort by 22%. I used Snowflake, hand-written analytical queries, scheduled DAGs for data pipelines there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "da-q129",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "da-q130",
+  "job_title": "Onboarding Experiment",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "da-q131",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "da-q132",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q133",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "da-q134",
+  "job_title": "Monthly Board Report",
+  "category": "reporting",
+  "project_id": "da-p07",
+  "text": "Your churn analysis sounds close to the cohort retention study for Ironclad I built in 2025, where the system saved about $6k per month. I used Power BI, SQL, spreadsheet models with pivot tables there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "da-q135",
+  "job_title": "Email Test Program",
+  "category": "experimentation",
+  "project_id": "da-p10",
+  "text": "Your pricing experiment sounds close to the checkout A/B test for Homestead I built in 2026, where the system cut manual effort by 60%. I used A/B testing, SQL, pandas there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "da-q136",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": "da-p21",
+  "text": "Your crm sync sounds close to the warehouse migration for Mapleleaf I built in 2026, where the system cut manual effort by 22%. I used a cloud data warehouse, hand-written analytical queries, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "da-q137",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": "da-p20",
+  "text": "Your clinic operations dashboard sounds close to the clinic operations dashboard for Ironclad I built in 2024, where the system cut manual effort by 34%. I used SQL, interactive visual analytics workbooks, Microsoft BI dashboards there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "da-q138",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": "da-p01",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Orbitly I built in 2026, where the system cut manual effort by 41%. I used Airflow, versioned transformation models in the warehouse, SQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "da-q139",
+  "job_title": "Warehouse Migration",
+  "category": "data_pipelines",
+  "project_id": "da-p21",
+  "text": "Your warehouse migration sounds close to the warehouse migration for Mapleleaf I built in 2026, where the system cut manual effort by 22%. I used a cloud data warehouse, SQL, Airflow there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "da-q140",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p15",
+  "text": "Your cohort retention study sounds close to the monthly board report for Tradewise I built in 2023, where the system raised conversion by 11%. I used statistics, Excel, hand-written analytical queries there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q141",
+  "job_title": "Sales Kpi Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "da-q142",
+  "job_title": "Marketing Funnel Report",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "da-q143",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": "da-p05",
+  "text": "Your orders elt pipeline sounds close to the warehouse migration for Ironclad I built in 2026, where the system handled 9k requests per day. I used Snowflake, pandas, scheduled DAGs for data pipelines there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q144",
+  "job_title": "Event Tracking Pipeline",
+  "category": "data_pipelines",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "da-q145",
+  "job_title": "Churn Analysis",
+  "category": "reporting",
+  "project_id": "da-p07",
+  "text": "Your cohort retention study sounds close to the cohort retention study for Ironclad I built in 2025, where the system saved about $6k per month. I used Power BI, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "da-q146",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": "da-p07",
+  "text": "Your inventory audit sounds close to the cohort retention study for Ironclad I built in 2025, where the system saved about $6k per month. I used Microsoft BI dashboards, SQL, Excel there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "da-q147",
+  "job_title": "Checkout A/B Test",
+  "category": "experimentation",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "da-q148",
+  "job_title": "Inventory Audit",
+  "category": "reporting",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "da-q149",
+  "job_title": "Clinic Operations Dashboard",
+  "category": "dashboards",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ }
+]

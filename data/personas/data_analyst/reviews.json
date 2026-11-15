@@ -1,0 +1,82 @@
+[
+ {
+  "id": "da-r00",
+  "project_id": "da-p01",
+  "rating": 4.5,
+  "text": "Sana delivered our warehouse migration on time. Strong on scheduled DAGs for data pipelines.",
+  "client_industry": "logistics",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "da-r01",
+  "project_id": "da-p18",
+  "rating": 5.0,
+  "text": "Sana delivered our pricing experiment on time. Strong on dataframe wrangling in Python.",
+  "client_industry": "e-commerce",
+  "date": "2026-05-15"
+ },
+ {
+  "id": "da-r02",
+  "project_id": "da-p06",
+  "rating": 4.5,
+  "text": "Sana delivered our onboarding experiment on time. Strong on controlled experiments with significance tests.",
+  "client_industry": "fintech",
+  "date": "2022-04-15"
+ },
+ {
+  "id": "da-r03",
+  "project_id": "da-p12",
+  "rating": 5.0,
+  "text": "Sana delivered our CFO pack on time. Strong on Excel.",
+  "client_industry": "fintech",
+  "date": "2024-02-15"
+ },
+ {
+  "id": "da-r04",
+  "project_id": "da-p07",
+  "rating": 5.0,
+  "text": "Sana delivered our cohort retention study on time. Strong on Microsoft BI dashboards.",
+  "client_industry": "fintech",
+  "date": "2025-01-15"
+ },
+ {
+  "id": "da-r05",
+  "project_id": "da-p17",
+  "rating": 4.5,
+  "text": "Sana delivered our warehouse migration on time. Strong on Google's serverless warehouse.",
+  "client_industry": "logistics",
+  "date": "2022-04-15"
+ },
+ {
+  "id": "da-r06",
+  "project_id": "da-p09",
+  "rating": 5.0,
+  "text": "Sana delivered our orders ELT pipeline on time. Strong on scheduled DAGs for data pipelines.",
+  "client_industry": "real estate",
+  "date": "2023-07-15"
+ },
+ {
+  "id": "da-r07",
+  "project_id": "da-p15",
+  "rating": 5.0,
+  "text": "Sana delivered our monthly board report on time. Strong on regression and hypothesis testing.",
+  "client_industry": "e-commerce",
+  "date": "2023-05-15"
+ },
+ {
+  "id": "da-r08",
+  "project_id": "da-p05",
+  "rating": 5.0,
+  "text": "Sana delivered our warehouse migration on time. Strong on hand-written analytical queries.",
+  "client_industry": "logistics",
+  "date": "2026-03-15"
+ },
+ {
+  "id": "da-r09",
+  "project_id": "da-p00",
+  "rating": 4.5,
+  "text": "Sana delivered our sales KPI dashboard on time. Strong on Power BI.",
+  "client_industry": "healthcare",
+  "date": "2022-02-15"
+ }
+]

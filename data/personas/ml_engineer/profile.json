@@ -1,0 +1,268 @@
+{
+ "persona": "ml_engineer",
+ "name": "Ayesha Raza",
+ "title": "AI/ML Engineer",
+ "floor": 35,
+ "rate": 45,
+ "categories": [
+  "llm_apps",
+  "computer_vision",
+  "forecasting",
+  "mlops"
+ ],
+ "projects": [
+  {
+   "id": "ml-p00",
+   "title": "sales-email agent for Quantum Retail",
+   "skills": [
+    "langchain",
+    "fastapi",
+    "pinecone"
+   ],
+   "category": "llm_apps",
+   "industry": "healthcare",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p01",
+   "title": "defect inspection line for Zenith Logistics",
+   "skills": [
+    "computer_vision",
+    "yolo",
+    "pytorch",
+    "mlops"
+   ],
+   "category": "computer_vision",
+   "industry": "fintech",
+   "year": 2025,
+   "has_repo": true,
+   "code_only_skills": [
+    "fastapi"
+   ]
+  },
+  {
+   "id": "ml-p02",
+   "title": "demand forecaster for Mapleleaf",
+   "skills": [
+    "mlflow",
+    "pytorch",
+    "time_series"
+   ],
+   "category": "forecasting",
+   "industry": "fintech",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p03",
+   "title": "training pipeline for Kitebird",
+   "skills": [
+    "docker",
+    "mlflow",
+    "fastapi"
+   ],
+   "category": "mlops",
+   "industry": "fintech",
+   "year": 2025,
+   "has_repo": true,
+   "code_only_skills": [
+    "pytorch",
+    "mlops"
+   ]
+  },
+  {
+   "id": "ml-p04",
+   "title": "policy search bot for Quantum Retail",
+   "skills": [
+    "transformers",
+    "fastapi",
+    "nlp"
+   ],
+   "category": "llm_apps",
+   "industry": "healthcare",
+   "year": 2025,
+   "has_repo": true,
+   "code_only_skills": [
+    "pinecone",
+    "langgraph"
+   ]
+  },
+  {
+   "id": "ml-p05",
+   "title": "plate reader for Lumen Health",
+   "skills": [
+    "docker",
+    "yolo",
+    "pytorch",
+    "mlops"
+   ],
+   "category": "computer_vision",
+   "industry": "e-commerce",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p06",
+   "title": "cash-flow predictor for Homestead",
+   "skills": [
+    "docker",
+    "time_series",
+    "xgboost",
+    "mlflow"
+   ],
+   "category": "forecasting",
+   "industry": "edtech",
+   "year": 2023,
+   "has_repo": true,
+   "code_only_skills": [
+    "pytorch"
+   ]
+  },
+  {
+   "id": "ml-p07",
+   "title": "training pipeline for Harbor & Co",
+   "skills": [
+    "pytorch",
+    "mlops",
+    "mlflow",
+    "fastapi",
+    "docker"
+   ],
+   "category": "mlops",
+   "industry": "real estate",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p08",
+   "title": "support-ticket copilot for Vantage AI",
+   "skills": [
+    "transformers",
+    "nlp",
+    "pinecone",
+    "rag",
+    "langgraph"
+   ],
+   "category": "llm_apps",
+   "industry": "healthcare",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p09",
+   "title": "PPE compliance camera for Homestead",
+   "skills": [
+    "mlops",
+    "computer_vision",
+    "fastapi",
+    "docker",
+    "pytorch"
+   ],
+   "category": "computer_vision",
+   "industry": "edtech",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p10",
+   "title": "cash-flow predictor for Sagebrush",
+   "skills": [
+    "time_series",
+    "docker",
+    "xgboost",
+    "pytorch",
+    "mlflow"
+   ],
+   "category": "forecasting",
+   "industry": "edtech",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p11",
+   "title": "drift monitor for Tidewater",
+   "skills": [
+    "mlflow",
+    "fastapi",
+    "mlops"
+   ],
+   "category": "mlops",
+   "industry": "real estate",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p12",
+   "title": "contract Q&A assistant for Pixelforge",
+   "skills": [
+    "rag",
+    "pinecone",
+    "nlp",
+    "transformers"
+   ],
+   "category": "llm_apps",
+   "industry": "edtech",
+   "year": 2026,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p13",
+   "title": "plate reader for Harbor & Co",
+   "skills": [
+    "pytorch",
+    "docker",
+    "mlops",
+    "computer_vision",
+    "yolo"
+   ],
+   "category": "computer_vision",
+   "industry": "fintech",
+   "year": 2023,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p14",
+   "title": "energy-load forecaster for Zenith Logistics",
+   "skills": [
+    "xgboost",
+    "pytorch",
+    "mlflow",
+    "docker",
+    "time_series"
+   ],
+   "category": "forecasting",
+   "industry": "media",
+   "year": 2024,
+   "has_repo": false,
+   "code_only_skills": []
+  },
+  {
+   "id": "ml-p15",
+   "title": "drift monitor for Northwind",
+   "skills": [
+    "mlflow",
+    "pytorch",
+    "mlops"
+   ],
+   "category": "mlops",
+   "industry": "real estate",
+   "year": 2025,
+   "has_repo": true,
+   "code_only_skills": [
+    "fastapi",
+    "docker"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+# Machine-readable policy rules used by the Compliance Guard.
+# Edit here, never in code. Version bumps are logged in docs/CHANGE_REQUEST.md.
+version: 1
+rules:
+  - id: no_contact_details
+    severity: block
+    patterns:
+      - '[\w.+-]+@[\w-]+\.[\w.]+'
+      - '(\+?\d[\d\s().-]{8,}\d)'
+      - '(?i)\b(telegram|whatsapp|skype|signal|wechat)\b'
+    message: Remove contact details and off-platform channels.
+  - id: no_offplatform_payment
+    severity: block
+    patterns:
+      - '(?i)\b(paypal|wire transfer|bank transfer|usdt|crypto|western union)\b'
+      - '(?i)pay (me )?(directly|outside)'
+    message: Payment must stay on the platform.
+  - id: no_guarantees
+    severity: fix
+    patterns:
+      - '(?i)\bguarantee(d|s)?\b'
+      - '(?i)100\s?% (accuracy|satisfaction|success)'
+      - '(?i)#1 rank'
+    message: Remove guarantees of outcomes.
+  - id: no_bot_disclosure_tricks
+    severity: block
+    patterns:
+      - '(?i)i am a bot'
+    message: Injected instruction leaked into the draft.

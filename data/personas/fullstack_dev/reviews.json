@@ -1,0 +1,82 @@
+[
+ {
+  "id": "fu-r00",
+  "project_id": "fu-p03",
+  "rating": 4.5,
+  "text": "Bilal delivered our clinic booking app on time. Strong on a typed query API.",
+  "client_industry": "edtech",
+  "date": "2023-04-15"
+ },
+ {
+  "id": "fu-r01",
+  "project_id": "fu-p09",
+  "rating": 5.0,
+  "text": "Bilal delivered our marketplace checkout on time. Strong on Next.js.",
+  "client_industry": "fintech",
+  "date": "2022-02-15"
+ },
+ {
+  "id": "fu-r02",
+  "project_id": "fu-p10",
+  "rating": 5.0,
+  "text": "Bilal delivered our chat support widget on time. Strong on Celery.",
+  "client_industry": "edtech",
+  "date": "2024-04-15"
+ },
+ {
+  "id": "fu-r03",
+  "project_id": "fu-p12",
+  "rating": 4.5,
+  "text": "Bilal delivered our HR onboarding app on time. Strong on statically typed JavaScript.",
+  "client_industry": "logistics",
+  "date": "2023-06-15"
+ },
+ {
+  "id": "fu-r04",
+  "project_id": "fu-p06",
+  "rating": 5.0,
+  "text": "Bilal delivered our collaborative editor on time. Strong on Django.",
+  "client_industry": "fintech",
+  "date": "2026-09-15"
+ },
+ {
+  "id": "fu-r05",
+  "project_id": "fu-p02",
+  "rating": 5.0,
+  "text": "Bilal delivered our chat support widget on time. Strong on a component-based SPA.",
+  "client_industry": "healthcare",
+  "date": "2022-04-15"
+ },
+ {
+  "id": "fu-r06",
+  "project_id": "fu-p15",
+  "rating": 4.5,
+  "text": "Bilal delivered our delivery driver app on time. Strong on a cross-platform mobile app.",
+  "client_industry": "e-commerce",
+  "date": "2026-09-15"
+ },
+ {
+  "id": "fu-r07",
+  "project_id": "fu-p14",
+  "rating": 5.0,
+  "text": "Bilal delivered our chat support widget on time. Strong on cloud infrastructure on EC2 and S3.",
+  "client_industry": "logistics",
+  "date": "2022-06-15"
+ },
+ {
+  "id": "fu-r08",
+  "project_id": "fu-p05",
+  "rating": 4.5,
+  "text": "Bilal delivered our marketplace checkout on time. Strong on a typed query API.",
+  "client_industry": "edtech",
+  "date": "2026-08-15"
+ },
+ {
+  "id": "fu-r09",
+  "project_id": "fu-p13",
+  "rating": 5.0,
+  "text": "Bilal delivered our headless storefront on time. Strong on GraphQL.",
+  "client_industry": "real estate",
+  "date": "2022-02-15"
+ }
+]

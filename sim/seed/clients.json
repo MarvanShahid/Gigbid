@@ -1,0 +1,3042 @@
+[
+ {
+  "id": "c000",
+  "name": "Zenith Logistics Group",
+  "industry": "real estate",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 2,
+  "hires": 1,
+  "total_spend": 2316,
+  "avg_rating_given": 4.1,
+  "member_since": "2018",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.97,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c001",
+  "name": "Orbitly Studio",
+  "industry": "real estate",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 24,
+  "hires": 19,
+  "total_spend": 18734,
+  "avg_rating_given": 4.4,
+  "member_since": "2018",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.98,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c002",
+  "name": "Pixelforge Ltd",
+  "industry": "healthcare",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 42,
+  "hires": 22,
+  "total_spend": 53526,
+  "avg_rating_given": 4.2,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c003",
+  "name": "Pixelforge Group",
+  "industry": "media",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 61,
+  "hires": 48,
+  "total_spend": 133056,
+  "avg_rating_given": 4.1,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.06,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c004",
+  "name": "Tidewater Inc",
+  "industry": "SaaS",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 19,
+  "hires": 8,
+  "total_spend": 23096,
+  "avg_rating_given": 4.3,
+  "member_since": "2019",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.13,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c005",
+  "name": "Ironclad Inc",
+  "industry": "healthcare",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 29,
+  "hires": 27,
+  "total_spend": 94959,
+  "avg_rating_given": 3.9,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.05,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c006",
+  "name": "Corvid Labs Studio",
+  "industry": "logistics",
+  "country": "PK",
+  "payment_verified": false,
+  "jobs_posted": 13,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2020",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c007",
+  "name": "Vantage AI Inc",
+  "industry": "media",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 64,
+  "hires": 44,
+  "total_spend": 121748,
+  "avg_rating_given": 4.4,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.16,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c008",
+  "name": "Vantage AI Group",
+  "industry": "media",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 43,
+  "hires": 36,
+  "total_spend": 124524,
+  "avg_rating_given": 4.8,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.08,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c009",
+  "name": "Parcelly Ltd",
+  "industry": "fintech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 24,
+  "hires": 10,
+  "total_spend": 22800,
+  "avg_rating_given": 4.5,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.1,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c010",
+  "name": "Bluepeak Group",
+  "industry": "real estate",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 31,
+  "hires": 13,
+  "total_spend": 22100,
+  "avg_rating_given": 4.1,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.21,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c011",
+  "name": "Orbitly Inc",
+  "industry": "edtech",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 54,
+  "hires": 39,
+  "total_spend": 148629,
+  "avg_rating_given": 4.3,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.07,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c012",
+  "name": "Brightpath Group",
+  "industry": "e-commerce",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 54,
+  "hires": 53,
+  "total_spend": 28037,
+  "avg_rating_given": 4.6,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c013",
+  "name": "Pixelforge Inc",
+  "industry": "media",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 13,
+  "hires": 3,
+  "total_spend": 11430,
+  "avg_rating_given": 4.7,
+  "member_since": "2017",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.07,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c014",
+  "name": "Vantage AI Inc",
+  "industry": "fintech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 68,
+  "hires": 49,
+  "total_spend": 191590,
+  "avg_rating_given": 4.6,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.07,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c015",
+  "name": "Harbor & Co Inc",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 31,
+  "hires": 25,
+  "total_spend": 69775,
+  "avg_rating_given": 4.4,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.23,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c016",
+  "name": "Brightpath Studio",
+  "industry": "real estate",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 19,
+  "hires": 8,
+  "total_spend": 14952,
+  "avg_rating_given": 4.7,
+  "member_since": "2026",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c017",
+  "name": "Sagebrush Studio",
+  "industry": "e-commerce",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 67,
+  "hires": 55,
+  "total_spend": 212410,
+  "avg_rating_given": 4.0,
+  "member_since": "2024",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.03,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c018",
+  "name": "Pixelforge Ltd",
+  "industry": "fintech",
+  "country": "DE",
+  "payment_verified": false,
+  "jobs_posted": 2,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2021",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.28,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c019",
+  "name": "Lumen Health Ltd",
+  "industry": "real estate",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 34,
+  "hires": 26,
+  "total_spend": 75244,
+  "avg_rating_given": 4.4,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.08,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c020",
+  "name": "Northwind Inc",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": false,
+  "jobs_posted": 12,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2022",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.98,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c021",
+  "name": "Willow Learning Studio",
+  "industry": "logistics",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 17,
+  "hires": 6,
+  "total_spend": 7182,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.1,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c022",
+  "name": "Willow Learning Studio",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 21,
+  "hires": 21,
+  "total_spend": 50211,
+  "avg_rating_given": 4.4,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.96,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c023",
+  "name": "Lumen Health Studio",
+  "industry": "logistics",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 15,
+  "hires": 3,
+  "total_spend": 5193,
+  "avg_rating_given": 4.9,
+  "member_since": "2015",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.12,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c024",
+  "name": "Mapleleaf Group",
+  "industry": "logistics",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 63,
+  "hires": 45,
+  "total_spend": 67095,
+  "avg_rating_given": 4.5,
+  "member_since": "2025",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.16,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c025",
+  "name": "Corvid Labs Group",
+  "industry": "media",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 52,
+  "hires": 40,
+  "total_spend": 81840,
+  "avg_rating_given": 4.5,
+  "member_since": "2015",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.23,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c026",
+  "name": "Brightpath Group",
+  "industry": "SaaS",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 25,
+  "hires": 18,
+  "total_spend": 30564,
+  "avg_rating_given": 4.5,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.0,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c027",
+  "name": "Kitebird Group",
+  "industry": "real estate",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 64,
+  "hires": 48,
+  "total_spend": 78768,
+  "avg_rating_given": 4.8,
+  "member_since": "2024",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.01,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c028",
+  "name": "Parcelly Inc",
+  "industry": "fintech",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 12,
+  "hires": 5,
+  "total_spend": 8710,
+  "avg_rating_given": 4.7,
+  "member_since": "2021",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.05,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c029",
+  "name": "Parcelly Inc",
+  "industry": "healthcare",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 20,
+  "hires": 1,
+  "total_spend": 2326,
+  "avg_rating_given": 4.8,
+  "member_since": "2022",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.19,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c030",
+  "name": "Kitebird Ltd",
+  "industry": "SaaS",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 38,
+  "hires": 19,
+  "total_spend": 54264,
+  "avg_rating_given": 4.7,
+  "member_since": "2016",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.06,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c031",
+  "name": "Northwind Inc",
+  "industry": "healthcare",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 11,
+  "hires": 10,
+  "total_spend": 8850,
+  "avg_rating_given": 4.1,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.06,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c032",
+  "name": "Quantum Retail Inc",
+  "industry": "real estate",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 54,
+  "hires": 52,
+  "total_spend": 81744,
+  "avg_rating_given": 5.0,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c033",
+  "name": "Sagebrush Group",
+  "industry": "e-commerce",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 13,
+  "hires": 4,
+  "total_spend": 9204,
+  "avg_rating_given": 4.7,
+  "member_since": "2020",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.96,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c034",
+  "name": "Bluepeak Inc",
+  "industry": "fintech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 62,
+  "hires": 59,
+  "total_spend": 161306,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.12,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c035",
+  "name": "Kitebird Group",
+  "industry": "e-commerce",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 8,
+  "hires": 6,
+  "total_spend": 20922,
+  "avg_rating_given": 4.6,
+  "member_since": "2022",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.17,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c036",
+  "name": "Corvid Labs Ltd",
+  "industry": "real estate",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 20,
+  "hires": 5,
+  "total_spend": 13015,
+  "avg_rating_given": 4.3,
+  "member_since": "2020",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.13,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c037",
+  "name": "Parcelly Inc",
+  "industry": "media",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 23,
+  "hires": 8,
+  "total_spend": 21048,
+  "avg_rating_given": 4.2,
+  "member_since": "2025",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.11,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c038",
+  "name": "Lumen Health Studio",
+  "industry": "fintech",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 63,
+  "hires": 45,
+  "total_spend": 68670,
+  "avg_rating_given": 4.8,
+  "member_since": "2015",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.24,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c039",
+  "name": "Sagebrush Ltd",
+  "industry": "e-commerce",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 34,
+  "hires": 14,
+  "total_spend": 24290,
+  "avg_rating_given": 4.3,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.23,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c040",
+  "name": "Bluepeak Ltd",
+  "industry": "fintech",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 47,
+  "hires": 44,
+  "total_spend": 25960,
+  "avg_rating_given": 4.0,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.06,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c041",
+  "name": "Mapleleaf Inc",
+  "industry": "real estate",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 22,
+  "hires": 4,
+  "total_spend": 10052,
+  "avg_rating_given": 4.8,
+  "member_since": "2016",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.23,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c042",
+  "name": "Mapleleaf Inc",
+  "industry": "healthcare",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 24,
+  "hires": 19,
+  "total_spend": 30780,
+  "avg_rating_given": 4.2,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c043",
+  "name": "Tradewise Ltd",
+  "industry": "SaaS",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 28,
+  "hires": 25,
+  "total_spend": 73075,
+  "avg_rating_given": 4.0,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.16,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c044",
+  "name": "Bluepeak Group",
+  "industry": "media",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 45,
+  "hires": 41,
+  "total_spend": 28864,
+  "avg_rating_given": 5.0,
+  "member_since": "2018",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.02,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c045",
+  "name": "Harbor & Co Studio",
+  "industry": "real estate",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 71,
+  "hires": 59,
+  "total_spend": 205910,
+  "avg_rating_given": 5.0,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.24,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c046",
+  "name": "Brightpath Studio",
+  "industry": "healthcare",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 52,
+  "hires": 48,
+  "total_spend": 109824,
+  "avg_rating_given": 4.0,
+  "member_since": "2025",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.02,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c047",
+  "name": "Pixelforge Ltd",
+  "industry": "fintech",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 16,
+  "hires": 6,
+  "total_spend": 12366,
+  "avg_rating_given": 4.6,
+  "member_since": "2021",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.07,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c048",
+  "name": "Vantage AI Ltd",
+  "industry": "real estate",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 26,
+  "hires": 17,
+  "total_spend": 59687,
+  "avg_rating_given": 4.2,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c049",
+  "name": "Harbor & Co Group",
+  "industry": "healthcare",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 45,
+  "hires": 28,
+  "total_spend": 80752,
+  "avg_rating_given": 4.1,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.01,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c050",
+  "name": "Vantage AI Inc",
+  "industry": "fintech",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 15,
+  "hires": 7,
+  "total_spend": 26964,
+  "avg_rating_given": 4.6,
+  "member_since": "2026",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.05,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c051",
+  "name": "Corvid Labs Inc",
+  "industry": "media",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 20,
+  "hires": 4,
+  "total_spend": 8676,
+  "avg_rating_given": 4.3,
+  "member_since": "2017",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.21,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c052",
+  "name": "Lumen Health Group",
+  "industry": "real estate",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 23,
+  "hires": 7,
+  "total_spend": 14854,
+  "avg_rating_given": 4.3,
+  "member_since": "2024",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.09,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c053",
+  "name": "Harbor & Co Ltd",
+  "industry": "media",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 36,
+  "hires": 17,
+  "total_spend": 67983,
+  "avg_rating_given": 4.9,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.25,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c054",
+  "name": "Pixelforge Group",
+  "industry": "edtech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 62,
+  "hires": 50,
+  "total_spend": 125550,
+  "avg_rating_given": 4.4,
+  "member_since": "2015",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.99,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c055",
+  "name": "Parcelly Group",
+  "industry": "fintech",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 8,
+  "hires": 5,
+  "total_spend": 4470,
+  "avg_rating_given": 4.7,
+  "member_since": "2015",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.16,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c056",
+  "name": "Kitebird Ltd",
+  "industry": "real estate",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 30,
+  "hires": 23,
+  "total_spend": 58581,
+  "avg_rating_given": 4.5,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.25,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c057",
+  "name": "Northwind Group",
+  "industry": "edtech",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 18,
+  "hires": 8,
+  "total_spend": 24032,
+  "avg_rating_given": 4.3,
+  "member_since": "2025",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.29,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c058",
+  "name": "Tradewise Studio",
+  "industry": "e-commerce",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 32,
+  "hires": 27,
+  "total_spend": 64125,
+  "avg_rating_given": 4.5,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c059",
+  "name": "Zenith Logistics Group",
+  "industry": "real estate",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 19,
+  "hires": 4,
+  "total_spend": 10328,
+  "avg_rating_given": 4.9,
+  "member_since": "2023",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.12,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c060",
+  "name": "Orbitly Studio",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 22,
+  "hires": 5,
+  "total_spend": 8055,
+  "avg_rating_given": 4.7,
+  "member_since": "2019",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.14,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c061",
+  "name": "Northwind Group",
+  "industry": "edtech",
+  "country": "CA",
+  "payment_verified": false,
+  "jobs_posted": 19,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2025",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.16,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c062",
+  "name": "Pixelforge Ltd",
+  "industry": "real estate",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 21,
+  "hires": 7,
+  "total_spend": 18851,
+  "avg_rating_given": 4.1,
+  "member_since": "2023",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.27,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c063",
+  "name": "Sagebrush Inc",
+  "industry": "logistics",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 44,
+  "hires": 38,
+  "total_spend": 87704,
+  "avg_rating_given": 4.8,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.1,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c064",
+  "name": "Lumen Health Inc",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 35,
+  "hires": 27,
+  "total_spend": 63342,
+  "avg_rating_given": 4.9,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c065",
+  "name": "Vantage AI Inc",
+  "industry": "healthcare",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 15,
+  "hires": 12,
+  "total_spend": 41712,
+  "avg_rating_given": 4.7,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.96,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c066",
+  "name": "Mapleleaf Group",
+  "industry": "e-commerce",
+  "country": "US",
+  "payment_verified": false,
+  "jobs_posted": 0,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2025",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.09,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c067",
+  "name": "Zenith Logistics Ltd",
+  "industry": "SaaS",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 32,
+  "hires": 29,
+  "total_spend": 113361,
+  "avg_rating_given": 3.9,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c068",
+  "name": "Tidewater Group",
+  "industry": "edtech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 18,
+  "hires": 2,
+  "total_spend": 3456,
+  "avg_rating_given": 4.1,
+  "member_since": "2017",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c069",
+  "name": "Ironclad Studio",
+  "industry": "e-commerce",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 6,
+  "hires": 3,
+  "total_spend": 7974,
+  "avg_rating_given": 4.4,
+  "member_since": "2017",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.23,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c070",
+  "name": "Orbitly Group",
+  "industry": "e-commerce",
+  "country": "AU",
+  "payment_verified": false,
+  "jobs_posted": 13,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2021",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.02,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c071",
+  "name": "Corvid Labs Inc",
+  "industry": "media",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 43,
+  "hires": 28,
+  "total_spend": 95592,
+  "avg_rating_given": 4.0,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.13,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c072",
+  "name": "Homestead Studio",
+  "industry": "logistics",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 21,
+  "hires": 4,
+  "total_spend": 12348,
+  "avg_rating_given": 4.5,
+  "member_since": "2021",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.14,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c073",
+  "name": "Mapleleaf Studio",
+  "industry": "media",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 41,
+  "hires": 28,
+  "total_spend": 38640,
+  "avg_rating_given": 4.8,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.08,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c074",
+  "name": "Brightpath Group",
+  "industry": "media",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 34,
+  "hires": 28,
+  "total_spend": 47180,
+  "avg_rating_given": 4.3,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c075",
+  "name": "Pixelforge Group",
+  "industry": "real estate",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 56,
+  "hires": 42,
+  "total_spend": 132636,
+  "avg_rating_given": 4.9,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.28,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c076",
+  "name": "Kitebird Group",
+  "industry": "real estate",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 24,
+  "hires": 8,
+  "total_spend": 26576,
+  "avg_rating_given": 4.2,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.21,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c077",
+  "name": "Quantum Retail Group",
+  "industry": "healthcare",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 13,
+  "hires": 4,
+  "total_spend": 12428,
+  "avg_rating_given": 4.2,
+  "member_since": "2022",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.21,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c078",
+  "name": "Brightpath Inc",
+  "industry": "SaaS",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 15,
+  "hires": 2,
+  "total_spend": 4286,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.1,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c079",
+  "name": "Corvid Labs Ltd",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 68,
+  "hires": 59,
+  "total_spend": 128856,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.03,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c080",
+  "name": "Tidewater Inc",
+  "industry": "healthcare",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 63,
+  "hires": 58,
+  "total_spend": 152830,
+  "avg_rating_given": 4.3,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.18,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c081",
+  "name": "Pixelforge Group",
+  "industry": "media",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 40,
+  "hires": 34,
+  "total_spend": 59874,
+  "avg_rating_given": 5.0,
+  "member_since": "2018",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.21,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c082",
+  "name": "Brightpath Ltd",
+  "industry": "media",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 17,
+  "hires": 15,
+  "total_spend": 25170,
+  "avg_rating_given": 4.9,
+  "member_since": "2015",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c083",
+  "name": "Zenith Logistics Ltd",
+  "industry": "fintech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 8,
+  "hires": 6,
+  "total_spend": 18444,
+  "avg_rating_given": 4.3,
+  "member_since": "2026",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.28,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c084",
+  "name": "Tradewise Studio",
+  "industry": "real estate",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 36,
+  "hires": 29,
+  "total_spend": 40455,
+  "avg_rating_given": 4.5,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.0,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c085",
+  "name": "Corvid Labs Group",
+  "industry": "media",
+  "country": "UK",
+  "payment_verified": false,
+  "jobs_posted": 19,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2026",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.97,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c086",
+  "name": "Parcelly Studio",
+  "industry": "logistics",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 65,
+  "hires": 56,
+  "total_spend": 213360,
+  "avg_rating_given": 4.5,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.05,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c087",
+  "name": "Pixelforge Group",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 79,
+  "hires": 59,
+  "total_spend": 33512,
+  "avg_rating_given": 4.0,
+  "member_since": "2024",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.04,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c088",
+  "name": "Willow Learning Studio",
+  "industry": "edtech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 14,
+  "hires": 1,
+  "total_spend": 2642,
+  "avg_rating_given": 4.7,
+  "member_since": "2025",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.96,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c089",
+  "name": "Northwind Ltd",
+  "industry": "real estate",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 61,
+  "hires": 44,
+  "total_spend": 104896,
+  "avg_rating_given": 4.3,
+  "member_since": "2016",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.03,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c090",
+  "name": "Quantum Retail Studio",
+  "industry": "edtech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 51,
+  "hires": 36,
+  "total_spend": 85608,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.15,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c091",
+  "name": "Northwind Studio",
+  "industry": "e-commerce",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 9,
+  "hires": 6,
+  "total_spend": 13818,
+  "avg_rating_given": 4.6,
+  "member_since": "2018",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.16,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c092",
+  "name": "Tidewater Ltd",
+  "industry": "media",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 37,
+  "hires": 21,
+  "total_spend": 38430,
+  "avg_rating_given": 4.3,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.19,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c093",
+  "name": "Ironclad Group",
+  "industry": "healthcare",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 22,
+  "hires": 11,
+  "total_spend": 13882,
+  "avg_rating_given": 4.7,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c094",
+  "name": "Zenith Logistics Studio",
+  "industry": "e-commerce",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 29,
+  "hires": 21,
+  "total_spend": 46158,
+  "avg_rating_given": 4.1,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.17,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c095",
+  "name": "Homestead Studio",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 64,
+  "hires": 57,
+  "total_spend": 135831,
+  "avg_rating_given": 4.3,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.17,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c096",
+  "name": "Mapleleaf Group",
+  "industry": "edtech",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 52,
+  "hires": 39,
+  "total_spend": 92586,
+  "avg_rating_given": 4.5,
+  "member_since": "2024",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.25,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c097",
+  "name": "Orbitly Ltd",
+  "industry": "SaaS",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 35,
+  "hires": 17,
+  "total_spend": 49827,
+  "avg_rating_given": 4.1,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.15,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c098",
+  "name": "Quantum Retail Ltd",
+  "industry": "e-commerce",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 47,
+  "hires": 42,
+  "total_spend": 152502,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.21,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c099",
+  "name": "Bluepeak Studio",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": false,
+  "jobs_posted": 3,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2024",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.29,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c100",
+  "name": "Tidewater Studio",
+  "industry": "e-commerce",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 25,
+  "hires": 6,
+  "total_spend": 22548,
+  "avg_rating_given": 4.7,
+  "member_since": "2017",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.19,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c101",
+  "name": "Quantum Retail Inc",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 6,
+  "hires": 4,
+  "total_spend": 7632,
+  "avg_rating_given": 4.3,
+  "member_since": "2016",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.28,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c102",
+  "name": "Orbitly Ltd",
+  "industry": "real estate",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 40,
+  "hires": 37,
+  "total_spend": 46694,
+  "avg_rating_given": 4.7,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.17,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c103",
+  "name": "Corvid Labs Inc",
+  "industry": "healthcare",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 43,
+  "hires": 32,
+  "total_spend": 55232,
+  "avg_rating_given": 4.5,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.04,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c104",
+  "name": "Harbor & Co Inc",
+  "industry": "logistics",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 53,
+  "hires": 46,
+  "total_spend": 54188,
+  "avg_rating_given": 4.6,
+  "member_since": "2024",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.24,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c105",
+  "name": "Pixelforge Group",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 26,
+  "hires": 23,
+  "total_spend": 28635,
+  "avg_rating_given": 4.6,
+  "member_since": "2015",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.0,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c106",
+  "name": "Sagebrush Studio",
+  "industry": "real estate",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 18,
+  "hires": 15,
+  "total_spend": 51270,
+  "avg_rating_given": 3.9,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.28,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c107",
+  "name": "Quantum Retail Group",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 49,
+  "hires": 33,
+  "total_spend": 50391,
+  "avg_rating_given": 4.2,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.09,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c108",
+  "name": "Pixelforge Studio",
+  "industry": "e-commerce",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 2,
+  "hires": 1,
+  "total_spend": 795,
+  "avg_rating_given": 4.2,
+  "member_since": "2016",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.2,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c109",
+  "name": "Zenith Logistics Ltd",
+  "industry": "healthcare",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 55,
+  "hires": 37,
+  "total_spend": 115366,
+  "avg_rating_given": 4.0,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.04,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c110",
+  "name": "Tradewise Ltd",
+  "industry": "real estate",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 27,
+  "hires": 13,
+  "total_spend": 15691,
+  "avg_rating_given": 4.0,
+  "member_since": "2024",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.11,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c111",
+  "name": "Tradewise Inc",
+  "industry": "e-commerce",
+  "country": "PK",
+  "payment_verified": false,
+  "jobs_posted": 1,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2025",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.04,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c112",
+  "name": "Orbitly Studio",
+  "industry": "logistics",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 29,
+  "hires": 14,
+  "total_spend": 54040,
+  "avg_rating_given": 4.2,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.04,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c113",
+  "name": "Parcelly Inc",
+  "industry": "logistics",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 63,
+  "hires": 47,
+  "total_spend": 29704,
+  "avg_rating_given": 4.9,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.24,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c114",
+  "name": "Tidewater Ltd",
+  "industry": "real estate",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 43,
+  "hires": 33,
+  "total_spend": 114345,
+  "avg_rating_given": 4.4,
+  "member_since": "2018",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.29,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c115",
+  "name": "Sagebrush Group",
+  "industry": "fintech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 55,
+  "hires": 37,
+  "total_spend": 64528,
+  "avg_rating_given": 4.0,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.19,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c116",
+  "name": "Vantage AI Ltd",
+  "industry": "media",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 4,
+  "hires": 1,
+  "total_spend": 584,
+  "avg_rating_given": 4.3,
+  "member_since": "2020",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.26,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c117",
+  "name": "Tidewater Studio",
+  "industry": "e-commerce",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 9,
+  "hires": 1,
+  "total_spend": 1327,
+  "avg_rating_given": 4.9,
+  "member_since": "2015",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.18,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c118",
+  "name": "Pixelforge Inc",
+  "industry": "media",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 27,
+  "hires": 12,
+  "total_spend": 33480,
+  "avg_rating_given": 4.7,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.07,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c119",
+  "name": "Mapleleaf Inc",
+  "industry": "healthcare",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 32,
+  "hires": 23,
+  "total_spend": 90643,
+  "avg_rating_given": 4.7,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.02,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c120",
+  "name": "Corvid Labs Ltd",
+  "industry": "edtech",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 52,
+  "hires": 50,
+  "total_spend": 95350,
+  "avg_rating_given": 4.7,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.3,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c121",
+  "name": "Tradewise Ltd",
+  "industry": "healthcare",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 17,
+  "hires": 4,
+  "total_spend": 3972,
+  "avg_rating_given": 4.9,
+  "member_since": "2023",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.05,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c122",
+  "name": "Quantum Retail Inc",
+  "industry": "healthcare",
+  "country": "AE",
+  "payment_verified": false,
+  "jobs_posted": 13,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2020",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.29,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c123",
+  "name": "Quantum Retail Group",
+  "industry": "logistics",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 72,
+  "hires": 53,
+  "total_spend": 164141,
+  "avg_rating_given": 4.5,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.08,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c124",
+  "name": "Parcelly Ltd",
+  "industry": "SaaS",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 24,
+  "hires": 8,
+  "total_spend": 27976,
+  "avg_rating_given": 4.9,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.16,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c125",
+  "name": "Sagebrush Inc",
+  "industry": "SaaS",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 47,
+  "hires": 30,
+  "total_spend": 116970,
+  "avg_rating_given": 4.6,
+  "member_since": "2016",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.01,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c126",
+  "name": "Pixelforge Inc",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 19,
+  "hires": 4,
+  "total_spend": 10524,
+  "avg_rating_given": 4.8,
+  "member_since": "2020",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.28,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c127",
+  "name": "Kitebird Ltd",
+  "industry": "SaaS",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 26,
+  "hires": 25,
+  "total_spend": 58225,
+  "avg_rating_given": 4.3,
+  "member_since": "2025",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.29,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c128",
+  "name": "Orbitly Ltd",
+  "industry": "fintech",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 7,
+  "hires": 5,
+  "total_spend": 2880,
+  "avg_rating_given": 3.9,
+  "member_since": "2015",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.06,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c129",
+  "name": "Tradewise Inc",
+  "industry": "e-commerce",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 14,
+  "hires": 8,
+  "total_spend": 16368,
+  "avg_rating_given": 4.5,
+  "member_since": "2025",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.27,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c130",
+  "name": "Mapleleaf Ltd",
+  "industry": "SaaS",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 13,
+  "hires": 3,
+  "total_spend": 9507,
+  "avg_rating_given": 4.6,
+  "member_since": "2022",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.25,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c131",
+  "name": "Tidewater Inc",
+  "industry": "media",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 29,
+  "hires": 20,
+  "total_spend": 37940,
+  "avg_rating_given": 3.9,
+  "member_since": "2015",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.96,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c132",
+  "name": "Orbitly Studio",
+  "industry": "healthcare",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 62,
+  "hires": 49,
+  "total_spend": 42434,
+  "avg_rating_given": 4.2,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.08,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c133",
+  "name": "Homestead Studio",
+  "industry": "e-commerce",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 33,
+  "hires": 32,
+  "total_spend": 24640,
+  "avg_rating_given": 4.9,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.04,
+   "wants_evidence": false,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c134",
+  "name": "Pixelforge Studio",
+  "industry": "e-commerce",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 43,
+  "hires": 34,
+  "total_spend": 43928,
+  "avg_rating_given": 4.5,
+  "member_since": "2023",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.06,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c135",
+  "name": "Zenith Logistics Ltd",
+  "industry": "logistics",
+  "country": "AU",
+  "payment_verified": true,
+  "jobs_posted": 37,
+  "hires": 35,
+  "total_spend": 118160,
+  "avg_rating_given": 4.4,
+  "member_since": "2025",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.26,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c136",
+  "name": "Vantage AI Ltd",
+  "industry": "SaaS",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 37,
+  "hires": 28,
+  "total_spend": 11396,
+  "avg_rating_given": 4.2,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.25,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c137",
+  "name": "Kitebird Ltd",
+  "industry": "SaaS",
+  "country": "PK",
+  "payment_verified": false,
+  "jobs_posted": 14,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2022",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.95,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c138",
+  "name": "Homestead Studio",
+  "industry": "fintech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 67,
+  "hires": 53,
+  "total_spend": 33973,
+  "avg_rating_given": 4.1,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.06,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c139",
+  "name": "Brightpath Inc",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 15,
+  "hires": 10,
+  "total_spend": 24060,
+  "avg_rating_given": 4.8,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.11,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c140",
+  "name": "Quantum Retail Ltd",
+  "industry": "edtech",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 29,
+  "hires": 22,
+  "total_spend": 76582,
+  "avg_rating_given": 4.7,
+  "member_since": "2020",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c141",
+  "name": "Corvid Labs Ltd",
+  "industry": "SaaS",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 9,
+  "hires": 2,
+  "total_spend": 6276,
+  "avg_rating_given": 4.4,
+  "member_since": "2018",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.3,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c142",
+  "name": "Mapleleaf Ltd",
+  "industry": "fintech",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 21,
+  "hires": 3,
+  "total_spend": 3081,
+  "avg_rating_given": 4.4,
+  "member_since": "2019",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.99,
+   "wants_evidence": false,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c143",
+  "name": "Quantum Retail Studio",
+  "industry": "logistics",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 35,
+  "hires": 29,
+  "total_spend": 95352,
+  "avg_rating_given": 4.5,
+  "member_since": "2018",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.96,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c144",
+  "name": "Northwind Inc",
+  "industry": "edtech",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 68,
+  "hires": 60,
+  "total_spend": 188280,
+  "avg_rating_given": 4.6,
+  "member_since": "2025",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.1,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c145",
+  "name": "Zenith Logistics Group",
+  "industry": "real estate",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 68,
+  "hires": 50,
+  "total_spend": 151500,
+  "avg_rating_given": 4.1,
+  "member_since": "2021",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.99,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c146",
+  "name": "Mapleleaf Group",
+  "industry": "healthcare",
+  "country": "CA",
+  "payment_verified": false,
+  "jobs_posted": 0,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2015",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.29,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c147",
+  "name": "Harbor & Co Group",
+  "industry": "edtech",
+  "country": "AE",
+  "payment_verified": false,
+  "jobs_posted": 16,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2019",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.17,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c148",
+  "name": "Northwind Ltd",
+  "industry": "healthcare",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 28,
+  "hires": 28,
+  "total_spend": 81844,
+  "avg_rating_given": 4.0,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 1.07,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c149",
+  "name": "Willow Learning Inc",
+  "industry": "logistics",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 8,
+  "hires": 6,
+  "total_spend": 13188,
+  "avg_rating_given": 4.1,
+  "member_since": "2026",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.97,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c150",
+  "name": "Tradewise Studio",
+  "industry": "logistics",
+  "country": "CA",
+  "payment_verified": false,
+  "jobs_posted": 7,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2023",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.13,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c151",
+  "name": "Bluepeak Ltd",
+  "industry": "e-commerce",
+  "country": "UK",
+  "payment_verified": false,
+  "jobs_posted": 5,
+  "hires": 0,
+  "total_spend": 0,
+  "avg_rating_given": null,
+  "member_since": "2026",
+  "risk": "bad",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 0.99,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c152",
+  "name": "Ironclad Group",
+  "industry": "SaaS",
+  "country": "PK",
+  "payment_verified": true,
+  "jobs_posted": 18,
+  "hires": 3,
+  "total_spend": 8541,
+  "avg_rating_given": 4.1,
+  "member_since": "2016",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.13,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c153",
+  "name": "Sagebrush Ltd",
+  "industry": "e-commerce",
+  "country": "DE",
+  "payment_verified": true,
+  "jobs_posted": 60,
+  "hires": 44,
+  "total_spend": 61556,
+  "avg_rating_given": 5.0,
+  "member_since": "2019",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.19,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c154",
+  "name": "Brightpath Inc",
+  "industry": "fintech",
+  "country": "CA",
+  "payment_verified": true,
+  "jobs_posted": 21,
+  "hires": 4,
+  "total_spend": 4540,
+  "avg_rating_given": 4.0,
+  "member_since": "2019",
+  "risk": "ok",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.19,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c155",
+  "name": "Corvid Labs Inc",
+  "industry": "SaaS",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 61,
+  "hires": 58,
+  "total_spend": 70238,
+  "avg_rating_given": 4.7,
+  "member_since": "2016",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.1,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c156",
+  "name": "Tidewater Group",
+  "industry": "logistics",
+  "country": "US",
+  "payment_verified": true,
+  "jobs_posted": 26,
+  "hires": 10,
+  "total_spend": 5160,
+  "avg_rating_given": 4.0,
+  "member_since": "2026",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.22,
+   "wants_evidence": true,
+   "max_words": 150
+  }
+ },
+ {
+  "id": "c157",
+  "name": "Quantum Retail Studio",
+  "industry": "e-commerce",
+  "country": "UK",
+  "payment_verified": true,
+  "jobs_posted": 47,
+  "hires": 45,
+  "total_spend": 137520,
+  "avg_rating_given": 4.3,
+  "member_since": "2017",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": true,
+   "budget_tolerance": 1.02,
+   "wants_evidence": true,
+   "max_words": 220
+  }
+ },
+ {
+  "id": "c158",
+  "name": "Bluepeak Group",
+  "industry": "healthcare",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 22,
+  "hires": 18,
+  "total_spend": 24012,
+  "avg_rating_given": 3.9,
+  "member_since": "2022",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.97,
+   "wants_evidence": true,
+   "max_words": 300
+  }
+ },
+ {
+  "id": "c159",
+  "name": "Quantum Retail Studio",
+  "industry": "e-commerce",
+  "country": "AE",
+  "payment_verified": true,
+  "jobs_posted": 62,
+  "hires": 60,
+  "total_spend": 86640,
+  "avg_rating_given": 4.1,
+  "member_since": "2016",
+  "risk": "good",
+  "_hidden": {
+   "dislikes_generic_opening": false,
+   "budget_tolerance": 0.95,
+   "wants_evidence": false,
+   "max_words": 220
+  }
+ }
+]

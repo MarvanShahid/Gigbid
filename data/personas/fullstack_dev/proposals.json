@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "fu-q000",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q001",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "fu-q002",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p01",
+  "text": "Your b2b ordering portal sounds close to the subscription box shop for Sagebrush I built in 2023, where the system handled 25k requests per day. I used React, Tailwind CSS, Next.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "fu-q003",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p08",
+  "text": "Your team wiki sounds close to the team wiki for Mapleleaf I built in 2022, where the system reduced latency from 992 ms to 132 ms. I used Next.js, OAuth, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "fu-q004",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your invoicing portal sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "fu-q005",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your booking saas sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used Stripe, PostgreSQL, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "fu-q006",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p09",
+  "text": "Your headless storefront sounds close to the marketplace checkout for Parcelly I built in 2022, where the system raised conversion by 13%. I used a component-based SPA, Next.js, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "fu-q007",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "fu-q008",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": "fu-p03",
+  "text": "Your clinic booking app sounds close to the clinic booking app for Bluepeak I built in 2023, where the system handled 15k requests per day. I used OAuth, React Native, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "fu-q009",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p17",
+  "text": "Your marketplace checkout sounds close to the B2B ordering portal for Northwind I built in 2022, where the system improved accuracy from 75% to 90%. I used Node.js, GraphQL, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "fu-q010",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "fu-q011",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "fu-q012",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your booking saas sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q013",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your marketplace checkout sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, subscription billing and card payments, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q014",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": "fu-p14",
+  "text": "Your collaborative editor sounds close to the chat support widget for Willow Learning I built in 2022, where the system reduced latency from 1678 ms to 187 ms. I used a JavaScript backend runtime, TypeScript, React there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "fu-q015",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "fu-q016",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "fu-q017",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "fu-q018",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "fu-q019",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q020",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "fu-q021",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": "fu-p03",
+  "text": "Your clinic booking app sounds close to the clinic booking app for Bluepeak I built in 2023, where the system handled 15k requests per day. I used OAuth, React Native, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "fu-q022",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p05",
+  "text": "Your headless storefront sounds close to the marketplace checkout for Quantum Retail I built in 2026, where the system saved about $10k per month. I used a component-based SPA, PostgreSQL, GraphQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "fu-q023",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p08",
+  "text": "Your booking saas sounds close to the team wiki for Mapleleaf I built in 2022, where the system reduced latency from 992 ms to 132 ms. I used server-side rendered React pages, OAuth, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q024",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "fu-q025",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "fu-q026",
+  "job_title": "Fitness Tracker App",
+  "category": "mobile",
+  "project_id": "fu-p03",
+  "text": "Your clinic booking app sounds close to the clinic booking app for Bluepeak I built in 2023, where the system handled 15k requests per day. I used OAuth, a cross-platform mobile app, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-06-01"
+ },
+ {
+  "id": "fu-q027",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": "fu-p03",
+  "text": "Your clinic booking app sounds close to the clinic booking app for Bluepeak I built in 2023, where the system handled 15k requests per day. I used OAuth, React Native, GraphQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "fu-q028",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your headless storefront sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, Stripe, a JavaScript backend runtime there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fu-q029",
+  "job_title": "Clinic Booking App",
+  "category": "mobile",
+  "project_id": "fu-p11",
+  "text": "Your delivery driver app sounds close to the fitness tracker app for Corvid Labs I built in 2023, where the system handled 37k requests per day. I used GraphQL, a cross-platform mobile app, OAuth there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "fu-q030",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q031",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": "fu-p06",
+  "text": "Your collaborative editor sounds close to the collaborative editor for Homestead I built in 2026, where the system handled 30k requests per day. I used TypeScript, Celery, cloud infrastructure on EC2 and S3 there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "fu-q032",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "fu-q033",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p08",
+  "text": "Your hr onboarding app sounds close to the team wiki for Mapleleaf I built in 2022, where the system reduced latency from 992 ms to 132 ms. I used Next.js, social login and token-based sessions, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q034",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p09",
+  "text": "Your headless storefront sounds close to the marketplace checkout for Parcelly I built in 2022, where the system raised conversion by 13%. I used a component-based SPA, Next.js, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q035",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p08",
+  "text": "Your booking saas sounds close to the team wiki for Mapleleaf I built in 2022, where the system reduced latency from 992 ms to 132 ms. I used Next.js, OAuth, statically typed JavaScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "fu-q036",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "fu-q037",
+  "job_title": "Live Dispatch Board",
+  "category": "realtime_apps",
+  "project_id": "fu-p14",
+  "text": "Your collaborative editor sounds close to the chat support widget for Willow Learning I built in 2022, where the system reduced latency from 1678 ms to 187 ms. I used Node.js, TypeScript, React there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q038",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "fu-q039",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "fu-q040",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q041",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "fu-q042",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q043",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "fu-q044",
+  "job_title": "Auction Platform",
+  "category": "realtime_apps",
+  "project_id": "fu-p10",
+  "text": "Your collaborative editor sounds close to the chat support widget for Parcelly I built in 2024, where the system improved accuracy from 68% to 84%. I used Celery, Django, WebSockets there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q045",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-06-01"
+ },
+ {
+  "id": "fu-q046",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q047",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your invoicing portal sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used subscription billing and card payments, a relational database with migrations, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q048",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "fu-q049",
+  "job_title": "Auction Platform",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "fu-q050",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "fu-q051",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": "fu-p10",
+  "text": "Your live dispatch board sounds close to the chat support widget for Parcelly I built in 2024, where the system improved accuracy from 68% to 84%. I used Celery, Django, real-time push updates to the browser there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q052",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "fu-q053",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "fu-q054",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": "fu-p15",
+  "text": "Your clinic booking app sounds close to the delivery driver app for Tradewise I built in 2026, where the system saved about $8k per month. I used statically typed JavaScript, a cross-platform mobile app, a JavaScript backend runtime there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "fu-q055",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your headless storefront sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used a typed query API, Stripe, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q056",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p17",
+  "text": "Your subscription box shop sounds close to the B2B ordering portal for Northwind I built in 2022, where the system improved accuracy from 75% to 90%. I used a JavaScript backend runtime, GraphQL, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "fu-q057",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your headless storefront sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, Stripe, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q058",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p05",
+  "text": "Your b2b ordering portal sounds close to the marketplace checkout for Quantum Retail I built in 2026, where the system saved about $10k per month. I used React, PostgreSQL, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q059",
+  "job_title": "Clinic Booking App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "fu-q060",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your b2b ordering portal sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, Stripe, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "fu-q061",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "fu-q062",
+  "job_title": "Live Dispatch Board",
+  "category": "realtime_apps",
+  "project_id": "fu-p10",
+  "text": "Your auction platform sounds close to the chat support widget for Parcelly I built in 2024, where the system improved accuracy from 68% to 84%. I used Celery, Django, real-time push updates to the browser there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "fu-q063",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p04",
+  "text": "Your invoicing portal sounds close to the booking SaaS for Bluepeak I built in 2026, where the system reduced latency from 2335 ms to 293 ms. I used TypeScript, OAuth, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "fu-q064",
+  "job_title": "Clinic Booking App",
+  "category": "mobile",
+  "project_id": "fu-p07",
+  "text": "Your clinic booking app sounds close to the expense scanner app for Quantum Retail I built in 2023, where the system cut manual effort by 21%. I used a cross-platform mobile app, social login and token-based sessions, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q065",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "fu-q066",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p01",
+  "text": "Your marketplace checkout sounds close to the subscription box shop for Sagebrush I built in 2023, where the system handled 25k requests per day. I used React, utility-first styling, Next.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "fu-q067",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p01",
+  "text": "Your b2b ordering portal sounds close to the subscription box shop for Sagebrush I built in 2023, where the system handled 25k requests per day. I used a component-based SPA, Tailwind CSS, server-side rendered React pages there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "fu-q068",
+  "job_title": "Fitness Tracker App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "fu-q069",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your team wiki sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used subscription billing and card payments, PostgreSQL, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "fu-q070",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "fu-q071",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-01-01"
+ },
+ {
+  "id": "fu-q072",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p01",
+  "text": "Your marketplace checkout sounds close to the subscription box shop for Sagebrush I built in 2023, where the system handled 25k requests per day. I used a component-based SPA, Tailwind CSS, server-side rendered React pages there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "fu-q073",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p05",
+  "text": "Your marketplace checkout sounds close to the marketplace checkout for Quantum Retail I built in 2026, where the system saved about $10k per month. I used React, PostgreSQL, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q074",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your hr onboarding app sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used Stripe, a relational database with migrations, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "fu-q075",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p09",
+  "text": "Your subscription box shop sounds close to the marketplace checkout for Parcelly I built in 2022, where the system raised conversion by 13%. I used a component-based SPA, Next.js, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fu-q076",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "fu-q077",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "won",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q078",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "fu-q079",
+  "job_title": "Auction Platform",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "fu-q080",
+  "job_title": "Fitness Tracker App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "fu-q081",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "fu-q082",
+  "job_title": "Fitness Tracker App",
+  "category": "mobile",
+  "project_id": "fu-p11",
+  "text": "Your expense scanner app sounds close to the fitness tracker app for Corvid Labs I built in 2023, where the system handled 37k requests per day. I used GraphQL, React Native, OAuth there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-11-01"
+ },
+ {
+  "id": "fu-q083",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p04",
+  "text": "Your team wiki sounds close to the booking SaaS for Bluepeak I built in 2026, where the system reduced latency from 2335 ms to 293 ms. I used TypeScript, OAuth, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q084",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p04",
+  "text": "Your invoicing portal sounds close to the booking SaaS for Bluepeak I built in 2026, where the system reduced latency from 2335 ms to 293 ms. I used statically typed JavaScript, OAuth, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "fu-q085",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": "fu-p02",
+  "text": "Your collaborative editor sounds close to the chat support widget for Mapleleaf I built in 2022, where the system cut manual effort by 30%. I used Node.js, React, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "fu-q086",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "fu-q087",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p05",
+  "text": "Your subscription box shop sounds close to the marketplace checkout for Quantum Retail I built in 2026, where the system saved about $10k per month. I used React, a relational database with migrations, GraphQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "fu-q088",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your hr onboarding app sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "fu-q089",
+  "job_title": "Live Dispatch Board",
+  "category": "realtime_apps",
+  "project_id": "fu-p10",
+  "text": "Your live dispatch board sounds close to the chat support widget for Parcelly I built in 2024, where the system improved accuracy from 68% to 84%. I used a background task queue on Redis, Django, WebSockets there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-12-01"
+ },
+ {
+  "id": "fu-q090",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": "fu-p14",
+  "text": "Your auction platform sounds close to the chat support widget for Willow Learning I built in 2022, where the system reduced latency from 1678 ms to 187 ms. I used a JavaScript backend runtime, TypeScript, React there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "fu-q091",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your team wiki sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used subscription billing and card payments, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "fu-q092",
+  "job_title": "Live Dispatch Board",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "replied",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fu-q093",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "fu-q094",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your headless storefront sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, Stripe, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "won",
+  "date": "2024-12-01"
+ },
+ {
+  "id": "fu-q095",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": "fu-p15",
+  "text": "Your delivery driver app sounds close to the delivery driver app for Tradewise I built in 2026, where the system saved about $8k per month. I used TypeScript, a cross-platform mobile app, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "fu-q096",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": "fu-p09",
+  "text": "Your marketplace checkout sounds close to the marketplace checkout for Parcelly I built in 2022, where the system raised conversion by 13%. I used a component-based SPA, Next.js, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q097",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "fu-q098",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": "fu-p07",
+  "text": "Your clinic booking app sounds close to the expense scanner app for Quantum Retail I built in 2023, where the system cut manual effort by 21%. I used React Native, OAuth, GraphQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "fu-q099",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "fu-q100",
+  "job_title": "Live Dispatch Board",
+  "category": "realtime_apps",
+  "project_id": "fu-p10",
+  "text": "Your auction platform sounds close to the chat support widget for Parcelly I built in 2024, where the system improved accuracy from 68% to 84%. I used a background task queue on Redis, a batteries-included Python web framework, WebSockets there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q101",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": "fu-p10",
+  "text": "Your live dispatch board sounds close to the chat support widget for Parcelly I built in 2024, where the system improved accuracy from 68% to 84%. I used a background task queue on Redis, Django, WebSockets there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q102",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": "fu-p08",
+  "text": "Your team wiki sounds close to the team wiki for Mapleleaf I built in 2022, where the system reduced latency from 992 ms to 132 ms. I used an app-router React framework, social login and token-based sessions, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fu-q103",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": "fu-p11",
+  "text": "Your fitness tracker app sounds close to the fitness tracker app for Corvid Labs I built in 2023, where the system handled 37k requests per day. I used GraphQL, React Native, social login and token-based sessions there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-05-01"
+ },
+ {
+  "id": "fu-q104",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": "fu-p15",
+  "text": "Your delivery driver app sounds close to the delivery driver app for Tradewise I built in 2026, where the system saved about $8k per month. I used TypeScript, a cross-platform mobile app, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "fu-q105",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": "fu-p04",
+  "text": "Your invoicing portal sounds close to the booking SaaS for Bluepeak I built in 2026, where the system reduced latency from 2335 ms to 293 ms. I used TypeScript, OAuth, utility-first styling there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "fu-q106",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "fu-q107",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your booking saas sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used subscription billing and card payments, PostgreSQL, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "fu-q108",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your marketplace checkout sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, subscription billing and card payments, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-07-01"
+ },
+ {
+  "id": "fu-q109",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your booking saas sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-02-01"
+ },
+ {
+  "id": "fu-q110",
+  "job_title": "Auction Platform",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "fu-q111",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "fu-q112",
+  "job_title": "Clinic Booking App",
+  "category": "mobile",
+  "project_id": "fu-p11",
+  "text": "Your expense scanner app sounds close to the fitness tracker app for Corvid Labs I built in 2023, where the system handled 37k requests per day. I used GraphQL, React Native, social login and token-based sessions there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-07-01"
+ },
+ {
+  "id": "fu-q113",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": "fu-p02",
+  "text": "Your collaborative editor sounds close to the chat support widget for Mapleleaf I built in 2022, where the system cut manual effort by 30%. I used a JavaScript backend runtime, a component-based SPA, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "fu-q114",
+  "job_title": "Live Dispatch Board",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "fu-q115",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p01",
+  "text": "Your b2b ordering portal sounds close to the subscription box shop for Sagebrush I built in 2023, where the system handled 25k requests per day. I used React, utility-first styling, server-side rendered React pages there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-05-01"
+ },
+ {
+  "id": "fu-q116",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your booking saas sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used subscription billing and card payments, PostgreSQL, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-11-01"
+ },
+ {
+  "id": "fu-q117",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-04-01"
+ },
+ {
+  "id": "fu-q118",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": "fu-p04",
+  "text": "Your team wiki sounds close to the booking SaaS for Bluepeak I built in 2026, where the system reduced latency from 2335 ms to 293 ms. I used TypeScript, social login and token-based sessions, Tailwind CSS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-04-01"
+ },
+ {
+  "id": "fu-q119",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p08",
+  "text": "Your team wiki sounds close to the team wiki for Mapleleaf I built in 2022, where the system reduced latency from 992 ms to 132 ms. I used Next.js, OAuth, statically typed JavaScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "fu-q120",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "fu-q121",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your invoicing portal sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-11-01"
+ },
+ {
+  "id": "fu-q122",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": "fu-p07",
+  "text": "Your expense scanner app sounds close to the expense scanner app for Quantum Retail I built in 2023, where the system cut manual effort by 21%. I used React Native, OAuth, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "fu-q123",
+  "job_title": "Hr Onboarding App",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-03-01"
+ },
+ {
+  "id": "fu-q124",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "fu-q125",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": "fu-p03",
+  "text": "Your clinic booking app sounds close to the clinic booking app for Bluepeak I built in 2023, where the system handled 15k requests per day. I used OAuth, React Native, GraphQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q126",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your hr onboarding app sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, Tailwind CSS, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2025-05-01"
+ },
+ {
+  "id": "fu-q127",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p01",
+  "text": "Your headless storefront sounds close to the subscription box shop for Sagebrush I built in 2023, where the system handled 25k requests per day. I used React, Tailwind CSS, Next.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "fu-q128",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": "fu-p17",
+  "text": "Your marketplace checkout sounds close to the B2B ordering portal for Northwind I built in 2022, where the system improved accuracy from 75% to 90%. I used Node.js, GraphQL, PostgreSQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-08-01"
+ },
+ {
+  "id": "fu-q129",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": "fu-p05",
+  "text": "Your headless storefront sounds close to the marketplace checkout for Quantum Retail I built in 2026, where the system saved about $10k per month. I used React, PostgreSQL, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-12-01"
+ },
+ {
+  "id": "fu-q130",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q131",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your marketplace checkout sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used a typed query API, Stripe, a JavaScript backend runtime there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-02-01"
+ },
+ {
+  "id": "fu-q132",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": "fu-p03",
+  "text": "Your fitness tracker app sounds close to the clinic booking app for Bluepeak I built in 2023, where the system handled 15k requests per day. I used social login and token-based sessions, a cross-platform mobile app, GraphQL there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "fu-q133",
+  "job_title": "B2B Ordering Portal",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your marketplace checkout sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used a typed query API, subscription billing and card payments, a JavaScript backend runtime there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-09-01"
+ },
+ {
+  "id": "fu-q134",
+  "job_title": "Expense Scanner App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-09-01"
+ },
+ {
+  "id": "fu-q135",
+  "job_title": "Headless Storefront",
+  "category": "ecommerce",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-04-01"
+ },
+ {
+  "id": "fu-q136",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": "fu-p06",
+  "text": "Your live dispatch board sounds close to the collaborative editor for Homestead I built in 2026, where the system handled 30k requests per day. I used statically typed JavaScript, Celery, AWS there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "fu-q137",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p12",
+  "text": "Your team wiki sounds close to the HR onboarding app for Quantum Retail I built in 2023, where the system handled 22k requests per day. I used Stripe, utility-first styling, statically typed JavaScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q138",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-08-01"
+ },
+ {
+  "id": "fu-q139",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-08-01"
+ },
+ {
+  "id": "fu-q140",
+  "job_title": "Marketplace Checkout",
+  "category": "ecommerce",
+  "project_id": "fu-p05",
+  "text": "Your b2b ordering portal sounds close to the marketplace checkout for Quantum Retail I built in 2026, where the system saved about $10k per month. I used React, PostgreSQL, a typed query API there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-03-01"
+ },
+ {
+  "id": "fu-q141",
+  "job_title": "Invoicing Portal",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hello, I have read your job post and I am the perfect fit. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2025-01-01"
+ },
+ {
+  "id": "fu-q142",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2024-07-01"
+ },
+ {
+  "id": "fu-q143",
+  "job_title": "Subscription Box Shop",
+  "category": "ecommerce",
+  "project_id": "fu-p13",
+  "text": "Your marketplace checkout sounds close to the headless storefront for Kitebird I built in 2022, where the system saved about $16k per month. I used GraphQL, Stripe, a JavaScript backend runtime there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-02-01"
+ },
+ {
+  "id": "fu-q144",
+  "job_title": "Team Wiki",
+  "category": "saas_web",
+  "project_id": "fu-p16",
+  "text": "Your hr onboarding app sounds close to the booking SaaS for Willow Learning I built in 2024, where the system reduced latency from 1759 ms to 394 ms. I used subscription billing and card payments, PostgreSQL, utility-first styling there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-10-01"
+ },
+ {
+  "id": "fu-q145",
+  "job_title": "Fitness Tracker App",
+  "category": "mobile",
+  "project_id": "fu-p15",
+  "text": "Your clinic booking app sounds close to the delivery driver app for Tradewise I built in 2026, where the system saved about $8k per month. I used TypeScript, React Native, Node.js there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2024-03-01"
+ },
+ {
+  "id": "fu-q146",
+  "job_title": "Delivery Driver App",
+  "category": "mobile",
+  "project_id": null,
+  "text": "Hi there! I am very interested in this opportunity and can start immediately. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-01-01"
+ },
+ {
+  "id": "fu-q147",
+  "job_title": "Collaborative Editor",
+  "category": "realtime_apps",
+  "project_id": "fu-p02",
+  "text": "Your collaborative editor sounds close to the chat support widget for Mapleleaf I built in 2022, where the system cut manual effort by 30%. I used Node.js, React, TypeScript there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "ignored",
+  "date": "2025-10-01"
+ },
+ {
+  "id": "fu-q148",
+  "job_title": "Booking Saas",
+  "category": "saas_web",
+  "project_id": null,
+  "text": "Dear Hiring Manager, I am a passionate and hardworking professional. I have many years of experience and I guarantee quality work. Please check my profile.",
+  "outcome": "ignored",
+  "date": "2026-06-01"
+ },
+ {
+  "id": "fu-q149",
+  "job_title": "Chat Support Widget",
+  "category": "realtime_apps",
+  "project_id": "fu-p06",
+  "text": "Your auction platform sounds close to the collaborative editor for Homestead I built in 2026, where the system handled 30k requests per day. I used TypeScript, Celery, cloud infrastructure on EC2 and S3 there. For your project I would start with a short scoping call, then ship a first milestone within two weeks.",
+  "outcome": "replied",
+  "date": "2026-03-01"
+ }
+]

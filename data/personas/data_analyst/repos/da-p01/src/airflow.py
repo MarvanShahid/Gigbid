@@ -1,0 +1,3 @@
+from airflow import DAG
+with DAG('orders_daily', schedule='@daily') as dag:
+    ...
