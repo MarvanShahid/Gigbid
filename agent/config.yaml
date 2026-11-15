@@ -124,7 +124,7 @@ policy:
   large_budget_connects_multiplier: 1.5
 
 mcp:
-  timeout_seconds: 20
+  timeout_seconds: 120
   retries: 3
   backoff_seconds: 0.5
   allowlists:                         # A6: each agent gets only the tools it needs

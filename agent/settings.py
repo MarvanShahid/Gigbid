@@ -10,6 +10,24 @@ from typing import Any
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def _load_dotenv() -> None:
+    """Load ROOT/.env into the environment (values already set in the shell win)."""
+    env = ROOT / ".env"
+    if not env.exists():
+        return
+    for line in env.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        val = val.split(" #")[0].strip().strip('"').strip("'")
+        if val and key.strip() not in os.environ:
+            os.environ[key.strip()] = val
+
+
+_load_dotenv()
 _ENV = re.compile(r"\$\{([A-Z0-9_]+)(?::-([^}]*))?\}")
 
 

@@ -14,14 +14,14 @@ PORTFOLIO_ROOT=~/my_portfolio PORTFOLIO_OWNER=me gigbid-portfolio-mcp
 gigbid-portfolio-mcp --http --port 8202               # streamable HTTP with bearer auth (MCP_TOKENS)
 
 # without installing, via uv
-uvx --from git+https://github.com/<your-account>/gigbid gigbid-portfolio-mcp
+uvx --from git+https://github.com/MarvanShahid/Gigbid gigbid-portfolio-mcp
 ```
 
 Claude Desktop (`claude_desktop_config.json`):
 
 ```json
 {"mcpServers": {"portfolio": {"command": "uvx",
-  "args": ["--from", "git+https://github.com/<your-account>/gigbid", "gigbid-portfolio-mcp"],
+  "args": ["--from", "git+https://github.com/MarvanShahid/Gigbid", "gigbid-portfolio-mcp"],
   "env": {"PORTFOLIO_ROOT": "/path/to/my_portfolio", "PORTFOLIO_OWNER": "me"}}}}
 ```
 

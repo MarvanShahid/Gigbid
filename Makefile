@@ -53,4 +53,4 @@ demo:            ## scripted demo: one job inbox -> approved proposal, one scam,
 lint:
 	ruff check agent rag mcp_servers apps/api worker evals sim scripts tests
 	$(PY) scripts/check_repo_rules.py
-	cd $(WEB) && npx tsc --noEmit
+	if [ -d $(WEB)/node_modules ]; then cd $(WEB) && npx tsc --noEmit; else echo "skip web typecheck (run npm ci in $(WEB))"; fi

@@ -8,8 +8,10 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -e ".[dev]"
-      - name: lint + repo rules (no secrets, gigsim/ untouched, prompts only in agent/prompts, numbers cite results)
-        run: make lint PY=python
+      - name: lint
+        run: ruff check agent rag mcp_servers apps/api worker evals sim scripts tests
+      - name: repo rules (no secrets, gigsim/ untouched, prompts only in agent/prompts, numbers cite results)
+        run: python scripts/check_repo_rules.py
       - name: unit, integration, contract (schema snapshot) tests
         run: python -m pytest
         env: { GIGBID_PROFILE: rules, GIGBID_EMBEDDER: hashed-tfidf, GIGBID_RERANKER: lexical }
@@ -23,6 +25,9 @@ jobs:
         with: { node-version: "22" }
       - run: pip install -e .
       - run: npm ci && npx playwright install --with-deps chromium
+        working-directory: apps/web
+      - name: typecheck web (generated OpenAPI client must match)
+        run: npx tsc --noEmit
         working-directory: apps/web
       - run: npx next build && npx playwright test
         working-directory: apps/web

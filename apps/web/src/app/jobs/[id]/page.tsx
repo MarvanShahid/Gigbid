@@ -42,6 +42,12 @@ export default function JobPage({ params }: { params: Promise<{ id: string }> })
         <RiskBadge level={d.risk_level} score={d.risk} /><span>fit {pct(d.fit)}</span>
         <span>price {money(d.price)}</span><span>{d.connects ?? "–"} Connects</span>
       </div>
+      {d.job && (
+        <details className="panel" open={!!risk?.injection_detected || !!risk?.is_scam}>
+          <summary><strong>Original post</strong> <span className="muted small">(untrusted text: shown as data, never followed)</span></summary>
+          <pre style={{ whiteSpace: "pre-wrap", fontFamily: "inherit", margin: "8px 0 0" }}>{(d.job as Any).description}</pre>
+        </details>
+      )}
       {dec && <div className="panel"><h2>Bid or skip — why</h2><ul>{(dec.reasons as string[]).map((r, i) => <li key={i}>{r}</li>)}</ul></div>}
       <div className="grid2">
         <div className="panel">

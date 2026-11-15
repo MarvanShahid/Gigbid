@@ -137,11 +137,17 @@ def main() -> None:
         sel = argok = toks = 0
         per = []
         for t in T:
-            msg = bound.invoke([("system", "You are GigBid's assistant. Call exactly one tool to answer."), ("user", t["q"])])
-            call = msg.tool_calls[0] if msg.tool_calls else None
+            try:
+                msg = bound.invoke([("system", "You are GigBid's assistant. Call exactly one tool to answer."), ("user", t["q"])])
+                call = msg.tool_calls[0] if msg.tool_calls else None
+            except Exception as e:  # noqa: BLE001  provider rejected the call, e.g. a hallucinated tool name
+                import re as _re
+                m = _re.search(r"attempted to call tool '([^']+)'", str(e))
+                call = {"name": m.group(1) if m else "<error>", "args": {}, "error": str(e)[:200]}
+                msg = None
             s, a = score(t, call, name == "coarse")
             sel += s; argok += a
-            toks += (msg.usage_metadata or {}).get("total_tokens", 0)
+            toks += ((msg.usage_metadata or {}).get("total_tokens", 0)) if msg is not None else 0
             per.append({"q": t["q"], "expected": t["tool"], "got": call, "selection_ok": s, "args_ok": a})
         res[name] = {"selection_accuracy": sel / len(T), "argument_accuracy": argok / len(T),
                      "tokens_per_task": toks / len(T), "calls": per}

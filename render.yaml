@@ -1,0 +1,23 @@
+# Render blueprint: New > Blueprint > pick this repo. Set the secret env vars in the dashboard.
+services:
+  - type: web
+    name: gigbid
+    runtime: docker
+    dockerfilePath: infra/docker/allinone.Dockerfile
+    plan: free
+    healthCheckPath: /login
+    envVars:
+      - key: GIGBID_PROFILE
+        value: open
+      - key: GROQ_API_KEY
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: APPROVAL_SECRET
+        generateValue: true
+      - key: REVIEWER_PASSWORD
+        sync: false
+      - key: GIGBID_EMBEDDER
+        value: hashed-tfidf      # the free plan's 512 MB RAM cannot hold the bge models; see docs/RUNBOOK.md
+      - key: GIGBID_RERANKER
+        value: lexical

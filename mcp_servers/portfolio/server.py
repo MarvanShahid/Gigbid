@@ -14,6 +14,7 @@ import argparse
 import json
 import os
 
+import anyio
 from mcp.server.fastmcp import FastMCP
 from mcp.types import ToolAnnotations
 
@@ -27,8 +28,8 @@ mcp = FastMCP("gigbid-portfolio", instructions=(
 
 
 @mcp.tool(annotations=READ, structured_output=True)
-def search_evidence(requirement: str, k: int = 5, filters: T.EvidenceFilters | None = None,
-                    owner: str | None = None) -> list[T.EvidenceItem]:
+async def search_evidence(requirement: str, k: int = 5, filters: T.EvidenceFilters | None = None,
+                          owner: str | None = None) -> list[T.EvidenceItem]:
     """Find portfolio evidence (case studies, repo code, reviews, CV lines) that proves ONE job requirement.
 
     Args:
@@ -38,15 +39,15 @@ def search_evidence(requirement: str, k: int = 5, filters: T.EvidenceFilters | N
         owner: portfolio owner id (defaults to PORTFOLIO_OWNER).
     Returns items with type, source, date and (for past proposals) outcome.
     """
-    return T.search_evidence(requirement, max(1, min(k, 20)), filters, owner)
+    return await anyio.to_thread.run_sync(lambda: T.search_evidence(requirement, max(1, min(k, 20)), filters, owner))
 
 
 @mcp.tool(annotations=READ, structured_output=True)
-def retrieve_for_job(job_text: str, requirements: list[str] | None = None, k: int = 6,
-                     owner: str | None = None) -> T.JobEvidence:
+async def retrieve_for_job(job_text: str, requirements: list[str] | None = None, k: int = 6,
+                           owner: str | None = None) -> T.JobEvidence:
     """Run the full shipped retrieval pipeline for a whole job post: one retrieval per requirement, merged,
     with a map from each requirement to the evidence ids that support it and the requirements nothing supports."""
-    return T.retrieve_for_job(job_text, requirements, max(1, min(k, 20)), owner)
+    return await anyio.to_thread.run_sync(lambda: T.retrieve_for_job(job_text, requirements, max(1, min(k, 20)), owner))
 
 
 @mcp.tool(annotations=READ)

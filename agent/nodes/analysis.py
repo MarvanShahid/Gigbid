@@ -254,7 +254,7 @@ def _find_key(d: dict, text: str) -> str:
     return text
 
 
-@node("matcher", timeout=90)
+@node("matcher", timeout=300)
 async def matcher(state: dict) -> dict:
     job, user = state["job"], state["user"]
     clean, _ = neutralise(job.get("description", ""))
