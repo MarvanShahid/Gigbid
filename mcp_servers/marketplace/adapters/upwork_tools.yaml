@@ -1,0 +1,13 @@
+# Mapping from GigBid's marketplace port to tools on Upwork's official MCP server.
+# The tool names below are placeholders to be confirmed with scripts/upwork_list_tools.py
+# once an Upwork account is connected (the tool list is only visible after OAuth).
+# Only the right-hand side changes when Upwork renames a tool; the graph never sees these names.
+search_jobs:          {tool: search_jobs,            args: {query: query, limit: limit}}
+get_job:              {tool: get_job_details,        args: {job_id: id}}
+get_client_history:   {tool: get_client_details,     args: {client_id: id}}
+get_connects_balance: {tool: get_connects_balance,   args: {}}
+list_messages:        {tool: list_message_rooms,     args: {}}
+create_proposal_draft: {tool: create_proposal_draft, args: {job_id: jobId, cover_letter: coverLetter, bid_amount: amount, answers: answers}}
+send_message:         {tool: create_message_draft,   args: {thread_id: roomId, text: message}}
+# Upwork exposes no market statistics and no "submit" without confirmation; GigBid computes
+# price statistics from its own history and the user confirms every draft on Upwork.
